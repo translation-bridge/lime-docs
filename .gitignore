@@ -15,6 +15,7 @@
 *.pdata
 *.run.xml
 *.autosave
+*.pdf.txt
 
 ## ignore .pdf just form the root dir (.pdf maybe sources in other subdirs)
 /*.pdf
