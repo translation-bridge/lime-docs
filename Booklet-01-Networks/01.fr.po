@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-08 09:04:50+0000\n"
+"PO-Revision-Date: 2018-11-12 07:44:31+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -64,7 +64,7 @@ msgstr "5a)\nRéseaux libres, communautaires et décentralisés"
 
 #: 01.en.txt:44
 msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
-msgstr ""
+msgstr "5b)\nEn décidant de nous connecter à internet, nous en devenons une partie et nous pouvons choisir comment participer à ce réseau global de réseaux."
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
@@ -80,7 +80,7 @@ msgstr "6b)\nUtilisation libre\nNeutralité\nInterconnexion libre\nTransit libre
 
 #: 01.en.txt:65
 msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
-msgstr ""
+msgstr "6c)\nPropriété collective\nGestion sociale\nArchitecture accessible\nParticipation ouverte"
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
@@ -88,7 +88,7 @@ msgstr "6d)\nDistribué\nRedimensionnable\nA bas coût"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr ""
+msgstr "7a)\nLes réseaux communautaires ont des caractéristiques spécifiques qui les définissent et qui constituent leurs forces:"
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
@@ -124,11 +124,11 @@ msgstr ""
 
 #: 01.en.txt:118
 msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
-msgstr ""
+msgstr "11b)\nQuand nous disons que nous voulons créer des réseaux libres, décentralisés et communautaires, nous voulons dire construire collectivement notre petite partie d'internet afin d'être nous-même plus libre et communautaires [ou d'esprit communautaire]."
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
-msgstr ""
+msgstr "12a)\nLe projet LibreRouter : une communauté pour votre réseau"
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
@@ -136,19 +136,19 @@ msgstr ""
 
 #: 01.en.txt:132
 msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
-msgstr ""
+msgstr "13a)\nLe projet LibreRouter développe le matériel, le logiciel et la documentation à destination des besoins des zones du grand sud exclues du numérique.\nQuelques caractéristiques notables comprennent:"
 
 #: 01.en.txt:139
 msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
-msgstr ""
+msgstr "13b)\nMatériel\nLe routeur et ses antennes sont protégés par des coques en plastiques résistant à l'eau.\nLe circuit imprimé possède différents connecteurs disponibles pour adapter le noeud aux usages particuliers. Par exemple, un module GPS.\nL'architecture du matériel est disponible pour quiconque voudrait l'étudier, le modifier ou le reproduire, depuis que le matériel est sous licence libre.\nLe LibreRouter est fourni prêt à l'utilisation avec LibreMesh préinstallé."
 
 #: 01.en.txt:145
 msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
-msgstr ""
+msgstr "14a)\nLogiciel \nLes applications et les programmes sont conçus comme des parties d'un processus dans lequel les gens sans connaissances sur les réseaux peuvent apprendre à configurer, déployer, gérer et dépanner le réseau avec facilité.\nSimplifier l'expansion du réseau. De nouveaux noeuds auto-configurables basés sur l'information qu'ils reçoivent des noeuds existants.\nTout le logiciel développé par AlterMundi a une licence libre, aussi chacun peut l'utiliser et l'adapter à ses besoins."
 
 #: 01.en.txt:151
 msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
-msgstr ""
+msgstr "14b)\nDocumentation\nNotre documentation explique l'utilisation du LibreRouter et les applications associées.\nSur notre site web docs.altermundi.net toute la documentation est disponible sous format illustré et audiovisuel en plusieurs langues.\nChacun peut utiliser gratuitement, copier, modifier, traduire et partager notre contenu."
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
@@ -168,5 +168,5 @@ msgstr ""
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr ""
+msgstr "16)\nExiste-t-il un projet communautaire ?\nComptez sur nous.\nNous aimerions beaucoup que vous nous rejoigniez!\ninfo@altermundi.net\nDavantage d'information et de documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
 

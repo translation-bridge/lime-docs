@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-08 09:04:51+0000\n"
+"PO-Revision-Date: 2018-11-12 07:44:31+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,11 +23,11 @@ msgstr "2a)\nL'ingrédient clé pour démarrer un réseau communautaire c'est d'
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
-msgstr ""
+msgstr "2b)\nComme point de départ, il est nécessaire de former un groupe de personnes intéressées pour travailler pour l'autonomie de leur communications, et qui ressentent la nécessité d'implémenter ce projet qui est très technique, certes, mais par dessus tout, très social."
 
 #: 02-en-Planning.txt:17
 msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
-msgstr ""
+msgstr "3)\nPlanifier\nAnalyser notre communauté\nOrganiser l'action\nPenser au financement\nOrganiser l'administration\nPlanifier le déploiement"
 
 #: 02-en-Planning.txt:20
 msgid "4a)\nAnalyze our community"
@@ -63,7 +63,7 @@ msgstr "7a)\nOrganiser l'action"
 
 #: 02-en-Planning.txt:54
 msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
-msgstr ""
+msgstr "7b)\nConcevoir une organisation du travail, de la communication, de l'apprentissage, et rassembler ce qui implique et qui incite tous à participer, est un grand défi et est vital pour le fonctionnement d'un réseau communautaire gratuit/libre."
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
@@ -87,7 +87,7 @@ msgstr "10a)\nPensez au financement"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b)\nEn faisant une analyse économique, nous pourrons estimer et planifier l'investissement monétaire nécessaire à l'implémentation du projet et à le maintenir dans la durée."
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
@@ -115,7 +115,7 @@ msgstr "13a)\nOrganiser l'administration"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
-msgstr ""
+msgstr "13b)\nGarder un record de confiance géré par les membres du résau qui veulent prendre les rôles d'administrateurs, est vital pour un fonctionnement organisé et ordonné du réseau."
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"

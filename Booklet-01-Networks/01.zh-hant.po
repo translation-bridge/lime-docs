@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-08 09:04:50+0000\n"
+"PO-Revision-Date: 2018-11-12 07:44:31+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -59,15 +59,15 @@ msgstr ""
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
-msgstr ""
+msgstr "5a)\n自由、社區與分散網絡"
 
 #: 01.en.txt:44
 msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
-msgstr ""
+msgstr "5b)\n在決定連接至網際網路之後，我們會成為其中的一份子，並且會選擇來如何參與全球網際網路。"
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr ""
+msgstr "5c)\n一個開放、中立，且分散的網路是透過社區以協作和共識所建置。此過程聯合了自主、永續性，以及自由社區網絡的功能。\n同時，這允許社區顧及當地特性與所需，來設計他們所擁有網路的架構與功能。\n自由社區網絡允許學習與了解網路功能運作，以能夠做出有關網路的決策，並且不會從屬於在多數情況下，會與社區利益相對的商業規範或是強制標準。\n對技術的使用與理解提升了包容性、對數位資源的取用、促進教育、學習、分享知識、建立本地通訊方式與多媒體、公民參與、以及社會與區域經濟。"
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
