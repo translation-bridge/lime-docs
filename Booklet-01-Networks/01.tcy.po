@@ -1,8 +1,7 @@
-# Translation of LibreMesh - Booklet 1: Networks to French (français)
+# Translation of LibreMesh - Booklet 1: Networks to Tulu (ತುಳು)
 # Exported from translatewiki.net
 #
-# Author: Gomoko
-# Author: Wladek92
+# Author: Ravi Mundkur
 msgid ""
 msgstr ""
 ""
@@ -10,61 +9,61 @@ msgstr ""
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: fr\n"
+"Language: tcy\n"
 "X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-10-26\n"
-"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: 01.en.txt:3
 msgid "1)\nLibre, Community and Decentralised Networks"
-msgstr "1)\nRéseaux libres, communautaires et décentralisés"
+msgstr ""
 
 #: 01.en.txt:8
 msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
-msgstr "2a)\nAlterMundi facilite la naissance de réseaux libres et communautaires connectés à Internet dans un but d’émancipation populaire basée sur l’appropriation de la technologie au moyen de collaboration entre pairs et l’utilisation et le développement de logiciel et de matériel libres.\nL’objectif principal est de développer un modèle de réseau pour la mise à disposition automatique de services de communication dans les régions numériquement exclues.\nBasé sur l’effort et l’organisation de la communauté, ce modèle offre l’opportunité de répondre à un besoin désormais considéré comme de base pour le développement humain : la communication numérique."
+msgstr ""
 
 #: 01.en.txt:11
 msgid "3a)\nOur little piece of the internet"
-msgstr "3a)\nNotre petite pièce d'internet"
+msgstr ""
 
 #: 01.en.txt:14
 msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
-msgstr "3b)\n\"Actuellement 52% des gens qui vivent sur terre n'ont pas d'accès à internet.\" *"
+msgstr ""
 
 #: 01.en.txt:18
 msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
-msgstr "3c)\nCette inégalité est plus profonde dans les zones rurales d’Afrique, d’Amérique latine et globalement du sud, là où la faible densité de population et un faible revenu ne génèrent que peu de motivation pour le déploiement d’une infrastructure de service commerciale. Cela les transforme en zones numériquement exclues ou négligées.\nDans la plupart des cas, les gens vivant dans des zones numériquement exclues ont d’autres difficultés, comme des ressources économiques, d’emploi, d’éducation, de transport, d’électricité, d’égalité des genres et d’accès à la terre et à l’eau potable insuffisantes."
+msgstr "ಈ ಅಸಮಾನತೆ, ಕಡಮೆ ಜನಸಂಖ್ಯೆ ಸಾಂದ್ರತೆ ಬೊಕ ಕಡಮೆ ವರಮಾನದ ಕಾರಣ ವ್ಯಾಪಾರಿ ಜಾಲ ಸೌಕರ್ಯ ನಿಯೋಜನೆಗ್ ಬೋಡಾಯಿನ ಉತ್ತೇಜನದ ಕೊರತೆ ಉಪ್ಪುನ ಆಫ್ರಿಕಾ,ಲ್ಯಾಟೀನ್ ಅಮೇರಿಕಾ ಬೊಕ ದಕ್ಷಿಣ ವಿಶ್ವ ಭಾಗೊದ  ಗ್ರಾಮೀಣ ಪ್ರದೇಶೊಲೆಡ್ ಆಳವಾದುಂಡು. ಇಂಚಾದ್ ಅಯಿಕುಲು ಅಂಕಿಕವಾದ್ (ಡಿಜಿಟಲ್) ವಿಹೀನ ಇಜಿಂಡ ನಿರ್ಲಕ್ಷಿತ ಪ್ರದೇಶೊಲಾಪಾ.\nದಿಂಜ ಪ್ರಕರಣೊಲೆಡ್,ಅಂಕಿಕ ವಿಹೀನ ಪ್ರದೇಶೊಲೆಡ್ ಬದುಕುನ ಜನಕುಲೆಗ್ ಉಪ್ಪುನ ಇತರ ಸಮಸ್ಯೆಲು ಇನ್ನಗ ಆರ್ಥಿಕ ಕೊರತೆ, ಉದ್ಯೋಗ, ವಿದ್ಯಾಭ್ಯಾಸ, ಪ್ರಯಾಣ ಸಾರಿಗೆ, ವಿದ್ಯುಚಕ್ತಿ, ಲಿಂಗ ಅಸಮಾನತೆ, ನೆಲ-ಸುಜಲ ಅಲಭ್ಯತೆ."
 
 #: 01.en.txt:21
 msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
-msgstr "3d)\nLe rôle fondamental des réseaux libres et communautaires est de faciliter la construction d’infrastructure technologique autonome à bas coût pour le déploiement de réseaux internet. L’objectif principal est de surmonter les barrières imposées par la centralisation et le contrôle de l’infrastructure de réseau commerciale et par le contenu qui circule sur cette infrastructure."
+msgstr ""
 
 #: 01.en.txt:25
 msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
-msgstr "3e)\n*L’état du haut débit : Le haut débit étant le catalyseur du développement durable. Septembre 2017 / \nCommission du Haut débit pour le Développement Durable - ITU – UNESCO"
+msgstr "ಅಗೆಲತರಂಗ(ಬ್ರಾಡ್'ಬ್ಯಾಂಡ್)ದ ಸ್ಥಿತಿ: ಸುಸ್ಥಿರ ಅಬಿವೃದ್ಧಿನ್ ಉತ್ತೇಜಿಸಾವುನ ಅಗೆಲತರಂಗ. ಸಪ್ಟೆಂಬರ್ 20117/\nಸುಸ್ಥಿರ ಅಬಿವೃದ್ಧಿಗಾದ್ ಅಗೆಲತರಂಗ ಆಯೋಗ - ಐಟಿಯು- ಯುನೆಸ್ಕೊ"
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
-msgstr "4a)\nLe défi n’est pas seulement de faciliter l’accès à Internet, mais plutôt de construire notre petite partie d'’internet via des réseaux libres et communautaires gouvernée par les communautés elles-mêmes, de manière collaborative et organisée."
+msgstr "4ಅ)"
 
 #: 01.en.txt:31
 msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
-msgstr "4b)\nInternet est un outil pour accroître la transparence et l’accès à l’information et pour faciliter l’engagement civique dans le soutien des changements sociaux, culturels, économiques et politiques qui améliorent la situation des communautés."
+msgstr "4ಆ)"
 
 #: 01.en.txt:35
 msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
-msgstr "4c)\nLes réseaux libres et communautaires encouragent la consolidation des processus coopératifs d'autonomisation de la communauté pour qu'« un autre monde soit possible »."
+msgstr ""
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
-msgstr "Vu sous cet aspect, il devient vitalet nécessaire de penser l'internet comme un bien commun (ou plusieurs biens communs)."
+msgstr "4ಈ)\nಇಂಚ ತೂನಗ,ಅಂತರ್ಜಾಲೊನು ಸಾಮಾನ್ಯ ಕಲ್ಯಾಣದ (ಇಜಿಂಡ ಸಾಮಾನ್ಯರೆನ) ಜೀವಿತ ಅಗತ್ಯ ಇಂದ್ ಎಣ್ಣೊಡಾಪುಂಡು."
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
-msgstr "5a)\nRéseaux libres, communautaires et décentralisés"
+msgstr "ಮುಕ್ತ, ಸಮುದಾಯ ಬೊಕ ವಿಕೇಂದ್ರಿತ ಜಾಲೊಲು"
 
 #: 01.en.txt:44
 msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
-msgstr "5b)\nEn décidant de nous connecter à internet, nous en devenons une partie et nous pouvons choisir comment participer à ce réseau global de réseaux."
+msgstr ""
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
@@ -72,23 +71,23 @@ msgstr ""
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
-msgstr "6a)\nRéseaux libres, communautaires décentralisés"
+msgstr "6ಅ)\nಮುಕ್ತ,ಸಮುದಾಯ ವಿಕೇಂದ್ರಿತ ಜಾಲೊಲು"
 
 #: 01.en.txt:59
 msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
-msgstr "6b)\nUtilisation libre\nNeutralité\nInterconnexion libre\nTransit libre"
+msgstr "6ಆ)\nಮುಕ್ತ ಬಳಕೆ\nನಿರ್ಲಿಪ್ತತೆ\nಮುಕ್ತ ಅಂತರಗೋಡಣೆ\nಮುಕ್ತ ಸಾಗಣೆ"
 
 #: 01.en.txt:65
 msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
-msgstr "6c)\nPropriété collective\nGestion sociale\nArchitecture accessible\nParticipation ouverte"
+msgstr "6ಸಿ)\nಸಾಮೂಹಿಕ ಆಸ್ತಿ\nಸಾಮಾಜಿಕ ನಿರ್ವಹಣೆ\nಗಮ್ಯ ವಿನ್ಯಾಸ\nಮುಕ್ತ ಪಾಲ್ಪಡೆಪಿನ"
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
-msgstr "6d)\nDistribué\nRedimensionnable\nA bas coût"
+msgstr "6ಈ)\nವಿತರಿತ\nಮಾನಸಾಧ್ಯ (ಸ್ಕೇಲೇಬಲ್)\nಕಡಮೆ ಖರ್ಚಿದ"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr "7a)\nLes réseaux communautaires ont des caractéristiques spécifiques qui les définissent et qui constituent leurs forces:"
+msgstr ""
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
@@ -96,11 +95,11 @@ msgstr ""
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
-msgstr "7c)\nUn réseau communautaire libre n'est pas un service gratuit, ou à bas coût, pour la connexion à internet. C'est un groupe de personnes organisé qui travaillent pour garantir le droit à la communication de leur communauté."
+msgstr "7ಇ)\nಒಂಜಿ ಮುಕ್ತ ಸಮುದಾಯ ಜಾಲ, ಧರ್ಮಾರ್ಥ ಅತ್ತ್ ಕಡಮೆ ಕರ್ಚಿದ ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕ ಸೇವೆಲಾ ಅತ್ತ್.\nಅವು ಒಂಜಿ ಸಮುದಾಯದ ಸಂಪರ್ಕದ ಹಕ್ಕುಗಾದ್ ಬೆನ್ಪಿನ ಜನಕುಲೆನ ಒಂಜಿ ನಿಯತ ಗುಂಪು."
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
-msgstr "8a)\nEt, en plus d'être un réseau communautaire, pour être un réseau libre, il doit satisfaire ces quatre caractéristiques:"
+msgstr ""
 
 #: 01.en.txt:100
 msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
@@ -108,51 +107,51 @@ msgstr ""
 
 #: 01.en.txt:105
 msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
-msgstr ""
+msgstr "9)\nಈ ಉದರ್ಮೆಡ್ ರಡ್ಡ್ ವಿದೊತ ಅಂತರಸಂಪರ್ಕ ಒಪ್ಪಂದೊಲೆನ್ ತೊಜಪಾದ್ಂಡ್.\n-ಸಮುದಾಯ ಜಾಲಲೆನ ಜಾಲಗು ಅಕಲೆನ ಉಲಾಯಿ ಸಮಸಮಾನೆರಾದ್, ನಿರ್ಲಿಪ್ತ ಮಾನ್ಯತೆಡ್, ಧರ್ಮಾರ್ಥವಾದ್ ಮುಕ್ತ ಸಾಗಣೆ ಬೊಕ ಅಂತರಸಂಪರ್ಕಗಾದ್ ಒಪ್ಪಂದ ಉಂಡು.ಒಪ್ಪಂದೆಲೆನ ಅನುಸಾರ ಜಾಲ ೧ ಜಾಲ, ಜಾಲ ೨ನ್ ಬುಡುದು, ಜಾಲ ೩ ತ್ತ ಒಟ್ಟುಗು ಅಡೆ ತಡೆ ದಾಂತೆ ಸಂಪರ್ಕ ಸಾಧಿಸಾವೊಲಿ.\n-ಜಾಲ ೨ ಬೊಕ ೩ ಲೆಗ್ ಅಂತರ್ಜಾಲ ಸಂಪರ್ಕೊಗು,ಒಪ್ಪಂದ ಸಂಬಂಧದ ಅನುಸಾರ, ಸಮಾನವಾದ್ ಅತ್ತ್, ಆಂಡ ಪೂರಕೆ-ಗ್ರಾಹಕೆ ಆಧಾರೊಡು,  ವ್ಯಾಪಾರಿ ಸೇವೆ ಲಭ್ಯ ಉಂಡು.ಈ ಪೂರಕೆ, ಆಯನ ಗಿರಾಕಿಲೆಗ್ ಜಾಲದ ಒವ್ವೇ ನಿಯೋಜನೆದ ಇಜಿಂಡ  ಸಂರೂಪನದ ಮಾಹಿತಿನ್ ಪಟ್ಟುಜೆ."
 
 #: 01.en.txt:109
 msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
-msgstr ""
+msgstr "10ಅ)\nಇಂಚಿನ ಮುಕ್ತ ಸಮುದಾಯ ಜಾಲೊಲೆಡ್ ಜಾಲರಿ (ಮೆಶ್) ಸ್ವರೂಪವಿಜ್ಞಾನ(ಟೋಪೋಲಜಿ)ದ ನಿಯೋಜನೆ, ವಿಕೇಂದ್ರಿಕರಣದ ಮೂಲಲಕ್ಷಣೊಡು ಪೋಂಡ, ಈ ಮಿತ್ತ್ ಪಂಡಿನ ಲಕ್ಷಣಲೆನ ಬುಳೆಚಿಲ್ಗ್ ಸಹಜವಾದ್ ಸಾದಿಯಾಪುಂಡು.\nಈ ರೀಗತಿದ ಜಾಲರಿ ಜಾಲೊಡು, ಪ್ರತಿ ನಿರ್ತಂತು ಗಂಟು (ವೈರ್ಲೆಸ್ ನೋಡ್), (ರೂಟರ್ ಬೊಕ ಆಂಟೆನ),ಕೈತಲ್ದ ಒಂಜಿ ಇಜಿಂಡ ಅಯಿಡ್ದ್ ಹೆಚ್ಚಿನ ಗಂಟುಲೆಗ್ ಗೋಡಿವುಂಡು. ಈ ರೀತಿಡ್, ಒಂಜಿ ಉಂತುನಗ, ದತ್ತಾಂಶಮಾಹಿತಿ ಸಂಚಾರದ ಸಾದಿ ತನ್ನಿಂತಾನೆ ಬದಲಾಪುಂಡು. ಅಂಚನೆ,ಉಂದೆಟ್ ಕೇಂದ್ರೀಯ ಪ್ರವೇಶ ಬಿಂದುಲು ಉಪ್ಪುನ ಅಗತ್ಯ ಇಜ್ಜಿ.ಈ ಕಾರಣೊಗಾತ್ರ, ಜಾಲರಿ ಜಾಲೊಲು, ವಿಕೇಂದ್ರಿತ ಬೊಕ ವಿತರಿತ ಜಾಲೊಲಾದುಲ್ಲಾ."
 
 #: 01.en.txt:112
 msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
-msgstr "10b)\nUn NOEUD est composé d'une antenne, d'un routeur et de logiciel permettant de se connecter."
+msgstr "10ಆ)\nಒಂಜಿ ಗಂಟ್'ಡ್ (ನೋಡ್) ಒಂಜಿ ಆಂಟೆನ, ಒಂಜಿ ರೂಟರ್ ಬೊಕ ಸಂಪರ್ಕ ಗೋಡಾವುನ ತಂತ್ರಾಂಶ ಸೇರ್ದುಂಡು."
 
 #: 01.en.txt:115
 msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
-msgstr "11a)\nCette architecture de réseau distribué est moins chère parce qu'elle ne nécessite pas de noeuds centraux coûteux. Le réseau s'agrandit de noeud en noeud, progresse régulièrement et garde les frais de déploiement et de maintenance en rapport avec ses dimensions."
+msgstr ""
 
 #: 01.en.txt:118
 msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
-msgstr "11b)\nQuand nous disons que nous voulons créer des réseaux libres, décentralisés et communautaires, nous voulons dire construire collectivement notre petite partie d'internet afin d'être nous-même plus libre et communautaires [ou d'esprit communautaire]."
+msgstr ""
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
-msgstr "12a)\nLe projet LibreRouter : une communauté pour votre réseau"
+msgstr ""
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
-msgstr ""
+msgstr "ದಿಂಜ ಸಮಯೊಡ್ದು ಇಂಚಿ,ಮುಕ್ತ ಸಮುದಾಯದ ಜಾಲೊಲೆನ್ ಸಹಯೋಗೊಡು ಬೇಲೆ ಮಲ್ತಿನ ಜನಕುಲು ಕಾರ್ಯಾಂಶ ಬರೆದ್ ಉಡೆತ್'ದ್ ರಚನೆ ಮಲ್ತ್'ದೆರ್. ಅಕುಲು ಒಟ್ಟುಗಾದ್ ಜಾಲದ ವಿಶಿಷ್ಟ ಅಗತ್ಯೊಲೆಗ್ ಅನುಸಾರವಾದ್ ಮುಕ್ತ ತಂತ್ರಾಂಶ ಬುಳೆಪಾಯೆರ್,ಲಭ್ಯ ಯಂತ್ರಾಂಶಲೆನ್ ಬದಲಿಪಾಯೆರ್. ಗೃಹೋಪಯೋಗಿ ವ್ಯಾಪಾರಿ ರೂಟರುಲೆಡ್ ಬರ್ಪಿನ ಸ್ವಾಮ್ಯಕ ತಂತ್ರಾಂಶೊಲೆನ್ ಉಪಯೋಗೊಗು ಬೋಡಾಯಿಲೆಕ್ಕ  ಬದಲಾಯಿನವು ಅಯಿಕುಲೆಡ್ ಒಂಜಿ ಸಾಧನೆ.\nಇಂಚಾದ್ ರೂಟರುಲೆನ ಪೂರ್ಣಶಕ್ತ ಬಳಕೆ ಸುರುವಾಂಡ್, ಅಯಿಕುಲೆನ ಉತ್ಪಾದಕೆರ್ ಸಂತೆದ ಚಿಂತೆಡ್ ನಿಯಂತ್ರಿಸಿದಾತ್ತಿನ ಕಾರ್ಯಕರಣೊಲುಲಾ ಸಮರ್ಥವಾದ್ ರೂಡಿಗ್ ಬತ್ತಾ.ಇಂಚಿನ ಕಾಣಿಕೆಲು ಮುಕ್ತ, ನಿರ್ಲಿಪ್ತ ಬೊಕ ವಿಕೇಂದ್ರಿತ ಜಾಲೊಲೆನ ನಿಯೋಜನೆದ ಖರ್ಚಿನ್ ಕಡಮೆ ಮಲ್ಪರೆ ಅನುಕೂಲವಾಂಡ್.ಆಗಸ್ಟ್ ೨೦೧೬ಡು ಅಮೇರಿಕಾ ಸಂಸ್ಥಾನೊಲೆನ(ಯು.ಎಸ್) ಸಂಸ್ಥೆ ಎಫ್.ಸಿ.ಸಿ(ಫೆಡರಲ್ ಕಮ್ಯೂನಿಕೇಶನ್ಸ್ ಕಮಿಶನ್)  ಮಲ್ತಿನ ಕಾನೂನು ಉತ್ಪಾದಕೆರ್ ಕಾರಖಾನೆಡ್ ಗೋಡಾಯಿನ ಸ್ಥಾಪಕ ತಂತ್ರಾಂಶೊನು ಬದಲ್ ಮಲ್ಪಂದಿಲೆಕ್ಕ ತೂವೊಂಡು. ಇಂಚಿನ ನಡವಳಿಲೆಡ್ ಸೂಕ್ತ  ಆಯ್ಕೆ ಮಲ್ಪರೆ ಶಕ್ತ ಆವಂದೆ ಸಮುದಾಯ ಜಾಲೊಲು ಅನಿಯತ ನಿರ್ಧಾರೊಲೆಗ್ ಬಲಿಪಶು ಆತಿನವು ಸ್ಪಷ್ಟವಾದುಂಡು."
 
 #: 01.en.txt:132
 msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
-msgstr "13a)\nLe projet LibreRouter développe le matériel, le logiciel et la documentation à destination des besoins des zones du grand sud exclues du numérique.\nQuelques caractéristiques notables comprennent:"
+msgstr ""
 
 #: 01.en.txt:139
 msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
-msgstr "13b)\nMatériel\nLe routeur et ses antennes sont protégés par des coques en plastiques résistant à l'eau.\nLe circuit imprimé possède différents connecteurs disponibles pour adapter le noeud aux usages particuliers. Par exemple, un module GPS.\nL'architecture du matériel est disponible pour quiconque voudrait l'étudier, le modifier ou le reproduire, depuis que le matériel est sous licence libre.\nLe LibreRouter est fourni prêt à l'utilisation avec LibreMesh préinstallé."
+msgstr ""
 
 #: 01.en.txt:145
 msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
-msgstr "14a)\nLogiciel \nLes applications et les programmes sont conçus comme des parties d'un processus dans lequel les gens sans connaissances sur les réseaux peuvent apprendre à configurer, déployer, gérer et dépanner le réseau avec facilité.\nSimplifier l'expansion du réseau. De nouveaux noeuds auto-configurables basés sur l'information qu'ils reçoivent des noeuds existants.\nTout le logiciel développé par AlterMundi a une licence libre, aussi chacun peut l'utiliser et l'adapter à ses besoins."
+msgstr "14ಅ)\nತಂತ್ರಾಂಶ\nಅರ್ಜಿಕೆಲು ಬೊಕ ಕಾರ್ಯಾಂಶೊಲೆನ್, ಜಾಲೊಲೆನ ವಿಶೇಷ ಜ್ಞಾನ ದಾಂತಿನ ಜನಕುಲುಲಾ ಸುಲಭೊಡು ಸಂರೂಪ, ನಕಾಶಿ,ಪರಿವೀಕ್ಷಣ ಬೊಕ ದುರಸ್ತಿಕಜ್ಜ ಕಲ್ತೊಣು ಲೆಕ್ಕ ವಿನ್ಯಾಸ ಮಲ್ತ್'ದ್ಂಡ್. \nಜಾಲ ವಿಸ್ತರಣ ಕಾರ್ಯ ಸರಳಿಕರಣ. ಇತ್ತಿನ ಗಂಟು(ನೋಡ್)ಲೆನ ಸ್ವೀಕೃತ  ಲಭ್ಯ ಮಾಹಿತಿದ ಆಧಾರೊಡು ಪೊಸ ಗಂಟುಲೆನ ಸ್ವಯಂ-ಸಂರೂಪನ ಸಾಧ್ಯತೆ.\nಅಲ್ಟರ್-ಮುಂಡಿ ಬುಳೆಪಾಯಿನ ಮಾತಾ ತಂತ್ರಾಂಶೊಲೆಗ್ ಮುಕ್ತ  ಪರವಾನಿ ಉಂಡು, ಆಯಿನೆಡ್ದಾವರೆ ಏರ್ಲಾ ಅವೆನ್ ಬಳಕೆ ಮಲ್ಪೊಲಿ ಬೊಕ ಅಕಲಕಲೆನ ಅಗತ್ಯೊಗು ಬೋಡಾಯಿ ಲೆಕ್ಕೊ ಬದಲಾವಣೆ ಮಲ್ತೊಣೊಲಿ."
 
 #: 01.en.txt:151
 msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
-msgstr "14b)\nDocumentation\nNotre documentation explique l'utilisation du LibreRouter et les applications associées.\nSur notre site web docs.altermundi.net toute la documentation est disponible sous format illustré et audiovisuel en plusieurs langues.\nChacun peut utiliser gratuitement, copier, modifier, traduire et partager notre contenu."
+msgstr ""
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
-msgstr "15a)\nUn réseau dans notre communauté"
+msgstr ""
 
 #: 01.en.txt:158
 msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
@@ -160,7 +159,7 @@ msgstr ""
 
 #: 01.en.txt:163
 msgid "15c)\nPlanning\nDeployment\nMaintenance"
-msgstr "15c)\nPlannification \nDéploiement\nMaintenance"
+msgstr ""
 
 #: 01.en.txt:166
 msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
@@ -168,5 +167,5 @@ msgstr ""
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr "16)\nExiste-t-il un projet communautaire ?\nComptez sur nous.\nNous aimerions beaucoup que vous nous rejoigniez!\ninfo@altermundi.net\nDavantage d'information et de documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+msgstr ""
 

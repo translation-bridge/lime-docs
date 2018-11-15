@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-12 07:44:31+0000\n"
+"PO-Revision-Date: 2018-11-15 07:18:27+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -131,7 +131,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c)\nAlors qu'il existe de nombreuses alternatives technologiques pour la construction d'un réseau communautaire, ce modèle propose le LibreRouter comme équipement primaire. Le LibreRouter permet le déploiement plus facile des réseaux cimmunautaires car il a été conçu dans cet objectif.\nLa majeure partie des noeuds du réseau ne présentera pas de grands défis. Néanmoins, il y aura des cas qui demanderont davantage d'attention créative et technique. Il sera même éventuellement nécessaire de collaborer avec les personnes au delà du réseau et qui ont la connaissance spécifique pour résoudre les problèmes particuliers."
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
