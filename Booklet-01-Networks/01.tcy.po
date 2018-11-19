@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-15 07:18:27+0000\n"
+"PO-Revision-Date: 2018-11-19 07:43:55+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: 01.en.txt:3
 msgid "1)\nLibre, Community and Decentralised Networks"
-msgstr ""
+msgstr "ಮುಕ್ತ,ಸಮುದಾಯ ಬೊ ವಿಕೇಂದ್ರಿಕೃತ ಜಾಲೊಲು"
 
 #: 01.en.txt:8
 msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
@@ -87,7 +87,7 @@ msgstr "6ಈ)\nವಿತರಿತ\nಮಾನಸಾಧ್ಯ (ಸ್ಕೇಲೇ�
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr ""
+msgstr "ಸಮುದಾಯ ಜಾಲೊಲೆಗ್, ಅಯಿಕುಲೆನ್ ವಾಕ್ಕಿಸಾವುನ (ವ್ಯಾಖಿಸಾವುನ) ಅಂಚನೆ ಅಯಿಕುಲೆನ ಬಲ ಆದಿಪ್ಪುನ ವಿಶಿಷ್ಟ ಗುಣಲಕ್ಷಣೊಲು ಉಲ್ಲ."
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
@@ -127,7 +127,7 @@ msgstr ""
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
-msgstr ""
+msgstr "LibreRouter (ಮುಕ್ತರೂಟರ್) ಯೋಜನೆ:ಇರೆನ ಜಾಲೊಗು ಒಂಜಿ ಸಮುದಾಯ"
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
@@ -151,7 +151,7 @@ msgstr ""
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
-msgstr ""
+msgstr "15ಅ)\nಇರೆನ ಸಮುದಾಯೊಡು ಒಂಜಿ ಜಾಲ"
 
 #: 01.en.txt:158
 msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
@@ -159,7 +159,7 @@ msgstr ""
 
 #: 01.en.txt:163
 msgid "15c)\nPlanning\nDeployment\nMaintenance"
-msgstr ""
+msgstr "15ಇ)\nಯೋಜಿಸಾವುನಿ\nಪ್ರತಿನಿಯೋಜನೆ\nಪ್ರತಿಪಾಲನೆ"
 
 #: 01.en.txt:166
 msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
