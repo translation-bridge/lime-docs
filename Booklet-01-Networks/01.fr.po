@@ -6,12 +6,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-15 07:18:27+0000\n"
+"PO-Revision-Date: 2018-11-22 06:32:38+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: fr\n"
-"X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-10-26\n"
+"X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-11-05\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #: 01.en.txt:3
@@ -68,7 +68,7 @@ msgstr "5b)\nEn décidant de nous connecter à internet, nous en devenons une pa
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr ""
+msgstr "5c)\nUn réseau ouvert, neutre et décentralisé est construit par les communautés via des accords et des consensus. ce processus collabore avec l’autonomie, la durabilité et le fonctionnement du réseau de la communauté libre.\nEn même temps, il donne les moyens à la communauté de concevoir la structure et le fonctionnement de ses propres réseaux, en respectant les identités locales et les besoins.\nLes réseaux de communauté libres permettent d’apprendre et de savoir comment fonctionne le réseau, pour pouvoir prendre des décisions concernant le réseau et ne pas être subordonné à des règles commerciales ou à des critères imposés qui, dans la plupart des cas, sont opposés aux intérêts de la communauté.\nL’utilisation et la compréhension des technologies promeut un accès ouvert et conscient aux ressources numériques, facilite l’éducation, l’apprentissage, le partage de connaissance, la création de moyens locaux de communication et de média, l’engagement civique et social, et l’économie régionale."
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
@@ -92,7 +92,7 @@ msgstr "7a)\nLes réseaux communautaires ont des caractéristiques spécifiques 
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
-msgstr ""
+msgstr "7b)\nPropriété collective\nCela veut dire que l’infrastructure (les antennes, les routeurs, les câbles, etc.) sont la propriété de tous les membres du réseau et de la communauté qui le déploie. Il n’y a pas de propriétaire individuel ni privé, et aucun n’est plus important que les autres.\nGestion sociale\nCela veut dire que le réseau est administré par les membres du réseau. Il n’y a personne qui dirige, mais plutôt, les décisions sont prises par chacun.\nConception accessible\nL’information sur la manière dont le réseau et des composants fonctionnent est publique et accessible, de façon à ce que chacun puisse connaître et apprendre, mais aussi copier et partager.\nParticipation ouverte\nCela veut dire que quiconque peut rejoindre ou étendre le réseau, en respectant sa conception, ses principes et la manière dont il est organisé."
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."

@@ -5,12 +5,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-12 07:44:31+0000\n"
+"PO-Revision-Date: 2018-11-22 06:32:38+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: zh-Hant\n"
-"X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-10-26\n"
+"X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-11-05\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: 01.en.txt:3
@@ -119,11 +119,11 @@ msgstr ""
 
 #: 01.en.txt:115
 msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
-msgstr ""
+msgstr "11a)\n分散式網路設計擁有較低的成本，因為可以不需要花費較高的中心節點。網路是以從節點至節點來成長，逐步擴張，並以網路規模來維持部署與維護成本。"
 
 #: 01.en.txt:118
 msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
-msgstr ""
+msgstr "11b)\n當我們表示想要建立自由分散社區網絡時，代表著我們會一同建置我們的小型網際網路，以讓我們自己能夠更自由以及自治，或是社區更有活力。"
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
