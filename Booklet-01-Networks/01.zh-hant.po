@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-22 06:32:38+0000\n"
+"PO-Revision-Date: 2018-11-29 16:56:40+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -147,11 +147,11 @@ msgstr ""
 
 #: 01.en.txt:151
 msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
-msgstr ""
+msgstr "14b)\n說明文件\n我們的說明文件解釋了 LibreRouter 方面的使用，以及相關的應用程式。\n在我們的 docs.altermundi.net 網站上，所有說明文件都有以插圖、視聽形式，以及多種語言提供。\n任何人都可免費使用、複製、變動、翻譯，以及分享我們的內容。"
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
-msgstr ""
+msgstr "15a)\n在您社區的網絡"
 
 #: 01.en.txt:158
 msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
