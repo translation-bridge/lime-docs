@@ -1,7 +1,7 @@
-# Translation of LibreMesh - Booklet 2: Planning to Traditional Chinese (中文（繁體）‎)
+# Translation of LibreMesh - Booklet 2: Planning to Simplified Chinese (中文（简体）‎)
 # Exported from translatewiki.net
 #
-# Author: Kly
+# Author: A Chinese Wikipedian
 msgid ""
 msgstr ""
 ""
@@ -9,139 +9,139 @@ msgstr ""
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh-Hant\n"
+"Language: zh-Hans\n"
 "X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-11-05\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 #: 02-en-Planning.txt:3
 msgid "1)\nPLANNING A FREE/LIBRE COMMUNITY NETWORK"
-msgstr "1)\n規劃免費/自由的社區網絡"
+msgstr "1）\n规划免费/社区网络"
 
 #: 02-en-Planning.txt:6
 msgid "2a)\nThe key ingredient to start a community network is the community!"
-msgstr "2a)\n要開始一個社區網絡的重點 ─ 就是社區！"
+msgstr "2a）\n启动社区网络的关键因素是社区！"
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
-msgstr "2b)\n在一開始，有需要組織一群有興趣投入在自主他們通信方面的人士。他們要覺得有必要實行這項要求技術，並且非常社交性質的專案。"
+msgstr "2b）\n作为起点，有必要组成一个有兴趣为交流的自主性而工作的小组，他们觉得有必要实施这个技术性很强、但最重要的是社会性很强的项目。"
 
 #: 02-en-Planning.txt:17
 msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
-msgstr "3)\n規劃\n分析我們的社區\n組織行動\n考慮資金\n組織管理\n規劃部屬"
+msgstr "3）\n规划\n分析我们的社区\n组织行动\n融资考虑\n组织管理\n计划部署"
 
 #: 02-en-Planning.txt:20
 msgid "4a)\nAnalyze our community"
-msgstr "4a)\n分析我們的社區"
+msgstr "4a）\n分析我们的社区"
 
 #: 02-en-Planning.txt:23
 msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
-msgstr "4b)\n社會文化分析將社會背景因素給連接起來，把理解需求、規範，以及我們社區的價值觀給相結合，來讓我們能規劃出合適的解決方案。"
+msgstr "4b）\n社会文化分析将社会环境的因素联系在一起，这些因素与定义我们社区的需求、规范和价值观的理解一起允许我们设计适当的解决方案。"
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
-msgstr ""
+msgstr "4c）\n分析我们作为一个社区的现实将有助于我们作出明智的集体决定，并建立一个代表我们的身份。\n关于我们的免费/图书馆社区网络的特征的决策将基于我们社区中存在的关系类型。\n这就是做这个分析如此重要的原因了：预见在我们网络项目中可能出现的关于将使用它的人和他们将使用它的方式的局限性和必要性。"
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
-msgstr "5a)\n要指引您自己在此分析，您可以考慮："
+msgstr "5a）\n在这个分析中引导自己，您可以思考："
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr "5b)\n是什麼動機促成建立免費/自由社區網絡？\n社區有多少居民？\n誰會使用網路並出於何種目的？\n您也可以進行非正式的人口普查，並記錄下年齡層、性別，或是其它相關特徵。\n重要的是要考慮是否有特定條件，例如季節性的工作事項讓人口在一年內時間裡突然增加或減少。\n哪幾種活動在區域裡佔有多數，以及網路會如何影響它們？\n是否有反覆出現的脅迫情況？\n網路成員具備怎樣的網路設施知識以及取用權限？\n基於過往專案經歷，社區存在何種程度的社會責任？"
+msgstr "5b）\n是什么促使了免费/社区网络的建设？\n这个社区有多少居民？\n谁会使用网络和什么？\n您也可以做一个非正式的人口普查，记录年龄组、性别或其他相关特征。\n考虑诸如季节性工作活动之类的特定条件是否会使人口根据一年中的时间突然增长或减少是很重要的。\n什么活动在该地区占主导地位，网络如何影响他们？\n有反复出现的威胁吗？\n网络成员对互联网设备有什么了解和访问？\n根据以往的经验，社会上存在什么样的社会责任？"
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
-msgstr ""
+msgstr "6a）\n理想是创建一个既是数字网络，又由与社区关系密切的人员组成的网络。为了实现这一目标，社区实体和空间的包容和参与非常重要，例如学校、俱乐部、政府实体、媒体、住房、文化中心、广场和公共交通站。"
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
-msgstr ""
+msgstr "6b）\n举几个例子：在旅游地区，为了维持网络的良好功能，网络在假期期间必须限制访问。其他地区已经做出“教父母”安排，以帮助那些由于各种文化原因而不可能自己管理网络节点的家庭。由于其他通信服务完全没有覆盖，也有一些地方决定在公共区域开放其网络。"
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
-msgstr "7a)\n組織行動"
+msgstr "7a）\n组织行动"
 
 #: 02-en-Planning.txt:54
 msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
-msgstr ""
+msgstr "7b）\n设计一个包含并激励所有人参与的工作、交流、学习和聚会的组织是一个巨大的挑战，并且对于免费/图书馆社区网络的运行至关重要。"
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
-msgstr ""
+msgstr "7c）\n通常，当人们聚集在一起工作时，人们之间的多样性突出了彼此互补的独特态度和个人知识。\n定义角色、集体工作领域和内部沟通实践使自我管理能够保持项目的长期进行。\n为新工作选择名称和设计徽标或代表性图像支持集体身份的创建。制作一个网站也可以做到这一点。"
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
-msgstr ""
+msgstr "8a）\n定义短期目标和长期目标有助于加快和明确团队工作流程的方向。此外，它鼓励成员在解决问题和集体参与决策方面发挥积极作用。\n可以预料网络成员会表现出不同程度的承诺。有些人会付出比别人更多的努力，或者发展不同的能力。\n因此，为了参与项目，定义所有成员都应该满足的最小承诺是健康的。\n对网络特征的阐述和分享——比如关于网络是什么、其成员应该如何行动以及它们的特定角色的对话——使项目变得清晰。"
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
-msgstr ""
+msgstr "9a）\n定期的亲自会议是创建社区空间、进行决策、共享知识、计划和解决问题的一个非常重要的工具。会议还提供了建立集体和社区身份的空间，并邀请其他人加入网络。"
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
-msgstr ""
+msgstr "9b）\n举一些例子：有些网络每月召开一次会议，会议议程提前制订，议题有待讨论，会议记录有书面记录。通过这种方式，摘要可以与不能出席的人员共享，也可以放入网络的归档中。\n在其他情况下，为希望成为网络一部分的人们组织了谈话和研讨会。有时，新成员的会议是强制性的。\n在一些网络中，网络成员之间的频繁对话通过群组通信工具、交换意见、特定问题或信息发生。"
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
-msgstr ""
+msgstr "10a）\n融资考虑"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b）\n进行经济分析将允许我们估计和计划实施项目所需的货币投资，并随着时间推移而持续下去。"
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
-msgstr ""
+msgstr "10c）\n了解我们的网络运行需要多少资金将允许我们评估不同的自我管理和融资机制，以适应网络采购、建设、安装、修理、增长和升级的不同阶段。\n因此，一方面，我们必须考虑我们需要多少钱和其他资源，另一方面，我们将如何获得它们。"
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"
-msgstr "11a)\n有許多方式可獲得資源，例如像是："
+msgstr "11a）\n获取资源的方式多种多样，如："
 
 #: 02-en-Planning.txt:96
 msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
-msgstr ""
+msgstr "11b）\n捐赠和非货币交换，如易货交易\n直接融资，如订阅，每月网络会员费，或捐款\n共享资金，如互助基金\n基金会或社区协会的参与\n公共财政，如补贴或与政府实体的伙伴关系\n企业捐赠或捐助\n组织筹集资金的活动，等等……\n选择的组合使项目更加可持续。"
 
 #: 02-en-Planning.txt:100
 msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
-msgstr ""
+msgstr "12a）\n网络的部署和初始建设往往是最复杂和苛刻的时刻，因为除了节点之外，还需要获得工具和必要的材料，还要记住一些额外的钱来购买替换品。\n团体的大宗或批发采购显著降低了成本并创造了材料的可用性，但同时需要更大的货币投资。"
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
-msgstr ""
+msgstr "12b）\n为了举例说明我们如何考虑融资，我们可以搜索社区网络，其中每个加入的人各自承担其节点的成本。在其它网络中，节点仅在安装时付费，并且修理和升级从由每个成员的每月捐款创建的集体基金中支付。\n还有一个网络，第一个节点由NGO出资，互联网链路由本地ISP处理，网络成员进行安装。"
 
 #: 02-en-Planning.txt:107
 msgid "13a)\nOrganize the administration"
-msgstr "13a)\n組織管理"
+msgstr "13a）\n组织管理"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
-msgstr ""
+msgstr "13b）\n保持由想要承担管理员角色的网络成员维护的可靠记录对于网络的有组织和有序运行是至关重要的。"
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
-msgstr ""
+msgstr "13c）\n这允许我们对货币、材料、工具和其他资源的流动具有集体的知识。一些最常见的记录：\n制订和计划采购\n材料和工具清单，以及它们存放的地方\n可用材料价格表，考虑更换\n资金和其他价值投入网络的细节\n对项目重要的协议和文件存档\n定期责任，付款，报告等日历\n联系人目录"
 
 #: 02-en-Planning.txt:123
 msgid "14a)\nPlan the deployment/installation"
-msgstr "14a)\n規劃部署/安裝"
+msgstr "14a）\n计划部署/安装"
 
 #: 02-en-Planning.txt:126
 msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
-msgstr ""
+msgstr "14b）\n在网络部署之前进行技术分析可以高效地组织任务和资源。在执行任务时拥有一切必要的东西有助于团队变得敏捷和整洁，并且任务能够按时完成，并且状态良好。这包括执行任务所需的材料和知识。"
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c）\n虽然社区网络的构建有许多技术选择，但是这个模型提出了LibreRouter作为主要设备。LibreRouter使libre社区网络的部署更加容易，因为其设计目标就是这样。\n网络中绝大多数节点将不会面临巨大的挑战。然而，将需要更多的创造性和更多的技术关注的情况。甚至有必要与具有特定知识以解决特定问题的网络之外的人员协作。"
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
-msgstr ""
+msgstr "15a）\n具有更高技术特征的成员可以辩论，例如，以下主题："
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
-msgstr ""
+msgstr "15b）\n网络的结构将是什么，无论是在开始还是在成长中\n如何通过建立冗余链路来加强网络，从而通过多条路径到达同一点\n识别数据流量较大或负担过重的节点，保证其正常运行\n创建到网络中相关点的多个路径，例如与Internet或本地服务器的连接\n识别需要特定或更强大的设备\n解决非常规电能问题\n帮助在网络上共享服务和内容的方法"
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
-msgstr ""
+msgstr "15c）\n在某些情况下，可能需要安装具有与其他节点不同的天线的节点，并且还可以方便地部署具有电缆而不是无线链路的网络部分。有些情况需要非常规的电源或备用电池。每个网络都将呈现其技术特性，这些特性应该通过耐心、创造性以及网络内外的协作来解决。"
 

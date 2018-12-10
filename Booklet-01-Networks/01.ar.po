@@ -1,7 +1,7 @@
-# Translation of LibreMesh - Booklet 1: Networks to Traditional Chinese (中文（繁體）‎)
+# Translation of LibreMesh - Booklet 1: Networks to Arabic (العربية)
 # Exported from translatewiki.net
 #
-# Author: Kly
+# Author: Meno25
 msgid ""
 msgstr ""
 ""
@@ -9,13 +9,13 @@ msgstr ""
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh-Hant\n"
+"Language: ar\n"
 "X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-11-05\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ( (n == 1) ? 1 : ( (n == 2) ? 2 : ( (n%100 >= 3 && n%100 <= 10) ? 3 : ( (n%100 >= 11 && n%100 <= 99) ? 4 : 5 ) ) ) );\n"
 
 #: 01.en.txt:3
 msgid "1)\nLibre, Community and Decentralised Networks"
-msgstr "1)\n自由、社區與分散網絡"
+msgstr "1)\nشبكات لا مركزية، للمجتمع وحرة"
 
 #: 01.en.txt:8
 msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
@@ -23,23 +23,23 @@ msgstr ""
 
 #: 01.en.txt:11
 msgid "3a)\nOur little piece of the internet"
-msgstr "3a)\n我們的小網際網路"
+msgstr "3a)\nقطعتنا الصغيرة من الإنترنت"
 
 #: 01.en.txt:14
 msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
-msgstr "3b)\n\"目前，在地球上仍有 52% 的人無法使用網際網路。\" *"
+msgstr "3b)\n\"حاليا 52% من الناس الذين يعيشون على الأرض ليس لديهم اتصال بالإنترنت.\" *"
 
 #: 01.en.txt:18
 msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
-msgstr "3c)\n這種不平等現象，於非洲、拉丁美洲、全球南端的鄉村區域裡更為嚴重。在那裡，低人口密度與低收入情況導致缺乏誘因部署商業網路設施，這讓那些地方成為在數位化時代裡被排除或忽視區域。\n在大部分情況下，生活在數位化時代裡被排除或忽視區域的那些人們，也會有像是經濟資源、就業、教育、大眾交通、電力、性別平等，以及獲得土地和乾淨飲水等方面困難。"
+msgstr ""
 
 #: 01.en.txt:21
 msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
-msgstr "3d)\n自由社群網絡的定位，是要促進用於部屬網際網路的低成本自主技術設施方面的施工。主要的目標，是要克服由商業網路設施與其設施所流通內容，導致出的控制與集中現象方面障礙。"
+msgstr ""
 
 #: 01.en.txt:25
 msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
-msgstr "3e)\n*寬頻狀況：寬頻促進永續發展。2017 年 9 月/ \n永續發展寬頻委員會 - 國際電信聯盟 – 聯合國教育、科學及文化組織"
+msgstr ""
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
@@ -55,35 +55,35 @@ msgstr ""
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
-msgstr ""
+msgstr "4d)\nبالرؤية بهذه الطريقة، من الضروري التفكير في الإنترنت كمنفعة عامة (منفعة لكل الناس)."
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
-msgstr "5a)\n自由、社區與分散網絡"
+msgstr "5a)\nشبكات لا مركزية، للمجتمع وحرة"
 
 #: 01.en.txt:44
 msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
-msgstr "5b)\n在決定連接至網際網路之後，我們會成為其中的一份子，並且會選擇來如何參與全球網際網路。"
+msgstr ""
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr "5c)\n一個開放、中立，且分散的網路是透過社區以協作和共識所建置。此過程聯合了自主、永續性，以及自由社區網絡的功能。\n同時，這允許社區顧及當地特性與所需，來設計他們所擁有網路的架構與功能。\n自由社區網絡允許學習與了解網路功能運作，以能夠做出有關網路的決策，並且不會從屬於在多數情況下，會與社區利益相對的商業規範或是強制標準。\n對技術的使用與理解提升了包容性、對數位資源的取用、促進教育、學習、分享知識、建立本地通訊方式與多媒體、公民參與、以及社會與區域經濟。"
+msgstr ""
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
-msgstr "6a)\n自由、社區分散網絡"
+msgstr "6a)\nشبكات لا مركزية، للمجتمع وحرة"
 
 #: 01.en.txt:59
 msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
-msgstr "6b)\n自由使用\n中立\n自由互連\n自由通過"
+msgstr "6b)\nاستخدام حر\nحيادية\nتوصيل ليبر\nنقل ليبر"
 
 #: 01.en.txt:65
 msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
-msgstr "6c)\n集體資產\n群體管理\n無障礙設計\n公開參與"
+msgstr "6c)\nملكية جماعية\nإدارة اجتماعية\nتصميم يمكن الوصول إليه\nمشاركة مفتوحة"
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
-msgstr "6d)\n分散式\n可擴充\n低成本"
+msgstr "6d)\nموزعة\nيمكن تكبيرها\nتكلفة قليلة"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
@@ -99,7 +99,7 @@ msgstr ""
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
-msgstr "8a)\n另外，除了身為社區網絡，要成為自由的網路還必須符合以下四個特點："
+msgstr ""
 
 #: 01.en.txt:100
 msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
@@ -115,19 +115,19 @@ msgstr ""
 
 #: 01.en.txt:112
 msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
-msgstr ""
+msgstr "10b)\nنقطة توصيل تتكون من هوائي، محدد مسار والبرنامج الذين يسمح بالتوصيل."
 
 #: 01.en.txt:115
 msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
-msgstr "11a)\n分散式網路設計擁有較低的成本，因為可以不需要花費較高的中心節點。網路是以從節點至節點來成長，逐步擴張，並以網路規模來維持部署與維護成本。"
+msgstr ""
 
 #: 01.en.txt:118
 msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
-msgstr "11b)\n當我們表示想要建立自由分散社區網絡時，代表著我們會一同建置我們的小型網際網路，以讓我們自己能夠更自由以及自治，或是社區更有活力。"
+msgstr ""
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
-msgstr ""
+msgstr "12a)\nمشروع LibreRouter: مجتمع لشبكتك"
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
@@ -135,11 +135,11 @@ msgstr ""
 
 #: 01.en.txt:132
 msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
-msgstr "13a)\nLibreRouter 專案針對位在南半球裡被數位化時代給排除的區域，來開發出那些區域所需要的硬體、軟體、以及文件。\n一些值得注意的特點包含："
+msgstr ""
 
 #: 01.en.txt:139
 msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
-msgstr "13b)\n硬體\n路由器與天線透過能抵抗氣候的塑膠殼所保護。\n電路板含有各種不同的可用連結器，以讓節點能適用於特定用途，例如像是 GPS 模組。\n出於是自由硬體緣故，硬體的設計內容可讓任何想要了解、重新更改、仿造的人來利用。\nLibreRouter 是與預設安裝的 LibreMesh 一起使用。"
+msgstr ""
 
 #: 01.en.txt:145
 msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
@@ -147,11 +147,11 @@ msgstr ""
 
 #: 01.en.txt:151
 msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
-msgstr "14b)\n說明文件\n我們的說明文件解釋了 LibreRouter 方面的使用，以及相關的應用程式。\n在我們的 docs.altermundi.net 網站上，所有說明文件都有以插圖、視聽形式，以及多種語言提供。\n任何人都可免費使用、複製、變動、翻譯，以及分享我們的內容。"
+msgstr ""
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
-msgstr "15a)\n在您社區的網絡"
+msgstr "15a)\nشبكة في مجتمعك"
 
 #: 01.en.txt:158
 msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
@@ -159,7 +159,7 @@ msgstr ""
 
 #: 01.en.txt:163
 msgid "15c)\nPlanning\nDeployment\nMaintenance"
-msgstr "15c)\n規劃\n部署\n維護"
+msgstr "15c)\nالتخطيط\nالتنفيذ\nالصيانة"
 
 #: 01.en.txt:166
 msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
@@ -167,5 +167,5 @@ msgstr ""
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr "16)\n有關於社區網絡的專案嗎？\n請向我們聯絡。\n我們樂意加入您！\ninfo@altermundi.net\n更多資訊與文件\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+msgstr ""
 

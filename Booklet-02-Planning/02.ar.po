@@ -1,7 +1,7 @@
-# Translation of LibreMesh - Booklet 2: Planning to Traditional Chinese (中文（繁體）‎)
+# Translation of LibreMesh - Booklet 2: Planning to Arabic (العربية)
 # Exported from translatewiki.net
 #
-# Author: Kly
+# Author: Meno25
 msgid ""
 msgstr ""
 ""
@@ -9,33 +9,33 @@ msgstr ""
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh-Hant\n"
+"Language: ar\n"
 "X-Generator: MediaWiki 1.33.0-alpha; Translate 2018-11-05\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ( (n == 1) ? 1 : ( (n == 2) ? 2 : ( (n%100 >= 3 && n%100 <= 10) ? 3 : ( (n%100 >= 11 && n%100 <= 99) ? 4 : 5 ) ) ) );\n"
 
 #: 02-en-Planning.txt:3
 msgid "1)\nPLANNING A FREE/LIBRE COMMUNITY NETWORK"
-msgstr "1)\n規劃免費/自由的社區網絡"
+msgstr "1)\nتخطيط شبكة مجتمع حرة/ليبر"
 
 #: 02-en-Planning.txt:6
 msgid "2a)\nThe key ingredient to start a community network is the community!"
-msgstr "2a)\n要開始一個社區網絡的重點 ─ 就是社區！"
+msgstr "2a)\nالمكون الرئيسي لبدء شبكة مجتمع هو المجتمع!"
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
-msgstr "2b)\n在一開始，有需要組織一群有興趣投入在自主他們通信方面的人士。他們要覺得有必要實行這項要求技術，並且非常社交性質的專案。"
+msgstr ""
 
 #: 02-en-Planning.txt:17
 msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
-msgstr "3)\n規劃\n分析我們的社區\n組織行動\n考慮資金\n組織管理\n規劃部屬"
+msgstr ""
 
 #: 02-en-Planning.txt:20
 msgid "4a)\nAnalyze our community"
-msgstr "4a)\n分析我們的社區"
+msgstr "4a)\nحلل مجتمعنا"
 
 #: 02-en-Planning.txt:23
 msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
-msgstr "4b)\n社會文化分析將社會背景因素給連接起來，把理解需求、規範，以及我們社區的價值觀給相結合，來讓我們能規劃出合適的解決方案。"
+msgstr ""
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
@@ -43,11 +43,11 @@ msgstr ""
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
-msgstr "5a)\n要指引您自己在此分析，您可以考慮："
+msgstr "5a)\nلإرشاد نفسك في هذا التحليل، يمكنك التفكير ب:"
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr "5b)\n是什麼動機促成建立免費/自由社區網絡？\n社區有多少居民？\n誰會使用網路並出於何種目的？\n您也可以進行非正式的人口普查，並記錄下年齡層、性別，或是其它相關特徵。\n重要的是要考慮是否有特定條件，例如季節性的工作事項讓人口在一年內時間裡突然增加或減少。\n哪幾種活動在區域裡佔有多數，以及網路會如何影響它們？\n是否有反覆出現的脅迫情況？\n網路成員具備怎樣的網路設施知識以及取用權限？\n基於過往專案經歷，社區存在何種程度的社會責任？"
+msgstr ""
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
@@ -59,7 +59,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
-msgstr "7a)\n組織行動"
+msgstr "7a)\nنظم الفعل"
 
 #: 02-en-Planning.txt:54
 msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
@@ -83,7 +83,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
-msgstr ""
+msgstr "10a)\nفكر حول التمويل"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
@@ -95,7 +95,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"
-msgstr "11a)\n有許多方式可獲得資源，例如像是："
+msgstr "11a)\nهناك طرق متعددة للحصول على الموارد، مثل:"
 
 #: 02-en-Planning.txt:96
 msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
@@ -111,7 +111,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:107
 msgid "13a)\nOrganize the administration"
-msgstr "13a)\n組織管理"
+msgstr "13a)\nتنظيم الإدارة"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
@@ -123,7 +123,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:123
 msgid "14a)\nPlan the deployment/installation"
-msgstr "14a)\n規劃部署/安裝"
+msgstr "14a)\nخطط التنفيذ/التنصيب"
 
 #: 02-en-Planning.txt:126
 msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
@@ -135,7 +135,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
-msgstr ""
+msgstr "15a)\nالأعضاء الذين لديهم خبرة تقنية أكثر يمكنهم الجدل، مثلا، حول المواضيع التالية:"
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
