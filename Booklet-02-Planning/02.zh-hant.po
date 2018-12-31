@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-12-10 07:14:28+0000\n"
+"PO-Revision-Date: 2018-12-31 17:00:22+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -51,7 +51,7 @@ msgstr "5b)\n是什麼動機促成建立免費/自由社區網絡？\n社區有�
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
-msgstr ""
+msgstr "6a)\n理想是建立一個數位化以及讓人們能與社區有密切關聯的網絡。要實現這個目的，社區實體與空間的包容和參與是非常重要的，例如學校、俱樂部、政府實體、媒體、住宅、文化中心、廣場、和公共轉運站。"
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
@@ -83,11 +83,11 @@ msgstr ""
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
-msgstr ""
+msgstr "10a)\n考慮籌措資金"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b)\n進行經濟分析能允許我們來估計並計劃金融投資的必要性，以長期實行並持續專案。"
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
@@ -135,7 +135,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
-msgstr ""
+msgstr "15a)\n具有更高技術特質的成員可以辯論，例如以下主題："
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"

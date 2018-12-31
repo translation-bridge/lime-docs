@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-12-10 07:14:28+0000\n"
+"PO-Revision-Date: 2018-12-31 17:00:23+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -87,7 +87,7 @@ msgstr "6d)\n分散式\n可擴充\n低成本"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr ""
+msgstr "7a)\n社區網絡具有定義它們的特點，並且是它們的優勢："
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
@@ -95,7 +95,7 @@ msgstr ""
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
-msgstr ""
+msgstr "7c)\n一個自由社區網絡不是用於網際網路連接的免費或低成本服務。\n而是一群致力於確保他們的社區在通訊方面權利的人們，所構成的組織群組。"
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
@@ -115,7 +115,7 @@ msgstr ""
 
 #: 01.en.txt:112
 msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
-msgstr ""
+msgstr "10b)\n一個節點是由天線、路由器、以及允許連接的軟體所組成。"
 
 #: 01.en.txt:115
 msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
@@ -127,7 +127,7 @@ msgstr "11b)\n當我們表示想要建立自由分散社區網絡時，代表著
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
-msgstr ""
+msgstr "12a)\nLibreRouter 專案：適用於您的網絡的社區"
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
