@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-12-31 17:00:22+0000\n"
+"PO-Revision-Date: 2019-01-07 09:14:26+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -115,7 +115,7 @@ msgstr "13a)\n組織管理"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
-msgstr ""
+msgstr "13b)\n維持由有意擔任管理員身份的網路成員所維護的可靠紀錄，對於有組織及有序運作的網路是事關重要的。"
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"

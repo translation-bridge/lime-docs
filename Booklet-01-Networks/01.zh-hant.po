@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-12-31 17:00:23+0000\n"
+"PO-Revision-Date: 2019-01-07 09:14:26+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +43,7 @@ msgstr "3e)\n*寬頻狀況：寬頻促進永續發展。2017 年 9 月/ \n永續
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
-msgstr ""
+msgstr "4a)\n挑戰不僅在於促進網路取用，還有以協作與組織的方式，來透過由社區本身所管控的自由社區網絡建置出屬於我們的網路部份。"
 
 #: 01.en.txt:31
 msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
