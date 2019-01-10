@@ -1,12 +1,13 @@
 # Translation of LibreMesh - Booklet 1: Networks to French (français)
 # Exported from translatewiki.net
 #
+# Author: Cquoi
 # Author: Gomoko
 # Author: Wladek92
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-11-22 06:32:38+0000\n"
+"PO-Revision-Date: 2019-01-10 07:52:26+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -104,7 +105,7 @@ msgstr "8a)\nEt, en plus d'être un réseau communautaire, pour être un réseau
 
 #: 01.en.txt:100
 msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
-msgstr ""
+msgstr "8b)\nLibre utilisation\nIl permet un trafic illimité pour recevoir et offrir tout type de service et de contenu, dans la mesure où cela n'affecte pas le bon fonctionnement du réseau. En d'autres termes, le flux de données sur le réseau est inconditionnel.\nNeutralité\nCette caractéristique signifie que le trafic de données est géré de manière égalitaire, sans discrimination fondée sur le contenu, la plate-forme, l'application ou le type d'équipement utilisé pour l'accès. Les flux de données au sein du réseau ne sont pas hiérarchisés ni modifiés arbitrairement.\nLibre interconnexion\nIl s'agit de garantir l'interconnexion entre les réseaux, avec un flux de données libre, neutre et sans frais dans les deux sens, réciproquement.\nLibre transit\nDeux réseaux qui ont conclu un accord de libre transit permettent non seulement le trafic de données entre eux, mais aussi le flux de trafic destiné à d'autres réseaux avec lesquels ils ont conclu des accords similaires. Les données peuvent donc traverser un réseau libre pour en atteindre un autre, élargissant ainsi la portée du \"réseau des réseaux libres\"."
 
 #: 01.en.txt:105
 msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."

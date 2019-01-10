@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-01-07 09:14:26+0000\n"
+"PO-Revision-Date: 2019-01-10 07:52:27+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -91,7 +91,7 @@ msgstr "10b)\n進行經濟分析能允許我們來估計並計劃金融投資的
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
-msgstr ""
+msgstr "10c)\n了解我們所要運作的網路需要花費多少金額，能讓我們來評估自我管理的各項機制，以及用於網路的採購、建設、安裝、修復、發展、以及升級等不同階段的資金。因此一方面，有需要考慮我們需要多少的金錢與其它資源；另一方面，我們又是要如何來取得到這些。"
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"
@@ -127,7 +127,7 @@ msgstr "14a)\n規劃部署/安裝"
 
 #: 02-en-Planning.txt:126
 msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
-msgstr ""
+msgstr "14b)\n在網路部屬之前，進行技術分析能有效組織任務與資源。擁有在執行任務時所需的任何事物，有助於群組機敏且有序，並且能讓任務在良好狀態下按時完成。這包含著用於執行任務時所需的材料與知識。"
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
