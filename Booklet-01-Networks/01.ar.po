@@ -2,10 +2,11 @@
 # Exported from translatewiki.net
 #
 # Author: Meno25
+# Author: مصعب
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2018-12-10 07:14:28+0000\n"
+"PO-Revision-Date: 2019-01-14 08:38:09+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -63,7 +64,7 @@ msgstr "5a)\nشبكات لا مركزية، للمجتمع وحرة"
 
 #: 01.en.txt:44
 msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
-msgstr ""
+msgstr "عند اتخاذ قرار الاتصال بالإنترنت، نحن نصبح جزءا منها ونستطيع اختيار كيفية المشاركة في هذه الشبكة العالمية من الشبكات."
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
