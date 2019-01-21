@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-01-07 09:14:26+0000\n"
+"PO-Revision-Date: 2019-01-21 09:02:42+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -47,11 +47,11 @@ msgstr "4a)\n挑戰不僅在於促進網路取用，還有以協作與組織的�
 
 #: 01.en.txt:31
 msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
-msgstr ""
+msgstr "4b)\n網際網路是一種能增加透明度以及存取資訊，促進公民參與社會、文化、經濟、政治變革方面支持，且改善社區狀況的工具。"
 
 #: 01.en.txt:35
 msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
-msgstr ""
+msgstr "4c)\n自由社區網絡鼓勵鞏固社區增權廣能過程的合作，來追求「另一個可能的世界」。\n."
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
