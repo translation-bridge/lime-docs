@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-01-30 22:47:25+0000\n"
+"PO-Revision-Date: 2019-02-25 09:49:12+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,11 +23,11 @@ msgstr "2a)\nالمكون الرئيسي لبدء شبكة مجتمع هو ال�
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
-msgstr ""
+msgstr "2b)\nكنقطة بداية، من الضروري إنشاء مجموعة من الناس المهتمين بالعمل من أجل استقلال اتصالاتهم، والذين يشعرون بضروروة تطبيق هذا المشروع والذي هو تقني جدا، ولكن أيضا وقبل كل شيء، اجتماعي جدا."
 
 #: 02-en-Planning.txt:17
 msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
-msgstr ""
+msgstr "3)\nالتخطيط\nحلل مجتمعك\nنظم الفعل\nفكر حول التمويل\nنظم الإدارة\nخطط التنفيذ"
 
 #: 02-en-Planning.txt:20
 msgid "4a)\nAnalyze our community"
@@ -35,11 +35,11 @@ msgstr "4a)\nحلل مجتمعنا"
 
 #: 02-en-Planning.txt:23
 msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
-msgstr ""
+msgstr "4b)\nالتحليل الثقافي الاجتماعي يصل عوامل السياق الاجتماعي، والتي مع تفهم الاحتياجات، العادات، والقيم التي تعرف مجتمعنا، تسمح لنا بتصميم حلول مناسبة."
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
-msgstr ""
+msgstr "4c)\nتحليل كفاءتنا كمجتمع ستساعدنا في عمل قرارات جمعية حكيمة وإنشاء هوية تمثلنا.\nالقرارات حول خصائص شبكة مجتمعنا الحر/الليبر سيتم اتخاذها بناء على نوع العلاقات التي توجد في مجتمعنا.\nهذا هو لماذا من الضروري جدا عمل هذا التحليل: لتوقع الحدود والضروريات التي ربما تنشأ في مشروع شبكتنا بالنسبة للناس الذين سيستخدمونه والطرق التي سيستخدمونه بها."
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
@@ -51,11 +51,11 @@ msgstr ""
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
-msgstr ""
+msgstr "6a)\nالأمر المثالي هو إنشاء شبكات هي في نفس الوقت رقمية وتشمل أشخاصا لديهم علاقات قوية مع المجتمع. لتحقيق هذا الهدف، فتضمين ومشاركة كيانات المجتمع والفضاءات مهم جدا، مثل المدارس، النوادي، الكيانات الحكومية، الميديا، المساكن، المراكز الثقافية، البلازات، ومحطات النقل العام."
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
-msgstr ""
+msgstr "6b)\nلإعطاء بعض الأمثلة: فهناك شبكات في المحليات السياحية لديها وصول محدود خلال أوقات الإجازات حتى يمكن الحفاظ على أداء جيد للشبكة. بعض المحليات الأخرى عملت اتفاق \"أب روحي\" لمساعدة العائلات التي لأسباب ثقافية متعددة تجد أنه من المستحيل إدارة عقدة شبكتهم بأنفسهم. هناك أيضا المحليات التي قررت ترك شبكاتها مفتوحة في المناطق العامة نظرا للغياب الكامل للتغطية من خدمات الاتصال الأخرى."
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
@@ -63,11 +63,11 @@ msgstr "7a)\nنظم الفعل"
 
 #: 02-en-Planning.txt:54
 msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
-msgstr ""
+msgstr "7b)\nتصميم منظمة من العمل، الاتصال، التعلم، واللقاءات التي تتضمن وتلهم الكل للمشاركة هو تحدي كبير وهو أمر حيوي من أجل تشغيل شبكة مجتمع حرة/ليبر."
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
-msgstr ""
+msgstr "7c)\nعادة، عندما يجتمع الناس من أجل العمل سويا، فالتنوع بين الناس سيسلط الضوء على سلوكيات ومعرفة شخصية فريدة ومكملة لبعضها البعض.\nتعريف الأدوار، مناطق العمل الجمعي، وممارسات الاتصال الداخلي يمكن الإدارة الذاتية من إبقاء المشروع يعمل على المدى الطويل.\nاختيار اسم للشبكة وتصميم شعار أو صورة تمثيلية يدعم بناء الهوية الجمعية. عمل موقع ويب يمكن أن يقوم بنفس المهمة."
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
@@ -75,7 +75,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
-msgstr ""
+msgstr "9a)\nاللقاءات الشخصية الدورية هي أداة مهمة جدا لإنشاء فضاءات المجتمع، ولعمل قرارات، ومشاركة المعرفة، التخطيط، وحل المشكلات. اللقاءات أيضا توفر فضاء حيث يتم بناء الهوية المجتمعية الجمعية وتدعو الناس الآخرون للانضمام للشبكة."
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
@@ -87,11 +87,11 @@ msgstr "10a)\nفكر حول التمويل"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b)\nعمل تحليل اقتصادي سيسمح لنا بتقدير قيمة وتخطيط الاستثمار المالي الضروري لتطبيق المشروع واستمراره عبر الزمن."
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
-msgstr ""
+msgstr "10c)\nمعرفة كم نحتاج من الأموال لشبكتنا لتعمل سيسمح لنا بتقييم الميكانزمات المتنوعة للإدارة الذاتية والتمويل للمراحل المختلفة من الشراء، البناء، التركيب، الإصلاح، النمو، والترقية للشبكة.\nلذا، فمن جانب، من الضروري الأخذ في الاعتبار كم الأموال والموارد التي نحتاجها، و، على الجانب الآخر، كيف سنحصل عليها."
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"
@@ -107,7 +107,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
-msgstr ""
+msgstr "12b) \nلإعطاء بعض الأمثلة عن كيف يمكننا التفكير حول التمويل، يمكننا تشجيع شبكات المجتمع حيث كل شخص ينضم يتحمل تكاليف عقدته بشكل شخصي. في شبكات أخرى، فالعقدة يتم الدفع لها عند تركيبها، والتصليحات والترقيات يتم دفعها من تمويل مشترك يتم إنشاؤه من مساهمات شهرية من كل عضو.\nهناك أيضا شبكة حيث العقد الأول تم تمويلها بواسطة NGO، والوصلة المحلية تم التعامل معها بواسطة ISP، وأعضاء الشبكة نفذوا التنصيب."
 
 #: 02-en-Planning.txt:107
 msgid "13a)\nOrganize the administration"
@@ -115,11 +115,11 @@ msgstr "13a)\nتنظيم الإدارة"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
-msgstr ""
+msgstr "13b)\nالاحتفاظ بسجل موثوق به ويتم صيانته من قبل أعضاء الشبكة الذين يريدون القيام بدور إداري هو ضروري للتشغيل المنظم والمرتب للشبكة."
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
-msgstr ""
+msgstr "13c)\nهذا يسمح لنا بالحصول على معرفة جمعية بحركة الأموال، المواد، الأدوات، والموارد الأخرى. بعض السجلات الأكثر انتشارا هي:\nعمليات الشراء التي تمت والمخطط لها\nمخازن المواد والأدوات، مع الأماكن التي يتم الاحتفاظ بها فيها\nقائمة أسعار المواد المتوفرة، بالتفكير في استبدالهم\nتفاصيل المال والقيمة الأخرى التي تم وضعها في الشبكة\nأرشيف الاتفاقات والوثائق المهمة للمشروع\nتقويم للمسؤوليات الدورية، عمليات الدفع، التقارير، إلخ...\nمجلد الاتصال"
 
 #: 02-en-Planning.txt:123
 msgid "14a)\nPlan the deployment/installation"
@@ -143,5 +143,5 @@ msgstr ""
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
-msgstr ""
+msgstr "15c)\nفي بعض الحالات، ربما يكون من الضروري ضبط العقد بهوائيات مختلفة عن بقية العقد، وربما يكون أيضا من المناسب تركيب قطاعات من الشبكة باستخدام كابلات بدلا من الوصلات اللاسلكية. بعض المواقف ستتطلب مصادر كهرباء غير تقليدية أو موفرات طاقة احتياطية ببطاريات. كل شبكة ستقدم مشاكلها التقنية التي ينبغي أن يتم حلها بصبر، إبداع، وتعاون داخل وخارج الشبكة معا."
 

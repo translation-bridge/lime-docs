@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-02-04 08:04:37+0000\n"
+"PO-Revision-Date: 2019-02-25 09:49:12+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -20,7 +20,7 @@ msgstr "1)\nشبكات لا مركزية، للمجتمع وحرة"
 
 #: 01.en.txt:8
 msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
-msgstr ""
+msgstr "2a)\nألتر موندي يسهل ولادة شبكات مجتمع وليبر نتصلة بالإنترنت من منظور التمكين الشعبي المبني على التكنولوجيا بواسطة التعاون بين النظراء واستخدام وتطوير برنامج ليبر والعتاد.\nالهدف الرئيسي هو تطوير موديل شبكة للمراجعة الذاتية لخدمات الاتصال في المناطق المعزولة رقميا.\nبناء على جهد وتنظيم المجتمع، فهذا الموديل يوفر فرصة إرضاء حاجة تعتبر الآن أساسية للتنمية الإنسانية: الاتصالات الرقمية."
 
 #: 01.en.txt:11
 msgid "3a)\nOur little piece of the internet"
@@ -32,27 +32,27 @@ msgstr "3b)\n\"حاليا 52% من الناس الذين يعيشون على ا�
 
 #: 01.en.txt:18
 msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
-msgstr ""
+msgstr "3c)\nانعدام المساواة هذا هو أعمق في المناطق الريفية من أفريقيا، أمريكا اللاتينية والجنوب العالمي، حيث الكثافة السكانية منخفضة والدخل المنخفض يولدان حافزا ضئيلا لتطوير البنية الأساسية للشبكات التجارية. هذا يجعلها مناطق معزولة رقميا.\nفي معظم الحالات، فالناس الذين يعيشون في المناطق المعزولة رقميا لديهم أيضا صعوبات أخرى مثل الموارد الاقتصادية، معدل التشغيل، التعليم، النقل، الكهرباء، المساواة بين الجنسين والوصول للأراضي والمياه القابلة للشرب."
 
 #: 01.en.txt:21
 msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
-msgstr ""
+msgstr "3d)\nالدور الأساسي لشبكات ليبر والمجتمع هو تسهيل بناء بنية أساسية تكنولوجية أوتوماتيكية منخفضة التكلفة لتنفيذ شبكات الإنترنت. الهدف الأساسي هو التغلب على الحواجز المفروضة بسبب مركزية والتحكم في البنية الأساسية للشبكات التجارية والمحتوى الذي يدور في تلك البنية الأساسية."
 
 #: 01.en.txt:25
 msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
-msgstr ""
+msgstr "3e)\n*حالة الاتصالات عريضة النطاق: الاتصال عريض النطاق يدفع التنمية المستدامة. سبتمبر 2017 / \nلجنة الاتصال عريض النطاق للتنمية المستدامة - ITU – UNESCO"
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
-msgstr ""
+msgstr "4a)\nالتحدي هو ليس فقط تسهيل الوصول للإنترنت، ولكن بناء قطعتنا الصغيرة من الإنترنت من خلال شبكات ليبر والمجتمع والمحكومة بواسطة المجتمعات نفسها، بطرق تعاونية ومنظمة."
 
 #: 01.en.txt:31
 msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
-msgstr ""
+msgstr "4b)\nالإنترنت هي أداة لزيادة الشفافية والوصول للمعلومات ولتسهيل التواصل لدعم التغييرات الاجتماعية والاقتصادية والسياسية التي تحسن موقف هذه المجتمعات."
 
 #: 01.en.txt:35
 msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
-msgstr ""
+msgstr "4c)\nشبكات ليبر والمجتمع تشجع تكاتف العمليات التعاونية والمنظمة من المجتمع \"لعالم آخر ممكن.\"\n."
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
@@ -68,7 +68,7 @@ msgstr "عند اتخاذ قرار الاتصال بالإنترنت، نحن ن
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr ""
+msgstr "5c)\nشبكة مفتوحة، محايدة ولا مركزية يتم بناؤها بواسطة المجتمعات من خلال الاتفاقات والتوافق. هذه العملية تتعاون مع الاستقلال، الاستمرارية، ووظيفة شبكة مجتمع ليبر.\nفي نفس الوقت، فهي تدعم المجتمعات لتصميم الهيكل والوظيفة لشبكتهم الخاصة، مع احترام الهويات والاحتياجات المحلية.\nشبكات مجتمع ليبر تسمح بالتعلم ومعرفة كيف تعمل الشبكة حتى يمكن اتخاذ القرار حول الشبكة مع عدم الخضوع لقواعد التجارة أو المعيار المفروض الذي هو، في معظم الأحيان، معارض لمصالح المجتمعات.\nاستخدام وفهم التكنولوجيات تسمح بوصول واع ومكثف للموارد الرقمية، مما يسهل التعليم، التعلم، مشاركة المعرفة، إنشاء وسائل محلية للتواصل والميديا، المشاركة المدنية والاقتصاد الاجتماعي والإقليمي."
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
@@ -96,11 +96,11 @@ msgstr ""
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
-msgstr ""
+msgstr "7c)\nشبكة مجتمع ليبر هي ليست خدمة مجانية أو منخفضة التكلفة للاتصال بالإنترنت.\nهي مجموعة منظمة من الناس الذين يعملون معا لضمان حق المجتمع في التواصل."
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
-msgstr ""
+msgstr "8a)\nو، بالإضافة لكونها شبكة مجتمع، ولكي تكون شبكة ليبر فيجب أن تنطبق عليها الشروط الأربعة التالية:"
 
 #: 01.en.txt:100
 msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
@@ -108,11 +108,11 @@ msgstr ""
 
 #: 01.en.txt:105
 msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
-msgstr ""
+msgstr "9)\nفي هذا التوضيح هناك نوعان من الأشخاص للاتصال يتم تمثيلهم:\n- شبكة شبكات المجتمع لديها عقد فيما بينها كمتساوية لنقل ليبر وللتوصيل بدون تكلفة، مع احترام الحيادية. وبفضل هذه العقود، فالشبكة 1 يمكنها الاتصال بالشبكة 3 من خلال عبور الشبكة 2 بدون حدود.\n- الشبكتان 2 و 3 لديهما خدمة تجارية للاتصال مع بقية الإنترنت، من خلال علاقة تعاقدية هي ليست بين النظراء، ولكن من النوعية موفر-مستهلك. هذا الموفر لا يتشارك مع عملائه في أي جانب من تشغيل أو ضبط شبكتهم."
 
 #: 01.en.txt:109
 msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
-msgstr ""
+msgstr "10a)\nتنفيذ شبكات ليبر  مجتمع من شكل ميش يسمح بتطوير الخصائص المذكورة بالأعلى بطريقة طبيعية أكثر، مع ملاحظة أن خاصيتها الأساسية هي اللامركزية.\nفي هذا النوع من شبكات الميش، فكل عقدة لاسلكية (راوتر وهوائي) يتصل مع واحد أو أكثر من العقد المجاورة. بهذه الطريقة، فمسار تغييرات مرور البيانات تلقائيا عندما يتوقف واحدا منها. في نفس الوقت، فليس من الضروري أن يكون هناك نقاط وصول مركزية. لهذه الأسباب، فشبكات الميش هي شبكات لامركزية وموزعة."
 
 #: 01.en.txt:112
 msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
@@ -120,11 +120,11 @@ msgstr "10b)\nنقطة توصيل تتكون من هوائي، محدد مسار
 
 #: 01.en.txt:115
 msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
-msgstr ""
+msgstr "11a)\nتصميم الشبكة الموزع هذا هو أقل تكلفة لأنه لا يحتاج لعقد مركزية مكلفة. الشبكة تنمو من عقدة لعقدة، بالامتداد تدريجيا وإبقاء تكاليف التنفيذ والصيانة متوازنة مع حجم الشبكة."
 
 #: 01.en.txt:118
 msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
-msgstr ""
+msgstr "11b)\nعندما نقول أننا نريد إنشاء شبكات مجتمع ليبر، لا مركزية، فنحن نعني بناء قطعتنا الصغيرة من الإنترنت بشكل تعاوني من أجل أن نكون نحن أكثر حرية [أو أكثر حفاظا على روح المجتمع]."
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
@@ -136,19 +136,19 @@ msgstr ""
 
 #: 01.en.txt:132
 msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
-msgstr ""
+msgstr "13a)\nمشروع راوتر ليبر يطور العتاد، البرامج والتوثيق الذي يركز على احتياجات المناطق المعزولة رقميا من الجنوب العالمي.\nبعض الصفات الجديرة بالذكر هي:"
 
 #: 01.en.txt:139
 msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
-msgstr ""
+msgstr "13b)\nالعتاد\nالراوتر وهوائياته محميون بواسطة علب بلاستيكية مقاومة للطقس.\nاللوحة لديها موصلات مختلفة متوفرة لتهيئة العقدة لاستخدامات محددة. على سبيل المثال، وحدة GPS.\nتصميم العتاد متوفر لمن يريد دراسته، تعديله، أو إعادة إنتاجه، بما أنه عتاد ليبر.\nLibreRouter يأتي جاهزا للاستخدام مع LibreMesh منصب مسبقا."
 
 #: 01.en.txt:145
 msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
-msgstr ""
+msgstr "14a)\nالبرامج\nالتطبيقات والبرامج مصممة كجزء من عملية حيث الناس بدون خبرة بالشبكات يمكنهم تعلم ضبط، رسم خريطة، مراقبة وإصلاح الشبكة بسهولة.\nيسهل توسيع الشبكة. العقد الجديدة يتم ضبطها تلقائيا بناء على المعلومات التي يتلقوها من العقد الموجودة.\nكل البرامج التي يتم تطويرها بواسطة AlterMundi لديها رخصة libre، لذا فأي واحد يمكنه استخدامه وتهيئته لاحتياجاته."
 
 #: 01.en.txt:151
 msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
-msgstr ""
+msgstr "14b)\nالتوثيق\nتوثيقنا يفسر استخدام راوتر ليبر والتطبيقات التي تأتي معه.\nعلى موقع الويب الخاص بنا docs.altermundi.net كل التوثيق متوفر بطريقة واضحة وصوتية مرئية وبلغات متعددة.\nأي شخص يمكنه استخدام، نسخ، تعديل، وترجمة المحتوى الخاص بنا بحرية."
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
@@ -156,7 +156,7 @@ msgstr "15a)\nشبكة في مجتمعك"
 
 #: 01.en.txt:158
 msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
-msgstr ""
+msgstr "15b)\nمن خلال توثيقنا، فنحن نشارك طريقة واحدة ممكنة لتنظيم مجتمع لبدء مسار بناء شبكة مجتمع ليبر للإنترنت في مجتمعاتك.\nإنها عملية دورية مستمرة للمساعدة المتبادلة بين الناس لتنفيذ تنظيم العمل والأهداف."
 
 #: 01.en.txt:163
 msgid "15c)\nPlanning\nDeployment\nMaintenance"
@@ -164,9 +164,9 @@ msgstr "15c)\nالتخطيط\nالتنفيذ\nالصيانة"
 
 #: 01.en.txt:166
 msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
-msgstr ""
+msgstr "15d)\nدورات العمل والتنظيم هذه ترشد تنفيذ وصيانة الشبكة وهي تستمر على مدار وجودها وتطويرها، مقوية ومحولة للشبكة. هذه الدورات تساهم في إنشاء الشبكة كمكان للقاء والهوية الجمعية."
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr ""
+msgstr "16)\nهل هناك مشروع شبكة مجتمع؟\nاعتمد علينا.\nنحن نحب الانضمام لك!\ninfo@altermundi.net\nالمزيد من المعلومات والتوثيق\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
 

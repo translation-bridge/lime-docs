@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-02-18 07:08:38+0000\n"
+"PO-Revision-Date: 2019-02-25 09:49:13+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -39,7 +39,7 @@ msgstr "4b)\n社會文化分析將社會背景因素給連接起來，把理解�
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
-msgstr ""
+msgstr "4c)\n分析我們作為社區的現況，能幫助我們做出明智的集體決策，以及創建出能夠代表著我們的特性。\n有關我們的免費/自由社區網絡的特點決策，會基於存在於我們社區的關聯類型來建立出。\n這就是為何做出分析是如此的重要：能預見會出現在我們的網路專案裡有關所使用的人、和對方所使用方式的限制與所需。"
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
@@ -47,7 +47,7 @@ msgstr "5a)\n要指引您自己在此分析，您可以考慮："
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr "5b)\n是什麼動機促成建立免費/自由社區網絡？\n社區有多少居民？\n誰會使用網路並出於何種目的？\n您也可以進行非正式的人口普查，並記錄下年齡層、性別，或是其它相關特徵。\n重要的是要考慮是否有特定條件，例如季節性的工作事項讓人口在一年內時間裡突然增加或減少。\n哪幾種活動在區域裡佔有多數，以及網路會如何影響它們？\n是否有反覆出現的脅迫情況？\n網路成員具備怎樣的網路設施知識以及取用權限？\n基於過往專案經歷，社區存在何種程度的社會責任？"
+msgstr "5b)\n是什麼動機促成建立免費/自由社區網絡？\n社區有多少居民？\n誰會使用網路並出於何種目的？\n您也可以進行非正式的人口普查，並記錄下年齡層、性別，或是其它相關特徵。\n重要的是要考慮是否有特定條件，例如季節性的工作事項讓人口在一年內時間裡突然增加或減少。\n哪幾種活動在區域裡佔有多數，以及網路會如何影響它們？\n是否有反覆出現的脅迫情況？\n網路成員具備怎樣的網際網路設施知識以及取用權限？\n基於過往專案經歷，社區存在何種程度的社會責任？"
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
@@ -55,7 +55,7 @@ msgstr "6a)\n理想是建立一個數位化以及讓人們能與社區有密切�
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
-msgstr ""
+msgstr "6b)\n舉一些例子：在旅遊地區的網路為了維持良好運作，於假期期間會限制存取。其它地區會做出「教父母」的安排，來協助那些出於各種文化因素而無法自行管理自己網路節點的家庭。還有一些地方，鑑於完全沒有被其它通信服務給覆蓋到範圍，決定讓他們的網路在公共區域開放且可存取。"
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
@@ -67,11 +67,11 @@ msgstr "7b)\n設計一個關於運作、交流、學習、和涉及與激勵所�
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
-msgstr ""
+msgstr "7c)\n通常，當人們聚集一起互相協作時，來自不同人之間的多樣性突顯出獨有態度與個人知識能互補彼此。\n定義角色、協作區域，以及內部溝通實踐帶起了自我管理，能夠維持專案長期進行。 \n為網路挑選名稱、設計標誌或是代表圖像，支撐了集體認同的建立。另外製作網站也是一個好方式。"
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
-msgstr ""
+msgstr "8a)\n定義短期與長期目標有助於加快並指引群組運作流程。除此之外，這激勵了成員在問題解決與集體參與決策能主動積極。\n可預期的是，網路成員表現出各種不同程度的承諾。某些人或比其他人投入更多、或是發展出不同的技能。\n出於此原因，為了參與專案定義出所有成員都應達到的最低門檻要求，是有幫助的。\n網路特點的闡述與分享 -- 像是討論關於網路是什麼、成員該如何採取行動、以及他們的特定角色 -- 能夠讓專案更清晰明白。"
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
@@ -79,7 +79,7 @@ msgstr "9a)\n定期的參與集會是創建出社區空間、做出決策、分�
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
-msgstr ""
+msgstr "9b)\n舉一些例子：有些網路每月有提前制定的事項會議來討論主題，並在會議期間留下紀錄。這可替無法出席的人分享摘要，並也能放置在網路歸檔裡。\n在其它情況，為想加入網路一份子的人們組織交流與討論會是。有時對於新成員而言，會議是必需的。\n在一些網路裡，透過群組溝通工具、意見交換、特定問題或資訊能讓網路成員之間有頻繁的溝通。"
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
@@ -99,15 +99,15 @@ msgstr "11a)\n有許多方式可獲得資源，例如像是："
 
 #: 02-en-Planning.txt:96
 msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
-msgstr ""
+msgstr "11b)\n捐贈和非金錢的交換，例如像是以物易物\n直接籌資像是訂閱、每月網路成員費用、或是捐款\n股本，例如像是互助基金\n基金會或是社區協會的參與\n國家資金的籌措，例如像是補貼或是與政府實體的夥伴關係\n由企業所作的捐贈或金額捐助\n組織籌足資金的活動，等等其它…\n選項上的組合可使專案更能持續發展。"
 
 #: 02-en-Planning.txt:100
 msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
-msgstr ""
+msgstr "12a)\n部署與初始建構網路往往是最繁雜與艱辛的時候，因為除了節點之外，還需要獲取工具與所需的材料，並且要銘記保留一些額外費用來購買替代物品。\n透過群組批量或全盤的採購顯著地降低了成本，並創建出材料的可用性，但同時會需要更多的貨幣投資。"
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
-msgstr ""
+msgstr "12b) \n舉一些我們如何考慮籌措資金的例子，在每個人都加入來各自承擔他們節點費用的社區網絡裡，我們可以較不拘謹。在其它網路裡，節點僅在安裝時付費，修復與升級部份則由來自各成員每月所捐助的集體基金所支付。\n另外還有在首個節點是由非政府組織出資的網路，網路連結是讓本地網際網路服務供應商處理，並由網路成員執行安裝。"
 
 #: 02-en-Planning.txt:107
 msgid "13a)\nOrganize the administration"
@@ -119,7 +119,7 @@ msgstr "13b)\n維持由有意擔任管理員身份的網路成員所維護的可
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
-msgstr ""
+msgstr "13c)\n這允許讓我們可以有關於金錢、材料、工具、以及其它資源方面的集體知識。一些常見的紀錄為：\n進行與計劃採購\n材料與工具的存貨，和它們所放置的地方\n考慮更換方面的可用材料價格清單\n金錢以及其它投入在網路上的價錢之詳情\n對於專案事關重要的文件與協議之歸檔\n定期責任項目行事曆、支付、報告、其它…\n聯絡目錄"
 
 #: 02-en-Planning.txt:123
 msgid "14a)\nPlan the deployment/installation"
@@ -131,7 +131,7 @@ msgstr "14b)\n在網路部屬之前，進行技術分析能有效組織任務與
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c)\n儘管有多個可建構社區網絡的替代技術方案，此模型提出將 LibreRouter 作為主要設備。LibreRouter 讓部署自由社區網絡更加容易，因為其設計的出發點就是以此為目的。\n在網路裡的大多數節點不會帶來太大的難題。然而，會有一些需要更多創新與技術投入的情況，甚至會有需與網路領域以外的專業人士來一同協作處理特定問題。"
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
@@ -139,9 +139,9 @@ msgstr "15a)\n具有更高技術特質的成員可以辯論，例如以下主題
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
-msgstr ""
+msgstr "15b)\n在開始與成長階段裡，網路的結構將會是什麼\n如何以透過建置一個以上路徑至同一點的備援連結來增強網路\n辨識出有較多資料流量或負擔過重的節點，並確保其可正常運作\n建立在網路裡對應相關點的多重路徑，例如與網際網路或本地端伺服器的連接\n確認用於特定或更強效能設備的所需\n處理非常規電能問題\n在網路上分享服務與內容方法的協助"
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
-msgstr ""
+msgstr "15c)\n在某些情況下，可能會需要安裝和其它節點有不同天線的節點，而佈署非無線線路的纜線網路段落也很方便。某些場合會需要非一般規格的電源、或具備電池的不斷電系統。各網路都會展現出其技術性，因此應帶著耐心、創新、以及與網路內外的協作來解決。"
 
