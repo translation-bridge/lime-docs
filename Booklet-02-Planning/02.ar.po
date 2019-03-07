@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-02-25 09:49:12+0000\n"
+"PO-Revision-Date: 2019-03-07 15:17:56+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -47,7 +47,7 @@ msgstr "5a)\nلإرشاد نفسك في هذا التحليل، يمكنك ال�
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr ""
+msgstr "5b)\nما يسبب الدافع لإنشاء شبكة مجتمع حرة/ليبر؟\nكم عدد المشاركين الذين يتضمنهم المجتمع؟\nمن سيستخدم الشبكة ولأي غرض؟\nأنت أيضا يمكنك عمل إحصاء غير رسمي يسجل المجموعات العمرية، النوع، أو خصائص أخرى مرتبطة.\nمن الضروري الأخذ في الاعتبار لو أي حالة معينة مثل نشاط عمل موسمي يجعل العدد يزيد أو ينقص بشكل كبير حسب الوقت من السنة.\nما هي النشاطات السائدة في المنطقة وكيف يمكن للشبكة التأثير فيها؟\nهل هناك خطر متكرر؟\nما هو حجم المعرفة والوصول لأجهزة الإنترنت الذي يمتلكه أعضاء الشبكة؟\nبناء على خبرتك بالمشاريع السابقة، ما هو مستوى الالتزام الاجتماعي الموجود في المجتمع؟"
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
@@ -71,7 +71,7 @@ msgstr "7c)\nعادة، عندما يجتمع الناس من أجل العمل 
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
-msgstr ""
+msgstr "8a)\nتعريف الأهداف قصيرة وطويلة المدى يساعد في تسريع وتحديد عمليات مجموعة العمل. بالإضافة لذلك، فهو يشجع الأعضاء على أخذ أدوار فعالة في حل المشكلات والمشاركة الجماعية في اتخاذ القرارات.\nإنه من المتوقع أن أعضاء الشبكة سيظهرون درجات مختلفة من الالتزام. بعضهم سيكرس المزيد من الجهد عن الآخرين أو يطور قدرات مختلفة.\nنتيجة لهذا، من الصحي تعريف حد أدنى من الالتزام ينبغي على كل الأعضاء الالتزام به حتى يمكنهم المشاركة في المشروع.\nتوضيح ومشاركة خصائص الشبكة -- مثل الحوار حول ماهية الشبكة، كيف ينبغي أن يتصرف أعضاؤها، وأدوارهم المحددة -- يعطي وضوحا للمشروع."
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
@@ -79,7 +79,7 @@ msgstr "9a)\nاللقاءات الشخصية الدورية هي أداة مهم
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
-msgstr ""
+msgstr "9b)\nلإعطاء بعض الأمثلة: هناك بعض الشبكات لديها لقاءات نصف شهرية بأجندة محددة مسبقا بمواضيع للنقاش وبمضبطة مكتوبة خلال الاجتماع. بهذا الأسلوب فهناك ملخص يمكن مشاركته مع الناس غير القادرين على الحضور ويمكن وضعه أيضا في أرشيف الشبكة.\nفي حالات أخرى، فالنقاشات وورش العمل يتم تنظيمها للناس الذين يرغبون أن يكونوا جزءا من الشبكة. أحيانا، تكون اللقاءات إجبارية للأعضاء الجدد.\nفي بعض الشبكات، فالنقاش المتكرر ما بين أعضاء الشبكة يحدث من خلال أدوات التواصل الجماعي، بتبادل الآراء، مشاكل محددة، أو المعلومات."
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
@@ -99,11 +99,11 @@ msgstr "11a)\nهناك طرق متعددة للحصول على الموارد، 
 
 #: 02-en-Planning.txt:96
 msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
-msgstr ""
+msgstr "11b)\nالتبرع والتبادل غير المالي، مثل المقايضة\nالمالية المباشرة مثل الاشتراكات، رسوم العضوية الشهرية في الشبكة، أو التبرعات\nرأس المال المشترك مثل تمويل المساعدات المتبادل\nمشاركة الأساسات أو اتحادات المجتمع\nالمالية العامة مثل الدعم المادي أو الشراكات مع الكيانات الحكومية\nالتبرعات أو الاشتراكات التي تمولها الشركات\nالأحداث المنظمة لجمع التبرعات، من ضمن أشياء أخرى...\nمزيج من الخيارات تجعل المشروع أكثر قابلية للاستمرار."
 
 #: 02-en-Planning.txt:100
 msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
-msgstr ""
+msgstr "12a)\nالتنفيذ وابناء الأولي للشبكة هو اللحظة الأكثر تعقيدا وتطلبا، بما أنه بالإضافة للشبكة، فمن الضروري الحصول على الأدوات والمواد الضرورية وأيضا ضع في ذهنك الحاجة للقليل من الأموال الإضافية لشراء قطع الغيار.\nعمليات الشراء بالجملة بواسطة المجموعات تقلل التكلفة كثيرا وتوفر في المواد، ولكن في نفس الوقت تتطلب استثمارا ماليا أكبر."
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
@@ -127,11 +127,11 @@ msgstr "14a)\nخطط التنفيذ/التنصيب"
 
 #: 02-en-Planning.txt:126
 msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
-msgstr ""
+msgstr "14b)\nالقيام بتحليل تقني قبل تنفيذ الشبكة يسمح بالتنظيم الكفء للمهام والموارد. تجهيز كل شيء ضروري عند لحظة تنفيذ مهمة يساعد على أن تكون المجموعة رشيقة ومنظمة وأن تنتهي المهمة في الميعاد المحدد وبشكل جيد. هذا يتضمن المواد والمعرفة اللازمين كليهما لتنفيذ المهمة."
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c)\nبينما يوجد الكثير من البدائل التكنولوجية لبناء شبكة مجتمع، فهذا الموديل يقترح راوتر ليبر كالجهاز الأساسي. راوتر ليبر يجعل تنفيذ شبكات مجتمع ليبر أسهل بما أنه تم تصميمه لهذا الهدف.\nالأغلبية الكبيرة من العقد في الشبكة لن تكون تحديات كبيرة. وعلى الرغم من هذا، فستكون هناك حالات تتطلب المزيد من الانتباه التقني والإبداعي. ربما يكون حتى من الضروري التعاون مع الأشخاص خارج الشبكة الذين لديهم معرفة محددة على حل مشاكل معينة."
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
@@ -139,7 +139,7 @@ msgstr "15a)\nالأعضاء الذين لديهم خبرة تقنية أكثر 
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
-msgstr ""
+msgstr "15b)\nما سيكون هيكل الشبكة، في البداية وعندما تنمو\nكيف تقوي الشبكة عن طريق بناء وصلات احتياطية وبهذا يمكن الوصول إلى نفس النقطة من أكثر من مسار\nالتعرف على العقد بمرور بيانات أكثر أو عليها حمل كبير وضمان العمل الصحيح لها\nإنشاء مسارات متعددة للنقاط محل الاهتمام في الشبكة، مثل الاتصال بالإنترنت أو بالخوادم المحلية\nالتعرف على الحاجة لأجهزة محددة أو أكثر قوة\nحل مشاكل الطاقة الكهربية غير الاعتيادية\nالمساعدة في طرق مشاركة الخدمات والمحتوى على الشبكة"
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
