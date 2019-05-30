@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-05-27 14:45:37+0000\n"
+"PO-Revision-Date: 2019-05-30 17:26:12+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
-msgstr ""
+msgstr "4d)\nTiel vidate, konsideri la Interreton kiel komunan varon (aŭ komunaĵon) estas esence kaj necese."
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
@@ -79,7 +79,7 @@ msgstr "6b)\nLibera uzo\nNeŭtraleco\nLibera interkonektado\nLibera trairo"
 
 #: 01.en.txt:65
 msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
-msgstr ""
+msgstr "6c)\nKolektiva posedaĵo\nSociala mastrumado\nAlirebla dezajno\nMalfermita partoprenado"
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
@@ -167,5 +167,5 @@ msgstr ""
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr ""
+msgstr "16)\nĈu estas komunuma reta projekto?\nDependu de ni.\nNi ŝatus aliĝi al vi!\ninfo@altermundi.net\nPli da informo kaj dokumentaro\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
 
