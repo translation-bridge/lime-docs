@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-05-30 17:26:12+0000\n"
+"PO-Revision-Date: 2019-06-03 15:36:57+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,11 +23,11 @@ msgstr "2a)\nLa ĉefingredienco por fondi komunuman reton estas la komunumo!"
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
-msgstr ""
+msgstr "2b)\nPor komenci, necesas formi grupon da interesatoj por labori por la aŭtonomio de sia komunikado, kiuj sentas la neceson efektivigi ĉi tiun projekton tre teknologian kaj tamen, antaŭ ĉio, tre socialan."
 
 #: 02-en-Planning.txt:17
 msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
-msgstr ""
+msgstr "3)\nPlanado\nAnalizi nian komunumon\nOrganizi agadon\nPensi pri financado\nOrganizi administradon\nPlani la disponigon"
 
 #: 02-en-Planning.txt:20
 msgid "4a)\nAnalyze our community"
@@ -35,11 +35,11 @@ msgstr "4a)\nAnalizi nian komunumon"
 
 #: 02-en-Planning.txt:23
 msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
-msgstr ""
+msgstr "4b)\nSociokultura analizo konektas faktorojn de la socia kunteksto, kiuj, kune kun komprenado de la bezonoj, normoj, kaj valoroj difinantaj nian komunumon, permesas nin fasoni taŭgajn solvoj."
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
-msgstr ""
+msgstr "4c)\nAnalizo de nia aktualo kiel komunumo helpos nin fari saĝan kolektivan decidon kaj krei identecon reprezentantan nin.\nDecidoj pri la karakteroj de nia libera komunuma reto estos farataj laŭ la specoj de rilatoj en nia komunumo.\nTial gravas fari tian analizon: por antaŭvidi la limojn kaj necesojn eble okazontajn en nia reta projekto, laŭ la uzontoj kaj la uzmanieroj."
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
@@ -51,7 +51,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
-msgstr ""
+msgstr "6a)\nLa idealo estas krei reton kaj bitan kaj konsistantan el homoj kun fortaj ligoj al la komunumo. Por atingi tiun celon, gravas la inkluzivado kaj partoprenado de komunumaj entoj kaj spacoj, ekz. lernejoj, kluboj, registaraj entoj, gazetaro, loĝejoj, kulturaj centroj, placoj, kaj metrostacioj."
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
@@ -63,7 +63,7 @@ msgstr "7a)\nOrganizi agadon"
 
 #: 02-en-Planning.txt:54
 msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
-msgstr ""
+msgstr "7b)\nFasoni organizaĵon de la laboro, komunikado, lernado, kaj kunvenado, kiuj postulas kaj inspiras ĉies partoprenadon, estas defiego, nemalhavebla por la funkciado de libera komunuma reto."
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
@@ -75,7 +75,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
-msgstr ""
+msgstr "9a)\nPerioda nevirtuala kunvenado estas gravega ilo por krei komunuman spacon, por decidi, por diskonigi, por plani, kaj por solvi problemojn. Kunvenado ankaŭ provizas spacon en kiu kolektiva kaj komunuma identeco estiĝas, kaj invitas aliulojn aliĝi al la reto."
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
@@ -87,11 +87,11 @@ msgstr "10a)\nPensi pri financado"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b)\nFarado de ekonomika analizo ebligas nin kalkuli kaj plani la kapitalan investon necesan por efektivigi kaj daŭrigi la projekton."
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
-msgstr ""
+msgstr "10c)\nScii kiom da mono necesas por funkciado de nia reto ebligas nin taksi diversajn mekanismojn de memmastrumado kaj financado por la variaj fazoj de aĉetado, konstruado, instalado, riparado, kreskado, kaj plibonigado de la reto.\nDo, unuflanke, necesas konsideri tiomon, kiom da mono kaj aliaj rimedoj ni bezonas; aliflanke, necesas konsideri tielon, kiel ni akiros ilin."
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"
@@ -103,7 +103,7 @@ msgstr ""
 
 #: 02-en-Planning.txt:100
 msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
-msgstr ""
+msgstr "12a)\nDisponigo kaj ekkonstruado de la reto ofte estas la plej komplika kaj malfacila momento, ĉar, krom la nodoj, necesas akiri la ilojn kaj bezonatan materialon kaj ankaŭ havi iom da plia mono por aĉeti anstataŭigantaĵojn.\nAmasa aŭ pogranda aĉetado far grupo notinde reduktas kostojn kaj havebligas materialon, sed aliflanke postulas pli grandan kapitalan investon."
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
@@ -115,7 +115,7 @@ msgstr "13a)\nOrganizi la administradon"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
-msgstr ""
+msgstr "13b)\nFidinda registrado, far la retanoj volonte admininistrantaj, estas nemalhavebla por la organizita kaj orda funkciado de la reto."
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
@@ -127,7 +127,7 @@ msgstr "14a)\nPlani la disponigon/instaladon"
 
 #: 02-en-Planning.txt:126
 msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
-msgstr ""
+msgstr "14b)\nFari teknikan analizon antaŭ la disponigo de la reto permesas efikan organizadon de la taskoj kaj rimedoj. Havi ĉion necesan je la momento de plenumado de tasko helpas la movlertecon kaj bonordecon de la grupo kaj la akuratan, bonforman plenumadon de la tasko. Tio inkluzivas kaj la materialon kaj la scion necesan por plenumi la taskon."
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
