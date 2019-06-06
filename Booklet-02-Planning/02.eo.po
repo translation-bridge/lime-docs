@@ -5,12 +5,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-06-03 15:36:57+0000\n"
+"PO-Revision-Date: 2019-06-06 16:03:54+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: eo\n"
-"X-Generator: MediaWiki 1.33.0-alpha; Translate 2019-04-24\n"
+"X-Generator: MediaWiki 1.34.0-alpha; Translate 2019-04-24\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: 02-en-Planning.txt:3
@@ -47,7 +47,7 @@ msgstr "5a)\nPor gvidi vin tra ĉi tiu analizo, vi povas pensi pri:"
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr ""
+msgstr "5b)\nPro kio oni konstruas liberan komunuman reton?\nKiom da loĝantoj havas la komunumo?\nKiu uzos la reton? Por kio?\nVi povas ankaŭ fari neformalan censon pri aĝogrupoj, seksoj, aŭ aliaj gravaj ecoj.\nEstas grave konsideri ĉu ia kondiĉo, kiel sezona laborado, subite kreskigas aŭ malkreskigas la loĝantaron laŭsezone.\nKiaj aktivecoj ofte okazas en la areo, kaj kiel la reto influos ilin?\nĈu estas ripetata minaco?\nKiom da scio pri, kaj atingo al, Interretaj aparatoj havas la retanoj?\nLaŭ la sperto pri pasintaj projektoj, kiom la komunumo sin dediĉas sociale?"
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
@@ -67,7 +67,7 @@ msgstr "7b)\nFasoni organizaĵon de la laboro, komunikado, lernado, kaj kunvenad
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
-msgstr ""
+msgstr "7c)\nOfte, kiam homoj kunvenintaj kolektive laboras, la diverso inter homoj reliefigas unikaj sintenojn kaj personajn sciojn, kompletigantajn unu la alian.\nDifinado de roloj, kolektivaj laborejoj, kaj internaj komunikaj praktikoj ebligas sinmastrumadon, por longe daŭrigi la projekton.\nNomado de la reto kaj dezajnado de emblemo aŭ reprezentanta bildo subtenas la estiĝon de kolektiva identeco. Same pri farado de retejo."
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
@@ -99,7 +99,7 @@ msgstr "11a)\nJen multaj metodoj por akiri rimendojn, ekzemple:"
 
 #: 02-en-Planning.txt:96
 msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
-msgstr ""
+msgstr "11b)\nDonacado kaj nevaluta interŝanĝado\nRekta financado, kiel abonoj, retana monatpago, aŭ donacoj\nKomuna kapitalo, kiel reciproka helpa fonduso\nPartoprenado de fondaĵoj aŭ komunumaj asocioj\nPublika financado, kiel subvencio aŭ partnereco kun registaraj entoj\nDonacoj aŭ kontribuaĵoj de firmaoj\nEventoj organizitaj por kvesto, interalie...\nKombinado de elektoj igas la projekton pli daŭrigebla."
 
 #: 02-en-Planning.txt:100
 msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
@@ -119,7 +119,7 @@ msgstr "13b)\nFidinda registrado, far la retanoj volonte admininistrantaj, estas
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
-msgstr ""
+msgstr "13)\nTio ebligas kolektivan scion pri la movado de kapitalo, materialo, iloj, kaj aliaj rimedoj. Jen kelke el la plej oftaj registraĵoj:\nAĉetitoj kaj aĉetotoj\nInventaro de materialoj kaj iloj kaj iliaj tenejoj\nListo de prezoj de haveblaj materialoj, kun ideoj pri surogatoj\nDetaloj pri kapitalo kaj alia valoro enmetita en la reton\nArkivo de interkonsentoj kaj dokumentoj gravaj al la projekto\nKalendaro de periodaj respondecoj, pagoj, raportoj, ktp...\nAdresaro"
 
 #: 02-en-Planning.txt:123
 msgid "14a)\nPlan the deployment/installation"
@@ -139,9 +139,9 @@ msgstr "15a)\nLa anoj kun pli teknika sperto povus diskuti, ekzemple, jenajn tem
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
-msgstr ""
+msgstr "15b)\nKiel la reto strukturiĝos, kaj komence kaj kreskante\nKiel fortikigi la reton per redundaj ligoj, t.e. atingantaj la saman celon per pluraj vojoj\nTrovi nodojn kun pli da datentrafiko aŭ troŝarĝatan, kaj garantii ilian trafan funkciadon\nKrei plurajn vojojn al gravaj punktoj en la reto, ekz. la konekto al Interreto aŭ al lokaj serviloj\nKontroli ĉu necesas specifaj aŭ pli kapablaj aparatoj\nSolvi problemojn pri neordinara elektra energio\nHelpi metodojn por dividi servojn kaj enhavon sur la reto"
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
-msgstr ""
+msgstr "15c)\nKelkfoje, necesas munti nodon per anteno alia ol tiuj de la plejparto; kelkfoje utilas disponigi partojn de la reto kable, ne sendrate. Kelkaj situacioj postulas neordinaran elektrofonton aŭ porkrizan baterian energifonton. Ĉiu reto prezentos siajn teknikajn strangaĵojn, solvendajn pacience, kreeme, kaj kunlabore, kaj en kaj ekster la reto."
 

@@ -5,12 +5,12 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-06-03 15:36:57+0000\n"
+"PO-Revision-Date: 2019-06-06 16:03:54+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: eo\n"
-"X-Generator: MediaWiki 1.33.0-alpha; Translate 2019-04-24\n"
+"X-Generator: MediaWiki 1.34.0-alpha; Translate 2019-04-24\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: 01.en.txt:3
@@ -131,7 +131,7 @@ msgstr "12a)\nLa Projekto LibreRouter: Komunumo por via reto"
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
-msgstr ""
+msgstr "12b)\nDe longe, liberajn komunumajn retojn faris kunlaborado de programantoj-kodumantoj. Kune, ili evoluigis liberan programaron kaj modifis la haveblan aparataron, laŭ la specifaj bezonoj de la retoj.\nUnu el la atingoj estis anstataŭigado de la mallibera programaro kunpakita kun kelkaj komercaj enkursigiloj el la fabriko.\nĈi tio permesis la plenan uzadon de la enkursigiloj, ebligante funkciojn limigintajn de la fabrikinto laŭ merkata logiko. La kontribuaĵo notinde malmultekostigis la disponigadon de malfermitaj, neŭtralaj, malcentralizitaj retoj.\nEn Aŭgusto de 2016, pro reguloj far la Usona registara organizaĵo FKK (Federacia Komunikada Komisiono), fabrikantoj ekmalpermesis la anstataŭigon de la programaro antaŭinstalita kaj antaŭagordita en la fabriko.\nĈi tiu ago klarigis, ke komunumaj retoj estas ostaĝo al arbitra decidado, pri kiu ili havas malmulte aŭ neniom da decidpovo aŭ agpovo."
 
 #: 01.en.txt:132
 msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
