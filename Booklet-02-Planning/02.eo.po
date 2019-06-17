@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-06-06 16:03:54+0000\n"
+"PO-Revision-Date: 2019-06-17 17:25:49+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -55,7 +55,7 @@ msgstr "6a)\nLa idealo estas krei reton kaj bitan kaj konsistantan el homoj kun 
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
-msgstr ""
+msgstr "6b)\nJen kelkaj ekzemploj: Ekzistas retoj en turismaj lokoj, kiuj limigas aliron dum ferisezonoj, por daŭrigi la bonan funkciadon de la reto. Aliaj lokoj faras \"baptopatran\" aranĝon, por helpi familiojn kiujn, pro iuj kulturaj kialoj, ne povas mem mastrumi la retan nodon. Estas ankaŭ lokoj, kiuj decidis lasi sian reton alirebla kaj malfermita en publikaj areoj, pro la kompleta manko de aliaj komunikaj servoj."
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
@@ -71,7 +71,7 @@ msgstr "7c)\nOfte, kiam homoj kunvenintaj kolektive laboras, la diverso inter ho
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
-msgstr ""
+msgstr "8a)\nDifinado de baldaŭaj kaj malbaldaŭaj celoj helpas plirapidigi kaj klare orienti grupajn laborprocezojn. Krome, tio instigas anojn aktive partopreni en la solvado de problemoj kaj kolektive fari decidojn.\nOni atendu ke diversaj retanoj havos malsamajn gradojn de sindediĉo. Iuj penos pli ol aliuloj; iuj akiros malsamajn kapablojn.\nPro tio, estas bone difini minimuman sindediĉon farendan de ĉiu retano por partopreni en la projekto.\nLa diskutado kaj diskonigado de la trajtoj de la reto -- ekzemple, konversacio pri kia la reto estas, kiel ĝia retanoj kondutu sin, kaj la specifaj roloj de la retanoj -- klarigas la projekton."
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
@@ -79,7 +79,7 @@ msgstr "9a)\nPerioda nevirtuala kunvenado estas gravega ilo por krei komunuman s
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
-msgstr ""
+msgstr "9b)\nJen kelkaj ekzemploj: estas retoj, kiuj havas ĉiumonatduonaj renkontiĝoj, kun antaŭfarita tagordo, por diskutado, kun skribitaj resumoj faritaj dum la renkontiĝo. Per tio, oni povas dissendi la resumon al tiuj kiuj ne povis veni, kaj enmeti la resumojn en arkivon de la reto.\nEn aliaj retoj, paroladoj kaj laborsesioj estas organizataj por tiuj kiuj volas aniĝi al la reto. Kelkfoje, la kunvenoj estas devigaj por novaj anoj.\nEn kelkaj retoj, ofta konversacio inter retanoj okazas per grupaj komunikiloj, intersciigantaj opiniojn, specifajn problemojn, aŭ informon."
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
@@ -107,7 +107,7 @@ msgstr "12a)\nDisponigo kaj ekkonstruado de la reto ofte estas la plej komplika 
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
-msgstr ""
+msgstr "12b) \nJen kelkaj ekzemploj pri financado. Estas komunumaj retoj, je kiu ĉiu ano pagas la koston de sia nodo. En aliaj retoj, la nodo estas nur pagata dum instalado, kaj por riparoj kaj plibonigoj pagas kolektiva fonduso de ĉiumonataj kontribuaĵoj de ĉiuj anoj.\nAnkaŭ estas reto, kies unuaj nodoj estas financitaj de neregistara organizaĵo, kies Interreta ligo funkcias per la loka Interreto-serva provizanto, kaj kies instaladon faris la retanoj."
 
 #: 02-en-Planning.txt:107
 msgid "13a)\nOrganize the administration"
@@ -131,7 +131,7 @@ msgstr "14b)\nFari teknikan analizon antaŭ la disponigo de la reto permesas efi
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c)\nMalgraŭ tio, ke ekzistas multaj teknologiaj alternativoj por la konstruado de komunuma reto, ĉi tiu modelo proponas la aparaton LibreRouter kiel la ĉefan. La LibreRouter faciligas la disponigon de liberaj komunumaj retoj, ĉar ĝi estis dezajnita por tiu celo.\nLa granda plimulto de nodoj en la reto ne estos tre malfacila. Tamen, kelkaj postulos pli da kreema kaj teknika priatentado. Eble, necesos kunlaborado kun tiuj neretanoj, kiuj scias specifaĵojn por individuaj problemoj."
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
