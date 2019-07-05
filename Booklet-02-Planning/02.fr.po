@@ -1,11 +1,12 @@
 # Translation of LibreMesh - Booklet 2: Planning to French (français)
 # Exported from translatewiki.net
 #
+# Author: Derugon
 # Author: Wladek92
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-06-06 16:03:54+0000\n"
+"PO-Revision-Date: 2019-07-05 05:16:28+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,11 +36,11 @@ msgstr "4a)\nAnalyser noutre communauté"
 
 #: 02-en-Planning.txt:23
 msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
-msgstr ""
+msgstr "4b)\nL’analyse socio-culturelle connecte des facteurs du contexte social qui, avec une compréhension des besoins, normes et valeurs définissant notre communauté, nous permet de designer des solutions appropriées."
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
-msgstr ""
+msgstr "4c)\nL’analyse de notre quotidien en tant que communauté nous aidera à effectuer des décisions collectives élargies et créer une identité qui nous représente.\nLes décisions concernant les caractéristiques de notre réseau communautaire libre seront réalisées sur la base des relations existantes au sein de notre communauté.\nC’est pourquoi il est si important de faire cette analyse&nbsp;: pour observer les limitations et nécessités qui peuvent apparaître dans notre projet de réseau tout en respectant ses utilisateurs et leurs manières de l’utiliser."
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
@@ -47,15 +48,15 @@ msgstr "Pour vous orienter dans cette analyse, vous pouvez réfléchir aux sujet
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr ""
+msgstr "5b)\nQuelles causes amènent la motivation de la construction d’un réseau communautaire libre&nbsp;?\nCombien de participants la communauté contient-elle&nbsp;?\nQui utiliserait le réseau et pour quelle raison&nbsp;?\nVous pouvez aussi réaliser un recensement informel des groupes d’âge, de genre ou d’autres caractéristiques pertinentes.\nIl est important de considérer toute condition particulière, telle qu’une activité saisonnière réduisant ou augmentant brusquement la population selon la période de l’année.\nQuelles activités prédominent dans la zone et comment le réseau pourrait-il les affecter&nbsp;?\nY a-t-il une menace récurrente&nbsp;?\nQuels connaissances et accès aux périphériques Internet ont les membres du réseau&nbsp;?\nEn se basant sur les expériences des projets précédents, quel niveau d’engagement social existe-t-il au sein de la communauté&nbsp;?"
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
-msgstr ""
+msgstr "6a)\nL’idéal serait de créer un réseau à la fois numérique et fait de personne partageant de fortes relations envers la communauté. Pour atteindre cet objectif, l’inclusion et la participation des différents entités et espaces de la communauté est très important, tels que les écoles, clubs, entités gouvernementales, médias, logements, centres culturels et commerciaux et arrêts de passage publics."
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
-msgstr ""
+msgstr "6b)\nPour donner quelques exemples&nbsp;: il y a des réseaux dans des lieux touristiques devant limiter l’accès durant les périodes de vacances afin de maintenir le bon fonctionnement du réseau. D’autres organisations ont fait des arrangements de \"parrainage\" afin d’aider les familles qui, pour différentes raisons culturelles, sont dans l’impossibilité de gérer leurs connexions réseau elles-mêmes. D’autres ont aussi décidé de laisser leur réseau accessible et ouvert aux zones publiques, étant donnée l’absence de couverture d’autres services de communication."
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
@@ -67,7 +68,7 @@ msgstr "7b)\nConcevoir une organisation du travail, de la communication, de l'ap
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
-msgstr ""
+msgstr "7c)\nCommunément, lorsque des personnes cherchent à travailler collectivement, la diversité qui les traverse souligne des attitudes uniques et connaissances personnelles complémentaires.\nDéfinir des rôles, sur les zones de travail collectif, et des entraînements de communication interne améliore la gestion personnelle pour continuer l’avancement d’un projet au long terme.\nChoisir un nom pour le réseau et designer un logo ou une image représentative appuie la création d’une identité collective. Crée un site web peut en faire de même."
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
