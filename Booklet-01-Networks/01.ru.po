@@ -1,11 +1,12 @@
 # Translation of LibreMesh - Booklet 1: Networks to Russian (русский)
 # Exported from translatewiki.net
 #
+# Author: Movses
 # Author: Saimongoltinio
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-07-15 18:32:50+0000\n"
+"PO-Revision-Date: 2019-07-18 14:31:28+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -151,7 +152,7 @@ msgstr "14b)\n документация\n Наша документация об
 
 #: 01.en.txt:154
 msgid "15a)\nA network in your community"
-msgstr "Сеть в вашем сообществе"
+msgstr "15a)\nСеть в вашем сообществе"
 
 #: 01.en.txt:158
 msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
