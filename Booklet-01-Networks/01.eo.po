@@ -1,11 +1,12 @@
 # Translation of LibreMesh - Booklet 1: Networks to Esperanto (Esperanto)
 # Exported from translatewiki.net
 #
+# Author: Fitoschido
 # Author: Mirin
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-06-06 16:03:54+0000\n"
+"PO-Revision-Date: 2019-09-06 04:59:07+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -15,7 +16,7 @@ msgstr ""
 
 #: 01.en.txt:3
 msgid "1)\nLibre, Community and Decentralised Networks"
-msgstr "1)\nLiberaj, Komunumaj, kaj Malcentralizitaj Retoj"
+msgstr "1)\nLiberaj, komunumaj kaj malcentralizitaj retoj"
 
 #: 01.en.txt:8
 msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
