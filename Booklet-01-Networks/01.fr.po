@@ -8,7 +8,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2019-07-08 18:14:51+0000\n"
+"PO-Revision-Date: 2019-09-09 17:19:41+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -30,7 +30,7 @@ msgstr "3a)\nNotre petite pièce de l’Internet"
 
 #: 01.en.txt:14
 msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
-msgstr "3b)\n« Actuellement 52 % des gens qui vivent sur Terre n’ont pas d’accès à Internet. » *"
+msgstr "3b)\n« Actuellement 52 % des gens qui vivent sur Terre n’ont pas d’accès à Internet. » *"
 
 #: 01.en.txt:18
 msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
@@ -42,7 +42,7 @@ msgstr "3d)\nLe rôle fondamental des réseaux libres et communautaires est de f
 
 #: 01.en.txt:25
 msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
-msgstr "3e)\n* L’état du haut débit : Le haut débit étant le catalyseur du développement durable. Septembre 2017/ \nCommission du Haut débit pour le Développement Durable – ITU, UNESCO"
+msgstr "3e)\n* L’état du haut débit : le haut débit comme catalyseur du développement durable. Septembre 2017 /\nCommission du haut débit pour le développement durable – ITU, UNESCO"
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
@@ -58,7 +58,7 @@ msgstr "4c)\nLes réseaux libres et communautaires encouragent la consolidation 
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
-msgstr "Vu sous cet aspect, il devient vital et nécessaire de penser l’Internet comme un bien commun (ou plusieurs biens communs)."
+msgstr "Vu sous cet aspect, il devient vital et nécessaire de penser l’Internet comme un bien commun (ou comme un ensemble de biens communs)."
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
@@ -70,7 +70,7 @@ msgstr "5b)\nEn décidant de nous connecter à Internet, nous en devenons une pa
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr "5c)\nUn réseau ouvert, neutre et décentralisé est construit par les communautés via des accords et des consensus. Ce processus collabore avec l’autonomie, la durabilité et le fonctionnement du réseau communautaire libre.\nEn même temps, il donne les moyens à la communauté de concevoir la structure et le fonctionnement de ses propres réseaux, en respectant les identités locales et les besoins.\nLes réseaux communautaires libres permettent d’apprendre et de savoir comment fonctionne le réseau, pour pouvoir prendre des décisions concernant le réseau et ne pas être subordonné à des règles commerciales ou à des critères imposés qui, dans la plupart des cas, sont opposés aux intérêts de la communauté.\nL’utilisation et la compréhension des technologies promeut un accès ouvert et conscient aux ressources numériques, facilite l’éducation, l’apprentissage, le partage de connaissance, la création de moyens locaux de communication et de média, l’engagement civique et social, et l’économie régionale."
+msgstr "5c)\nUn réseau ouvert, neutre et décentralisé est construit par les communautés via des accords et des consensus. Ce processus collabore avec l’autonomie, la durabilité et le fonctionnement du réseau communautaire libre.\nEn même temps, il donne les moyens à la communauté de concevoir la structure et le fonctionnement de ses propres réseaux, en respectant les identités locales et les besoins.\nLes réseaux communautaires libres permettent d’apprendre et de savoir comment fonctionne le réseau, pour pouvoir prendre des décisions concernant le réseau et ne pas être subordonné à des règles commerciales ou à des critères imposés qui, dans la plupart des cas, sont opposés aux intérêts de la communauté.\nL’utilisation et la compréhension des technologies promeut un accès ouvert et conscient aux ressources numériques, facilite l’éducation, l’apprentissage, le partage de connaissance, la création de moyens locaux de communication et de média, l’engagement civique et social et l’économie régionale."
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
@@ -86,11 +86,11 @@ msgstr "6c)\nPropriété collective\nGestion sociale\nArchitecture accessible\nP
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
-msgstr "6d)\nDistribué\nRééchelonnable\nA bas coût"
+msgstr "6d)\nDistribué\nRééchelonnable\nÀ bas coût"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr "7a)\nLes réseaux communautaires ont des caractéristiques spécifiques qui les définissent et qui constituent leurs forces :"
+msgstr "7a)\nLes réseaux communautaires ont des caractéristiques spécifiques qui les définissent et qui constituent leurs forces :"
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
@@ -98,7 +98,7 @@ msgstr "7b)\nPropriété collective\nCela veut dire que l’infrastructure (les 
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
-msgstr "7c)\nUn réseau communautaire libre n’est pas un service gratuit, ou à bas coût, pour la connexion à Internet. C’est un groupe organisé de personnes qui travaillent pour garantir le droit à la communication de leur communauté."
+msgstr "7c)\nUn réseau communautaire libre n’est pas un service gratuit ou à bas coût pour la connexion à Internet. C’est un groupe organisé de personnes qui travaillent pour garantir le droit à la communication de leur communauté."
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
@@ -110,7 +110,7 @@ msgstr "8b)\nLibre utilisation\nIl permet un trafic illimité pour recevoir et o
 
 #: 01.en.txt:105
 msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
-msgstr "9)\nDans cette illustration sont représentés deux types de contrats d’interconnexion :\n* Le réseau des réseaux communautaires ont un contrat entre eux permettant un libre transit et une interconnexion sans frais, respectant la neutralité. Grace à ces contrats, le réseau 1 peut communiquer avec le réseau 3 via le réseau 2 sans limitations.\n* Les réseaux 2 et 3 ont un service commercial pour se connecter au reste de l’internet, par une relation contractuelle qui n’est pas d’égal à égal, mais entre producteurs et consommateurs. Un tel fournisseur ne partage avec ses clients aucun aspect du déploiement ou de la configuration de son réseau."
+msgstr "9)\nDans cette illustration sont représentés deux types de contrats d’interconnexion :\n* Le réseau des réseaux communautaires propose un contrat entre eux permettant un libre transit et une interconnexion sans frais, respectant la neutralité. Grace à ces contrats, le réseau 1 peut communiquer avec le réseau 3 via le réseau 2 sans limitations.\n* Les réseaux 2 et 3 ont un service commercial pour se connecter au reste de l’internet, par une relation contractuelle qui n’est pas d’égal à égal, mais entre producteurs et consommateurs. Un tel fournisseur ne partage avec ses clients aucun aspect du déploiement ou de la configuration de son réseau."
 
 #: 01.en.txt:109
 msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
@@ -130,7 +130,7 @@ msgstr "11b)\nQuand nous disons que nous voulons créer des réseaux libres, dé
 
 #: 01.en.txt:121
 msgid "12a)\nThe LibreRouter Project: A community for your network"
-msgstr "12a)\nLe projet ''LibreRouter'' : une communauté pour votre réseau"
+msgstr "12a)\nLe projet ''LibreRouter'' : une communauté pour votre réseau"
 
 #: 01.en.txt:128
 msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
@@ -170,5 +170,5 @@ msgstr "15d)\nCes cycles de travail et d’organisation guident le déploiement 
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr "16)\nExiste-t-il un projet communautaire ?\nComptez sur nous.\nNous aimerions beaucoup que vous nous rejoigniez !\n''info@altermundi.net''\nDavantage d’information et de documentation :\n''blog.altermundi.net''\n''docs.altermundi.net''\n''librerouter.org''"
+msgstr "16)\nExiste-t-il un projet communautaire ?\nComptez sur nous.\nNous aimerions beaucoup que vous nous rejoigniez !\n<tt>info@altermundi.net</tt>\nDavantage d’information et de documentation :\n<tt>blog.altermundi.net</tt>\n<tt>docs.altermundi.net</tt>\n<tt>librerouter.org</tt>"
 
