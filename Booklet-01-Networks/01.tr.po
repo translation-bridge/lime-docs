@@ -1,0 +1,171 @@
+# Translation of LibreMesh - Booklet 1: Networks to Turkish (Türkçe)
+# Exported from translatewiki.net
+#
+# Author: BaRaN6161 TURK
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2019-10-31 17:36:10+0000\n"
+"X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: tr\n"
+"X-Generator: MediaWiki 1.35.0-alpha; Translate 2019-04-24\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 01.en.txt:3
+msgid "1)\nLibre, Community and Decentralised Networks"
+msgstr "1)\nLibre, Topluluk ve Merkezi Olmayan Ağlar"
+
+#: 01.en.txt:8
+msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
+msgstr "2a)\nAlterMundi, internete bağlı yeni libre ve topluluk ağlarının doğuşunu, akranlar arasında işbirliği ve libre yazılımı ve donanımının kullanımı ve geliştirilmesi yoluyla teknolojinin yaygınlaştırılmasına dayanan popüler bir güçlenme perspektifinden doğurmaktadır.\nTemel amaç, dijital olarak dışlanmış bölgelerde iletişim hizmetlerinin kendiliğinden sağlanması için bir ağ modeli geliştirmektir.\nTopluluğun çabasına ve organizasyonuna dayanarak, bu model insan gelişimi için temel kabul edilen bir ihtiyacı karşılama fırsatı sunuyor: dijital iletişim."
+
+#: 01.en.txt:11
+msgid "3a)\nOur little piece of the internet"
+msgstr "3a)\nİnternetin küçük parçamız"
+
+#: 01.en.txt:14
+msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
+msgstr "3b)\n\"Şu anda Dünya'da yaşayan insanların %52'sinin internet erişimi yok.\" *"
+
+#: 01.en.txt:18
+msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
+msgstr "3c)\nBu eşitsizlik, düşük nüfus yoğunluğu ve düşük gelirin ticari ağ altyapısının konuşlandırılması için çok az teşvik oluşturduğu Afrika, Latin Amerika ve küresel güneydeki kırsal alanlarda daha derindir. Bu, onları dijital olarak dışlanmış veya ihmal edilmiş alanlar haline getirir.\nÇoğu durumda, dijital olarak dışlanmış alanlarda yaşayan insanlar da yetersiz ekonomik kaynaklar, istihdam, eğitim, ulaşım, elektrik, cinsiyet eşitliği ve toprağa ve içme suyuna erişim gibi diğer zorluklara sahiptir."
+
+#: 01.en.txt:21
+msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
+msgstr "3d)\nLibre ve topluluk ağlarının temel rolü, internet ağlarının yayılması için düşük maliyetli özerk teknolojik altyapının inşasını kolaylaştırmaktır. Birincil amaç, ticari ağ altyapısının merkezileştirilmesi ve kontrolünün getirdiği engelleri ve bu altyapı üzerinde dolaşan içeriğin üstesinden gelmektir."
+
+#: 01.en.txt:25
+msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
+msgstr "3e)\n* Geniş Bant Devleti: Geniş bant sürdürülebilir kalkınmayı katalize ediyor. Eylül 2017 /\nSürdürülebilir Kalkınma İçin Geniş Bant Komisyonu - İTÜ - UNESCO"
+
+#: 01.en.txt:28
+msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
+msgstr "4a)\nBuradaki zorluk yalnızca internet erişimini kolaylaştırmak değil, aynı zamanda küçük internet parçamızı da, toplulukların kendileri tarafından yönetilen libre ve topluluk ağları aracılığıyla işbirlikçi ve organize yollarla inşa etmektir."
+
+#: 01.en.txt:31
+msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
+msgstr "4b)\nİnternet, şeffaflığı ve bilgiye erişimi arttırmada ve toplulukların durumunu iyileştiren sosyal, kültürel, ekonomik ve politik değişikliklerin desteklenmesinde sivil katılımın kolaylaştırılması için bir araçtır."
+
+#: 01.en.txt:35
+msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
+msgstr "4c)\nLibre ve topluluk ağları, \"mümkün olan diğer bir dünya\" için işbirliğine dayalı topluluk güçlendirme süreçlerinin sağlamlaştırılmasını teşvik eder.\n."
+
+#: 01.en.txt:38
+msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
+msgstr "4d)\nBu şekilde görüldüğü zaman, interneti ortak bir iyilik (ya da müşterek olarak) olarak düşünmek hayati ve gerekli hale gelir.\n."
+
+#: 01.en.txt:41
+msgid "5a)\nLibre, community and decentralized networks"
+msgstr "5a)\nLibre, topluluk ve merkezi olmayan ağlar"
+
+#: 01.en.txt:44
+msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
+msgstr "5b)\nİnternete bağlanmaya karar verdikten sonra, bunun bir parçası oluruz ve bu küresel ağ ağına nasıl katılacağımızı seçebiliriz."
+
+#: 01.en.txt:50
+msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
+msgstr "5c)\nTopluluklar tarafından anlaşmalar ve uzlaşma yoluyla açık, tarafsız ve merkezi olmayan bir ağ kurulur. Bu süreç özerklik, sürdürülebilirlik ve libre topluluk ağının işleyişi ile işbirliği yapıyor.\nAynı zamanda, topluluklara, yerel kimliklere ve ihtiyaçlara saygı duyarak kendi ağlarının yapısını ve işleyişini tasarlama gücü verir.\nLibre topluluğu ağları, ağın nasıl çalıştığını, ağ hakkında karar verebilmek ve ticaret kurallarına veya çoğu durumda toplulukların çıkarlarına aykırı olan empoze edilen kriterlere tabi olmamak için nasıl çalıştığını öğrenmeye ve bilmelerine izin verir.\nTeknolojilerin kullanılması ve anlaşılması, dijital kaynaklara kapsamlı ve bilinçli bir erişim sağlar, eğitimi kolaylaştırır, öğrenir, bilgi paylaşır, yerel iletişim ve medya araçları yaratır, sivil katılım ve sosyal ve bölgesel ekonomi yaratır."
+
+#: 01.en.txt:53
+msgid "6a)\nLibre, Community Decentralized Networks"
+msgstr "6a)\nLibre, Topluluk Merkezsiz Ağlar"
+
+#: 01.en.txt:59
+msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
+msgstr "6b)\nLibre kullanımı\nTarafsızlık\nLibre arabağlantı\nLibre transit"
+
+#: 01.en.txt:65
+msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
+msgstr "6c)\nToplu mülkiyet\nSosyal yönetim\nErişilebilir tasarım\nAçık katılım"
+
+#: 01.en.txt:70
+msgid "6d)\nDistributed\nScalable\nLow cost"
+msgstr "6d)\nDağıtılmış\nÖlçeklenebilir\nDüşük maliyetli"
+
+#: 01.en.txt:73
+msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
+msgstr "7a)\nTopluluk ağları onları tanımlayan ve güçlü yönleri olan belirli özelliklere sahiptir:"
+
+#: 01.en.txt:83
+msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
+msgstr "7b)\nToplu mülkiyet\nBu, altyapının (antenler, yönlendiriciler, kablolar, vb.) Ağın ve onu dağıtan topluluğun tüm üyelerinin mülkiyetinde olduğu anlamına gelir. Bireysel sahip, ne özel mülk, ne de diğerlerinden daha önemli olan yok.\nSosyal yönetim\nAğın ağ üyeleri tarafından yönetildiği anlamına gelir. Kural veren bir kişi yok, kararlar herkes tarafından veriliyor.\nErişilebilir tasarım\nAğın ve bileşenlerinin nasıl işlediğiyle ilgili bilgi herkesin bilmesi, öğrenmesi ve aynı zamanda kopyalayıp paylaşması için herkese açık ve erişilebilir.\nAçık katılım\nHerkesin ağa katılabileceği veya genişletebileceği, tasarımına, ilkelerine ve örgütlenme şekline saygı duyacağı anlamına gelir."
+
+#: 01.en.txt:87
+msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
+msgstr "7c)\nÖzgür bir topluluk ağı, internet bağlantısı için ücretsiz veya düşük maliyetli bir hizmet değildir.\nTopluluklarının iletişim hakkını garanti altına almak için çalışan örgütlü bir gruptur."
+
+#: 01.en.txt:90
+msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
+msgstr "8a)\nAyrıca, bir topluluk ağı olmanın yanı sıra, özgür bir ağ olması için bu dört özelliği yerine getirmesi gerekir:"
+
+#: 01.en.txt:100
+msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
+msgstr "8b)\nLibre kullanımı\nAğın iyi işleyişini etkilemediği sürece, sınırsız geçişin her türlü hizmeti ve içeriği almasını ve sunmasını sağlar. Başka bir deyişle, ağdaki veri akışı koşulsuzdur.\ntarafsızlık\nBu özellik, veri trafiğinin, içerik, platform, uygulama veya erişim için kullanılan ekipman türüne dayalı ayrımcılık yapılmaksızın eşitlikçi bir şekilde yönetildiği anlamına gelir. Ağ içindeki veri akışları sıralanmaz ya da keyfi bir şekilde değiştirilmez.\nLibre arabağlantı\nBu, her iki yönde de özgürce, tarafsız ve ücretsiz veri akışıyla ağlar arasındaki bağlantıyı karşılıklı olarak garanti etmek anlamına gelir.\nLibre transit\nSerbest geçiş anlaşması olan iki ağ, yalnızca birbirleri arasındaki veri trafiğine izin vermekle kalmaz, aynı zamanda benzer anlaşmaları olan diğer ağlar için hedeflenen trafik akışını da sağlar. Bu nedenle, veriler bir libre ağını diğerine ulaşmak için geçerek \"libre ağları ağının\" erişimini genişletebilir."
+
+#: 01.en.txt:105
+msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
+msgstr "9)\nBu düzenlemede, temsil edilen iki tür ara bağlantı sözleşmesi vardır:\n- Topluluk ağları ağının kendi aralarında serbest geçişe ve ara bağlantıdan bağımsız olarak, tarafsızlığa saygı duymak için eşit bir sözleşmesi vardır. Bu sözleşmeler sayesinde ağ 1, ağ 3 geçiş ağı 2 ile sınırsız olarak iletişim kurabilir.\n- Ağ 2 ve 3, internetin geri kalanıyla bağlantı kurmak için, akranlar arasında değil, daha çok sağlayıcı-tüketici arasındaki sözleşmeye dayalı bir ilişki yoluyla ticari bir servise sahiptir. Bu sağlayıcı, müşterileriyle, ağlarının dağıtımını veya yapılandırmasını hiçbir şekilde paylaşmaz."
+
+#: 01.en.txt:109
+msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
+msgstr "10a)\nBu libre topluluk ağlarının msh topolojisine sahip olarak kullanılması, yukarıda belirtilen özelliklerin, doğal özelliklerinin ademi merkeziyetçilik olduğu düşünülerek daha doğal bir şekilde geliştirilmesine olanak tanır.\nBu ağ türünde, her kablosuz düğüm (yönlendirici ve anten) bir veya daha fazla komşu düğümle bağlanır. Bu şekilde, durmalardan birinin çalışması durduğunda veri trafiğinin yolu otomatik olarak değişir. Aynı zamanda, merkezi erişim noktalarına sahip olmak artık gerekli değildir. Bu nedenlerden dolayı, ağ ağları merkezden dağıtılmış ve dağıtılmış ağlardır."
+
+#: 01.en.txt:112
+msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
+msgstr "10b)\nBir NODE bir anten, bir yönlendirici ve bağlantıya izin veren yazılımdan oluşur."
+
+#: 01.en.txt:115
+msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
+msgstr "11a)\nBu dağıtılmış ağ tasarımı daha ucuzdur çünkü pahalı merkezi düğümlere ihtiyaç duymaz. Ağ, düğümden düğüme büyür, ilerici bir şekilde genişler ve dağıtım ve bakım maliyetlerini ağ ölçeğine göre tutar."
+
+#: 01.en.txt:118
+msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
+msgstr "11b)\nÖzgür ve merkezi olmayan topluluk ağları oluşturmak istediğimizi söylediğimizde, kendimizi daha özgür ve toplumsal [veya toplum ruhlu] olmak için küçük bir internet parçamızı toplu olarak inşa etmek istiyoruz."
+
+#: 01.en.txt:121
+msgid "12a)\nThe LibreRouter Project: A community for your network"
+msgstr "12a)\nLibreRouter Projesi: Ağınız için bir topluluk"
+
+#: 01.en.txt:128
+msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
+msgstr "12b)\nUzun süre boyunca, libe topluluk ağları  hackleyen insanların ortak çalışmasıyla inşa edildi. Birlikte, libre yazılımını geliştirdiler ve ağların belirli gereksinimlerine yanıt vererek mevcut donanımı değiştirdiler.\nBaşarılardan biri, bazı ticari ev yönlendiricilerin fabrikadan gelen özel yazılımını değiştirmekti.\nBu, yönlendiricilerin potansiyellerini tam olarak kullanabilmelerini sağlayarak, üreticilerin pazar mantığına göre sınırlandırdığı işlevleri sağladı. Katkı, özellikle açık, serbest, tarafsız ve merkezi olmayan ağların konuşlandırılması için maliyetleri düşürdü.\nAğustos 2016’da, ABD devlet kurumu FCC’nin (Federal Haberleşme Komisyonu) yayınladığı bir düzenleme, üreticilerin fabrikadan kurulup yapılandırılan yazılımın değiştirilmesini engellemesine neden oldu.\nBu eylem, topluluk ağlarının karar verme ya da hareket etme kapasitelerinin çok az olduğu ya da hiç bulunmadığı keyfi kararlara rehin olduğunu açıkça ortaya koydu."
+
+#: 01.en.txt:132
+msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
+msgstr "13a)\nLibreRouter projesi, küresel güneydeki dijital olarak dışlanmış alanların ihtiyaçlarına odaklanan donanım, yazılım ve belgeler geliştiriyor.\nBazı önemli özellikler şunlardır:"
+
+#: 01.en.txt:139
+msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
+msgstr "13b)\nDonanım\nYönlendirici ve antenleri hava koşullarına dayanıklı plastik kasalarla korunmaktadır.\nTahta, düğümü belirli kullanımlara uyarlamak için farklı konektörlere sahiptir. Örneğin, bir GPS modülü.\nDonanımın tasarımı, çalışmak, değiştirmek ve yeniden üretmek isteyen herkes için uygundur, çünkü serbest donanımdır.\nLibreRouter, önceden yüklenmiş olan LibreMesh ile kullanıma hazır hale gelir."
+
+#: 01.en.txt:145
+msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
+msgstr "14a)\nYazılım\nUygulamalar ve programlar, ağ bilgisi olmayan kişilerin kolaylıkla ağı yapılandırmayı, eşleştirmeyi, izlemeyi ve sorunlarını gidermeyi öğrenebileceği bir sürecin parçası olarak tasarlanmıştır.\nAğın genişletilmesini basitleştirir. Yeni düğümler, mevcut düğümlerden aldıkları bilgilere göre otomatik olarak yapılandırılır.\nAlterMundi tarafından geliştirilen tüm yazılımların özgür bir lisansı vardır, böylece herkes onu kullanabilir ve kendi ihtiyaçlarına göre uyarlayabilir."
+
+#: 01.en.txt:151
+msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
+msgstr "14b)\nBelgeleme\nBelgelerimiz LibreRouter'in kullanımını ve bununla birlikte gelen uygulamaları açıklar.\nWeb sitemizde docs.altermundi.net tüm dökümanları görsel ve görsel-işitsel biçimde ve çoklu dilde mevcuttur.\nHerkes içeriğimizi özgürce kullanabilir, kopyalayabilir, değiştirebilir, tercüme edebilir ve paylaşabilir."
+
+#: 01.en.txt:154
+msgid "15a)\nA network in your community"
+msgstr "15a)\nTopluluğunuzdaki bir ağ"
+
+#: 01.en.txt:158
+msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
+msgstr "15b)\nBelgelerimiz aracılığıyla, topluluklarınızda İnternet için bir libre topluluk ağı kurma yolunu başlatmak üzere bir topluluk düzenlemenin olası bir yolunu paylaşıyoruz.\nİşin organizasyonunu ve amaçlarını gerçekleştirmek insanlar arasında sürekli bir döngüsel yardımlaşma sürecidir."
+
+#: 01.en.txt:163
+msgid "15c)\nPlanning\nDeployment\nMaintenance"
+msgstr "15c)\nPlanlama\nYayılma\nBakım"
+
+#: 01.en.txt:166
+msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
+msgstr "15d)\nBu iş ve organizasyon döngüleri ağın dağıtımını ve bakımını yönlendirir ve ağın güçlendirilmesi ve dönüştürülmesi, varlığı ve gelişimi boyunca devam eder. Bu çevrimler, ağın buluşma yeri ve ortak kimlik olarak oluşturulmasına katkıda bulunur."
+
+#: 01.en.txt:175
+msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+msgstr "16)\nBir topluluk ağı projesi var mı?\nBize güven.\nSize katılmak isteriz!\ninfo@altermundi.net\nDaha fazla bilgi ve belgeler\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+
