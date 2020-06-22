@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-05-07 15:11:36+0000\n"
+"PO-Revision-Date: 2020-06-22 15:23:43+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -160,7 +160,7 @@ msgstr ""
 
 #: 01.en.txt:163
 msgid "15c)\nPlanning\nDeployment\nMaintenance"
-msgstr ""
+msgstr "15c)\nPlannayış\nVılabiyayış\nWeynayış"
 
 #: 01.en.txt:166
 msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
