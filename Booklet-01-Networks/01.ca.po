@@ -1,0 +1,172 @@
+# Translation of LibreMesh - Booklet 1: Networks to Catalan (català)
+# Exported from translatewiki.net
+#
+# Author: Fitoschido
+# Author: Mguix
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2020-08-13 17:18:36+0000\n"
+"X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2020-07-20\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 01.en.txt:3
+msgid "1)\nLibre, Community and Decentralised Networks"
+msgstr "1)\nXarxes lliures, comunitàries i descentralitzades"
+
+#: 01.en.txt:8
+msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
+msgstr "l'objectiu d'emancipació popular basada en l'apropiació de la tecnologia mitjançant la col·laboració entre companys i l'ús i desenvolupament de programari i maquinari lliures .\nL'objectiu principal és desenvolupar un model de xarxa per a la prestació automàtica de serveis de comunicació a les regions excloses digitalment.\nA partir de l'esforç i l'organització de la comunitat, aquest model ofereix l'oportunitat de donar resposta a una necessitat que ara es considera bàsica per al desenvolupament humà: la comunicació digital."
+
+#: 01.en.txt:11
+msgid "3a)\nOur little piece of the internet"
+msgstr "3a)\nLa nostra petita habitació d’Internet"
+
+#: 01.en.txt:14
+msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
+msgstr "3b)\n“Actualment, el 52% de les persones que viuen a la Terra no tenen accés a Internet.\"*"
+
+#: 01.en.txt:18
+msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
+msgstr "3c)\nAquesta desigualtat és més profunda a les zones rurals de l’Àfrica, l’Amèrica Llatina i el sud en general, on la baixa densitat de població i els baixos ingressos generen pocs incentius per al desplegament d’infraestructures de serveis comercials. Això els converteix en àrees que queden excluïdes o descuidades numèricament.\nEn la majoria dels casos, les persones que viuen en zones excloses numèricament s’enfronten a altres reptes, com ara recursos econòmics, ocupació, educació, transport, electricitat, igualtat de gènere i accés a terra insuficient i aigua potable."
+
+#: 01.en.txt:21
+msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
+msgstr "3d)\nEl paper fonamental de les xarxes lliures i comunitàries és de facilitar la construcció d'infraestructura tecnològica autònoma a baix cost per al desplegament de xarxes Internet. L'objectiu principal és de superar les barreres imposades per la centralització i el control de la infraestructura de les xarxes comercials sobre el contingut que circula sobre aquesta infraestructura."
+
+#: 01.en.txt:25
+msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
+msgstr "3r)\n* L'estat de l'alt dèbit : l'alt dèbit com catalitzador del desenvolupament sostenible. Setembre 2017 /\nComissió de l'alt dèbit per al desenvolupament sostenible – ITU, UNESCO"
+
+#: 01.en.txt:28
+msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
+msgstr "4a)\nEl repte no és només facilitar l’accés a Internet, sinó construir la nostra petita part d’Internet a través de xarxes gratuïtes i comunitàries governades per les pròpies comunitats, de manera col·laborativa i organitzada."
+
+#: 01.en.txt:31
+msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
+msgstr "4b)\nInternet és una eina per augmentar la transparència i l’accés a la informació i per facilitar el compromís cívic per donar suport als canvis socials, culturals, econòmics i polítics que milloren la situació de les comunitats."
+
+#: 01.en.txt:35
+msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
+msgstr "4c)\nLes xarxes lliures i comunitàries fomenten la consolidació de processos d’empoderament de les comunitats cooperatives per \"fer possible un altre món\". \""
+
+#: 01.en.txt:38
+msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
+msgstr "4d)\nVist des d'aquesta perspectiva, es fa vital i necessari pensar en Internet com a bé comú (o com a conjunt de béns comuns)."
+
+#: 01.en.txt:41
+msgid "5a)\nLibre, community and decentralized networks"
+msgstr "5a)\nXarxes lliures, comunitàries i descentralitzades"
+
+#: 01.en.txt:44
+msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
+msgstr "5b)\nAl decidir-nos a connectar-nos a Internet, ens integrem i podem triar com participar en aquesta xarxa global de xarxes."
+
+#: 01.en.txt:50
+msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
+msgstr "5c)\nLes comunitats construeixen una xarxa oberta, neutral i descentralitzada mitjançant acords i consens. Aquest procés col·labora amb l’autonomia, la sostenibilitat i el funcionament de la xarxa de comunitats lliures.\nAl mateix temps, capacita les comunitats per dissenyar l'estructura i el funcionament de la seva pròpia xarxa, respectant les identitats i necessitats locals.\nLes xarxes comunitàries lliures permeten aprendre i saber com funciona la xarxa per poder prendre decisions sobre la xarxa i no estar subordinades a les regles de comerç o als criteris imposats que, en la majoria dels casos, s’oposen als interessos de les comunitats.\nL’ús i la comprensió de les tecnologies promou un accés inclusiu i conscient als recursos digitals, facilitant l’educació, l’aprenentatge, l’intercanvi de coneixement, la creació de mitjans locals de comunicació i mitjans de comunicació, l’acció cívica i l’economia social i regional."
+
+#: 01.en.txt:53
+msgid "6a)\nLibre, Community Decentralized Networks"
+msgstr "6a)\nXarxes lliures, comunitàries i descentralitzades"
+
+#: 01.en.txt:59
+msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
+msgstr "6b)\nÚs lliure\nNeutralitat\nInterconnexió lliure\nTrànsit lliure"
+
+#: 01.en.txt:65
+msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
+msgstr "6c)\nPropietat col·lectiva\nAdministració social\nDisseny accessible\nParticipació oberta"
+
+#: 01.en.txt:70
+msgid "6d)\nDistributed\nScalable\nLow cost"
+msgstr "6d)\nDistribuït\nEscalable\nBaix cost"
+
+#: 01.en.txt:73
+msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
+msgstr "7a)\nLes xarxes comunitàries tenen característiques específiques que les defineixen i els seus punts forts són:"
+
+#: 01.en.txt:83
+msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
+msgstr "7b)\nPropietat col·lectiva\nAixò vol dir que la infraestructura (antenes, encaminadors, cables, etc.) és propietat de tots els membres de la xarxa i de la comunitat que la desplega. No hi ha un propietari individual o privat i ningú és més important que els altres.\nGestió social\nAixò vol dir que la xarxa és administrada pels membres de la xarxa. No hi ha ningú al cap, sinó que les decisions les prenen tothom.\nDisseny accessible\nLa informació sobre el funcionament de la xarxa i els components és pública i accessible, perquè tothom pugui conèixer i aprendre, però també copiar i compartir.\nParticipació oberta\nAixò significa que qualsevol pot unir-se o ampliar la xarxa, respectant el seu disseny, principis i la seva forma d’organitzar-se."
+
+#: 01.en.txt:87
+msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
+msgstr "7c)\nUna xarxa de comunitats lliures no és un servei gratuït o de baix cost per a connexió a Internet.\nEs tracta d’un grup organitzat de persones que treballa per garantir el dret a la comunicació de la seva comunitat."
+
+#: 01.en.txt:90
+msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
+msgstr "8a)\nI, a més de ser una xarxa comunitària, per ser una xarxa lliure ha de complir aquestes quatre característiques:"
+
+#: 01.en.txt:100
+msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
+msgstr "8b)\nÚs lliure\nPermet el trànsit sense restriccions per rebre i oferir qualsevol tipus de servei i contingut, sempre que no afecti el bon funcionament de la xarxa. És a dir, el flux de dades a la xarxa és incondicional.\nNeutralitat\nAquesta característica significa que el trànsit de dades es gestiona de manera igualitària, sense discriminacions basades en contingut, plataforma, aplicació o tipus d’equips utilitzats per a l’accés. Els fluxos de dades dins de la xarxa no es classifiquen ni es modifiquen arbitràriament.\nInterconnexió lliure\nAixò significa garantir la interconnexió entre les xarxes, amb un flux de dades lliure, neutre i lliure de costos en ambdues direccions, de manera recíproca.\nTrànsit lliure\nDues xarxes que tenen un acord de trànsit lliure no només permeten trànsit de dades entre si, sinó que també hi ha un flux de trànsit destinat a altres xarxes amb les quals tenen acords similars. Per tant, les dades poden travessar una xarxa lliure per arribar a una altra, ampliant l'abast de la \"xarxa de xarxes lliures\"."
+
+#: 01.en.txt:105
+msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
+msgstr "9)\nEn aquesta il·lustració hi ha representats dos tipus de contractes d'interconnexió:\n- La xarxa de xarxes comunitàries té un contracte entre si iguals per al lliure trànsit i la interconnexió sense cost, respectant la neutralitat. Gràcies a aquests contractes, la xarxa 1 pot comunicar-se amb la xarxa 3 creuant la xarxa 2 sense limitacions.\n- Les xarxes 2 i 3 tenen un servei comercial per connectar-se amb la resta d’internet, a través d’una relació contractual que no està entre iguals, sinó proveïdor-consumidor. Aquest proveïdor no comparteix amb els seus clients cap aspecte del desplegament o configuració de la seva xarxa."
+
+#: 01.en.txt:109
+msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
+msgstr "10a)\nEl desplegament d’aquestes xarxes de comunitats amb una topologia web (i no una estrella jeràrquica) permet el desenvolupament de les característiques esmentades anteriorment d’una manera més natural, perquè la seva característica bàsica és la descentralització.\nEn aquest tipus de xarxa de lona, ​​cada node sense fil (encaminador i antena) es connecta amb un o més nodes veïns. D’aquesta manera, la ruta del trànsit de dades canvia automàticament quan un d’ells deixa de funcionar. Al mateix temps, ja no cal mantenir els punts d'accés centrals. Per aquestes raons, les xarxes web són xarxes descentralitzades i distribuïdes."
+
+#: 01.en.txt:112
+msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
+msgstr "10b)\nUn NODE està compost per una antena, un encaminador i el programari que permet connectivitat."
+
+#: 01.en.txt:115
+msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
+msgstr "11a)\nAquest disseny de xarxa distribuït és menys costós perquè no necessita nodes centrals costosos. La xarxa creix de node a node, ampliant-se progressivament i mantenint els costos de desplegament i manteniment al ritme de l'escala de xarxa."
+
+#: 01.en.txt:118
+msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
+msgstr "11b)\nQuan diem que volem crear xarxes de comunitats lliures i descentralitzades, volem dir que col·lectivament construïm el nostre petit espai d’internet per ser nosaltres mateixos més lliures i comunitaris (o amb esperit comunitari)."
+
+#: 01.en.txt:121
+msgid "12a)\nThe LibreRouter Project: A community for your network"
+msgstr "12a)\nEl projecte LibreRouter: Una comunitat per a la vostra xarxa"
+
+#: 01.en.txt:128
+msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
+msgstr "12b)\nDurant molt de temps es van crear xarxes comunitàries lliures mitjançant el treball col·laboratiu de persones que les van programar i adaptar. Junts han desenvolupat programari gratuït i modificat el maquinari disponible per satisfer les necessitats específiques de les xarxes.\nUna de les realitzacions va ser canviar el programari propietari que s’inclogué als encaminadors comercials quan es fabricaven.\nAixò va permetre que els encaminadors s’utilitzessin al màxim de les seves possibilitats, permetent funcions que els fabricants limitaven segons la seva lògica de mercat. Les contribucions van reduir costos, en particular per al desplegament de xarxes obertes, gratuïtes, neutres i descentralitzades.\nL’agost de 2016, un reglament emès per la Federal Communications Commission (FCC), una agència estatal dels Estats Units, va portar als fabricants a bloquejar la substitució de programari preinstal·lat i configurat a la fàbrica.\nAquesta acció va deixar clar que les xarxes de comunicacions eren ostatges a decisions arbitràries en què tenien poca o cap capacitat de decisió o actuació."
+
+#: 01.en.txt:132
+msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
+msgstr "13a)\nEl projecte '' LibreRouter '' desenvolupa maquinari, programari i documentació per a necessitats de zones excloses digitalment del sud global.\nAlgunes característiques destacables inclouen:"
+
+#: 01.en.txt:139
+msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
+msgstr "13b)\nEquipament\nL'encaminador i les seves antenes estan protegits per petxines de plàstic resistents a l'aigua.\nEl circuit imprès té diferents connectors disponibles per adaptar el node a usos particulars. Per exemple, un mòdul GPS.\nL’arquitectura del maquinari està disponible per a qualsevol persona que vulgui estudiar-la, modificar-la o reproduir-la, ja que el maquinari està sota una llicència de codi obert.\nEl '' LibreRouter '' està preparat per utilitzar amb '' LibreMesh '' preinstal·lat."
+
+#: 01.en.txt:145
+msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
+msgstr "14a)\nProgramari\nLes aplicacions i els programes estan dissenyats com a parts d’un procés en què persones sense coneixements de xarxa poden aprendre a configurar, implementar, gestionar i solucionar problemes amb facilitat.\nSimplifiqueu l’expansió de xarxa. Nous nodes autoconfigurant-se en funció de la informació que reben dels nodes existents.\nTot el programari desenvolupat per '' AlterMundi '' té una llicència gratuïta, de manera que qualsevol pot utilitzar-la i adaptar-la a les seves necessitats."
+
+#: 01.en.txt:151
+msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
+msgstr "14b)\nDocumentació\nLa nostra documentació explica l'ús del \"LibreRouter\" i les aplicacions associades.\nAl nostre lloc web ''docs.altermundi.net'', tota la documentació està disponible en format il·lustrat i audiovisual en diversos idiomes.\nQualsevol persona pot utilitzar, copiar, editar, traduir i compartir el nostre contingut de forma gratuïta."
+
+#: 01.en.txt:154
+msgid "15a)\nA network in your community"
+msgstr "15a)\nUna xarxa en la vostra comunitat"
+
+#: 01.en.txt:158
+msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
+msgstr "15b)\nA través de la nostra documentació, compartim una manera possible d’organitzar una comunitat per iniciar aquest camí de creació d’una xarxa de comunitat lliure per a Internet a les vostres comunitats.\nÉs un procés cíclic continu d’ajuda mútua entre les persones per dur a terme l’organització del treball i els objectius."
+
+#: 01.en.txt:163
+msgid "15c)\nPlanning\nDeployment\nMaintenance"
+msgstr "15c)\nPlanificació\nDesplegament\nManteniment"
+
+#: 01.en.txt:166
+msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
+msgstr "15d)\nAquests cicles de treball i organització guien el desplegament i el manteniment de la xarxa i continuen al llarg de la seva existència i desenvolupament, enfortint i transformant la xarxa. Aquests cicles contribueixen a la creació de la xarxa com a lloc de trobada i identitat col·lectiva."
+
+#: 01.en.txt:175
+msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+msgstr "16)\nHi ha un projecte de xarxa comunitària?\nCompta amb nosaltres.\nEns encantaria unir-vos!\ninfo@altermundi.net\nMés informació i documentació\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+

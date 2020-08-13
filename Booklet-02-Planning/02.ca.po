@@ -1,0 +1,148 @@
+# Translation of LibreMesh - Booklet 2: Planning to Catalan (català)
+# Exported from translatewiki.net
+#
+# Author: Fitoschido
+# Author: Mguix
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2020-08-13 17:18:36+0000\n"
+"X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2020-07-20\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 02-en-Planning.txt:3
+msgid "1)\nPLANNING A FREE/LIBRE COMMUNITY NETWORK"
+msgstr "1)\nPLANEJAMENT D’UNA XARXA COMUNITÀRIA LLIURE"
+
+#: 02-en-Planning.txt:6
+msgid "2a)\nThe key ingredient to start a community network is the community!"
+msgstr "2a)\nL’ingredient clau per iniciar una xarxa de comunitat és la comunitat!"
+
+#: 02-en-Planning.txt:9
+msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
+msgstr "2b)\nCom a punt de partida, és necessari formar un grup de persones interessades a treballar per l’autonomia de les seves comunicacions, que senten la necessitat d’implementar aquest projecte molt tecnològic, però, sobretot, molt social."
+
+#: 02-en-Planning.txt:17
+msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
+msgstr "3)\nPlanificació\nAnalitzeu la nostra comunitat\nOrganitzeu l’acció\nPenseu en el finançament\nOrganitzeu l'administració\nPlanifiqueu el desplegament"
+
+#: 02-en-Planning.txt:20
+msgid "4a)\nAnalyze our community"
+msgstr "4a)\nAnalitzeu la nostra comunitat"
+
+#: 02-en-Planning.txt:23
+msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
+msgstr "4b)\nL’anàlisi sociocultural connecta factors del context social, que juntament amb la comprensió de les necessitats, normes i valors que defineixen la nostra comunitat, ens permet dissenyar solucions adequades."
+
+#: 02-en-Planning.txt:28
+msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
+msgstr "4c)\nL’anàlisi de la nostra realitat com a comunitat ens ajudarà a prendre decisions col·lectives sàvies i a crear una identitat que ens representi.\nLes decisions sobre les característiques de la nostra xarxa de comunitat lliure / lliure es prendran en funció del tipus de relacions existents a la nostra comunitat.\nÉs per això que és tan important fer aquesta anàlisi: preveure les limitacions i necessitats que poden sorgir en el nostre projecte de xarxa respecte a les persones que l’utilitzaran i les maneres d’utilitzar-lo."
+
+#: 02-en-Planning.txt:31
+msgid "5a)\nTo guide yourself in this analysis, you can think about:"
+msgstr "5a)\nPer orientar-vos en aquesta anàlisi, podeu pensar en:"
+
+#: 02-en-Planning.txt:42
+msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
+msgstr "5b)\nQuines causes motiven la construcció d’una xarxa de comunitat gratuïta?\nQuants participants conté la comunitat?\nQui faria servir la xarxa i per a què?\nTambé podeu dur a terme un cens informal de grups d’edat, sexe o altres característiques rellevants.\nÉs important tenir en compte qualsevol condició especial, com ara una activitat estacional que redueixi o augmenti bruscament la població en funció de l’època de l’any.\nQuines activitats predominen a la zona i com poden afectar-les la xarxa?\nHi ha alguna amenaça recurrent?\nQuin coneixement i accés als dispositius d’Internet tenen els membres de la xarxa?\nA partir de les experiències de projectes anteriors, quin nivell d’implicació social hi ha dins de la comunitat?"
+
+#: 02-en-Planning.txt:45
+msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
+msgstr "6a)\nL’ideal és crear una xarxa tant digital com formada per persones amb fortes relacions amb la comunitat. Per assolir aquest objectiu, la inclusió i participació d’entitats i espais comunitaris és molt important, com ara escoles, clubs, entitats governamentals, mitjans de comunicació, habitatges, centres culturals, places i parades de transport públic."
+
+#: 02-en-Planning.txt:48
+msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
+msgstr "6b)\nPer posar alguns exemples: Hi ha xarxes de localitats turístiques que han de limitar l’accés durant els temps de vacances per tal de mantenir el bon funcionament de la xarxa. Altres localitats han fet un acord \"padrins\" per ajudar a les famílies que per diverses raons culturals és impossible de gestionar les seves pròpies nodes de xarxa. També hi ha localitats que han decidit deixar la seva xarxa accessible i oberta a les zones públiques donada l’absència completa de cobertura d’altres serveis de comunicació."
+
+#: 02-en-Planning.txt:51
+msgid "7a)\nOrganize action"
+msgstr "7a)\nOrganitzar l’acció"
+
+#: 02-en-Planning.txt:54
+msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
+msgstr "7b)\nDissenyar una organització de treball, comunicació i aprenentatge i reunir allò que implica i motiva a tothom a participar és un gran repte i és fonamental per al funcionament d’una xarxa comunitària lliure / oberta."
+
+#: 02-en-Planning.txt:59
+msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
+msgstr "7c)\nHabitualment, quan la gent es reuneix per treballar col·lectivament, la diversitat entre les persones posa de manifest actituds i coneixements personals únics complementaris entre si.\nLa definició de rols, àrees de treball col·lectives i pràctiques de comunicació interna permet l'autogestió per mantenir el projecte a llarg termini.\nL'elecció d'un nom per al nework i el disseny d'un logotip o imatge representativa permeten la creació d'una identitat col·lectiva. Fer un lloc web pot fer el mateix."
+
+#: 02-en-Planning.txt:65
+msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
+msgstr "8a)\nLa definició d’objectius a curt i llarg termini ajuda a accelerar i orientar clarament els processos de treball en grup. A més, anima als membres a assumir funcions proactives en la resolució de problemes i la participació col·lectiva en la presa de decisions.\nS'espera que els membres de la xarxa mostrin diferents graus de compromís. Alguns dedicaran més esforços que altres o desenvoluparan capacitats diferents.\nPer això, és bo definir un compromís mínim que tots els membres han de complir per participar en el projecte.\nL’elaboració i l’ús compartit de les característiques de la xarxa, com ara la conversa sobre què és la xarxa, com han d’actuar els membres i els seus rols específics, proporciona claredat al projecte."
+
+#: 02-en-Planning.txt:68
+msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
+msgstr "9a)\nLes reunions periòdiques presencials són una eina molt important per crear espais de la comunitat i per prendre decisions, compartir coneixement, planificar i resoldre problemes. La reunió també ofereix un espai on es construeix la identitat col·lectiva i comunitària i convida altres persones a unir-se a la xarxa."
+
+#: 02-en-Planning.txt:73
+msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
+msgstr "9b)\nPer posar alguns exemples: hi ha xarxes que tenen reunions mensuals amb una agenda creada prèviament amb temes per tractar i amb actes escrits durant la reunió. D’aquesta manera es pot compartir un resum amb les persones que no poden assistir i també es pot posar en un arxiu de la xarxa.\nEn altres casos, s’organitzen xerrades i tallers per a les persones que vulguin formar part de la xarxa. De vegades, les reunions són obligatòries per als nous membres.\nEn algunes xarxes, la conversa freqüent entre els membres de la xarxa es produeix mitjançant eines de comunicació de grup, intercanviant opinions, problemes específics o informació."
+
+#: 02-en-Planning.txt:76
+msgid "10a)\nThink about financing"
+msgstr "10a)\nPenseu en el finançament"
+
+#: 02-en-Planning.txt:79
+msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
+msgstr "10b)\nFer una anàlisi econòmica ens permetrà estimar i planificar la inversió monetària necessària per implementar el projecte i mantenir-lo amb el pas del temps."
+
+#: 02-en-Planning.txt:83
+msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
+msgstr "10c)\nSaber la quantitat de diners necessaris perquè la nostra xarxa funcioni ens permetrà avaluar diversos mecanismes d’autogestió i finançament per a les diferents fases de compra, construcció, instal·lació, reparació, creixement i actualització de la xarxa.\nD’una banda, cal tenir en compte quants diners i altres recursos necessitem i, d’altra banda, com els obtindrem."
+
+#: 02-en-Planning.txt:86
+msgid "11a)\nThere are diverse ways to get resources, such as:"
+msgstr "11a)\nHi ha diverses maneres d'obtenir recursos, com ara:"
+
+#: 02-en-Planning.txt:96
+msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
+msgstr "11b)\nDonació i intercanvi no monetari, com ara el bescanvi\nFinançament directe, com ara subscripcions, membres mensuals a la xarxa o donacions\nCapital compartit com els fons d’ajuda mútua\nParticipació de fundacions o associacions comunitàries\nFinançament públic com subvencions o col·laboracions amb entitats governamentals\nDonacions o aportacions fetes per empreses\nEsdeveniments organitzats per recaptar fons, entre d'altres ...\nUna combinació d’opcions fa que el projecte sigui més sostenible."
+
+#: 02-en-Planning.txt:100
+msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
+msgstr "12a)\nEl desplegament i la construcció inicial de la xarxa sol ser el moment més complex i exigent, ja que, a més dels nodes, és necessari adquirir les eines i els materials necessaris i també tenir en compte alguns diners addicionals per comprar recanvis.\nLes compres a granel o a l’engròs per grups redueixen notablement els costos i generen disponibilitat de materials, però alhora requereixen una inversió monetària més gran."
+
+#: 02-en-Planning.txt:104
+msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
+msgstr "12b)\nPer donar alguns exemples de com podem pensar sobre el finançament, podem deixar anar a les xarxes comunitàries on cada persona que s’uneix assumeix els costos del seu node de manera individual. En altres xarxes, el node només es paga quan s’instal·la i les reparacions i les actualitzacions es paguen a partir d’un fons col·lectiu creat per aportacions mensuals de cada membre.\nTambé hi ha una xarxa en què els primers nodes van ser finançats per ONG i, l’enllaç d’Internet el gestionava un ISP local i els membres de la xarxa van realitzar la instal·lació."
+
+#: 02-en-Planning.txt:107
+msgid "13a)\nOrganize the administration"
+msgstr "13a)\nOrganitza l'administració"
+
+#: 02-en-Planning.txt:110
+msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
+msgstr "13b)\nMantenir un registre fiable que mantinguin els membres de la xarxa que vulguin assumir el paper d’administradors és vital per al funcionament organitzat i ordenat de la xarxa."
+
+#: 02-en-Planning.txt:120
+msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
+msgstr "13c)\nAixò ens permet tenir un coneixement col·lectiu del moviment de diners, materials, eines i altres recursos. Alguns dels registres més comuns són:\nLes compres realitzades i planificades\nInventari de materials i eines, amb els llocs on es conserven\nLlista de preus dels materials disponibles, pensant en la seva substitució\nDetalls de diners i d’un altre valor posat a la xarxa\nArxiu d’acords i documents importants per al projecte\nCalendari de responsabilitats periòdiques, pagaments, informes, etc ...\nDirectori de contactes"
+
+#: 02-en-Planning.txt:123
+msgid "14a)\nPlan the deployment/installation"
+msgstr "14a)\nPlanifiqueu el desplegament / instal·lació"
+
+#: 02-en-Planning.txt:126
+msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
+msgstr "14b)\nFer una anàlisi tècnica abans del desplegament de xarxa permet una organització eficient de les tasques i recursos. Tenir tot el necessari en el moment de dur a terme una tasca ajuda a que el grup sigui àgil i ordenat i que la tasca acabi puntualment i en bon estat. Inclou tant el material com els coneixements necessaris per dur a terme la tasca."
+
+#: 02-en-Planning.txt:130
+msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
+msgstr "14c)\nSi bé hi ha nombroses alternatives tecnològiques per a la construcció d'una xarxa comunitària, aquest model proposa el LibreRouter com a dispositiu principal. El LibreRouter facilita el desplegament de xarxes de comunitats lliures ja que s'ha dissenyat amb aquest objectiu.\nLa gran majoria de nodes de la xarxa no presentaran grans reptes. Tot i això, hi haurà casos que requereixen més atenció creativa i més tècnica. Fins i tot pot ser necessari col·laborar amb persones més enllà de la xarxa que tinguin coneixements específics per resoldre problemes concrets."
+
+#: 02-en-Planning.txt:133
+msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
+msgstr "15a)\nEls membres amb un perfil més tècnic podrien debatre, per exemple, els temes següents:"
+
+#: 02-en-Planning.txt:142
+msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
+msgstr "15b)\nQuina serà l'estructura de la xarxa, tant als seus inicis com a mesura que creix\nCom reforçar la xarxa mitjançant la creació d’enllaços redundants i per tant arribar al mateix punt per més d’un camí\nIdentifiqueu nodes amb major trànsit de dades o que estiguin sobrecarregats i assegureu-vos que funcionen correctament\nCreeu diversos camins cap a punts apropiats de la xarxa, com ara la interconnexió amb Internet o amb servidors locals\nIdentificar necessitats per a dispositius específics o més potents\nResoldre problemes d’energia elèctrica no convencionals\nAjuda amb els mètodes per compartir serveis i contingut a la xarxa"
+
+#: 02-en-Planning.txt:144
+msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
+msgstr "15c)\nEn alguns casos, pot ser necessari muntar nodes amb diferents antenes que la resta de nodes, i també pot ser convenient desplegar seccions de la xarxa amb cable en lloc d’enllaços sense fil. Algunes situacions exigiran fonts elèctriques no convencionals o fonts d’alimentació de seguretat amb bateries. Cada xarxa presentarà les seves peculiaritats tècniques que s'han de resoldre amb paciència, creativitat i col·laboració dins i fora de la xarxa."
+
