@@ -2,10 +2,11 @@
 # Exported from translatewiki.net
 #
 # Author: BaRaN6161 TURK
+# Author: Cobija
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-27 16:24:47+0000\n"
+"PO-Revision-Date: 2020-09-14 15:04:30+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -111,7 +112,7 @@ msgstr "9)\nBu düzenlemede, temsil edilen iki tür ara bağlantı sözleşmesi 
 
 #: 01.en.txt:109
 msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
-msgstr "10a)\nBu libre topluluk ağlarının msh topolojisine sahip olarak kullanılması, yukarıda belirtilen özelliklerin, doğal özelliklerinin ademi merkeziyetçilik olduğu düşünülerek daha doğal bir şekilde geliştirilmesine olanak tanır.\nBu ağ türünde, her kablosuz düğüm (yönlendirici ve anten) bir veya daha fazla komşu düğümle bağlanır. Bu şekilde, durmalardan birinin çalışması durduğunda veri trafiğinin yolu otomatik olarak değişir. Aynı zamanda, merkezi erişim noktalarına sahip olmak artık gerekli değildir. Bu nedenlerden dolayı, ağ ağları merkezden dağıtılmış ve dağıtılmış ağlardır."
+msgstr "10a)\nBu libre topluluk ağlarının msh topolojisine sahip olarak kullanılması, yukarıda belirtilen özelliklerin doğal özelliklerinin ademimerkeziyetçi olduğu düşünülerek daha doğal bir şekilde geliştirilmesine olanak tanır.\nBu ağ türünde, her kablosuz düğüm (yönlendirici ve anten) bir veya daha fazla komşu düğümle bağlanır. Bu şekilde, durmalardan birinin çalışması durduğunda veri trafiğinin yolu otomatik olarak değişir. Aynı zamanda, merkezî erişim noktalarına sahip olmak artık gerekli değildir. Bu nedenlerden dolayı, ağ ağları merkezden dağıtılmış ve dağıtılmış ağlardır."
 
 #: 01.en.txt:112
 msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
