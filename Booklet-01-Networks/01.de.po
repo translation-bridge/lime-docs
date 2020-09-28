@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-09-24 13:57:36+0000\n"
+"PO-Revision-Date: 2020-09-28 15:18:11+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -52,7 +52,7 @@ msgstr "4b)\nDas Internet ist ein Instrument zur Erhöhung der Transparenz und d
 
 #: 01.en.txt:35
 msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
-msgstr ""
+msgstr "4c)\nFreie und gemeinschaftliche Netzwerke fördern die Konsolidierung kooperativer gemeinschaftlicher Gestaltungsprozesse für eine \"andere Welt, die möglich ist\"."
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
@@ -60,35 +60,35 @@ msgstr ""
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
-msgstr ""
+msgstr "Freie, gemeinschaftliche und dezentralisierte Netzwerke"
 
 #: 01.en.txt:44
 msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
-msgstr ""
+msgstr "5b)\nWenn wir uns für einen Anschluss an das Internet entscheiden, werden wir Teil davon und können wählen, wie wir an diesem globalen Netz der Netze mitwirken wollen."
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr ""
+msgstr "5c)\nEin offenes, neutrales und dezentralisiertes Netzwerk wird von den Gemeinschaften durch Vereinbarungen und Konsens aufgebaut. Dieser Prozess funktioniert im Einklang mit Unabhängigkeit, Nachhaltigkeit und dem Funktionieren des freien Gemeinschaftsnetzes.\nGleichzeitig befähigt er die Gemeinschaften, die Struktur und das Funktionieren ihres eigenen Netzes unter Berücksichtigung der lokalen Eigenheiten und Bedürfnisse zu gestalten.\nFreie Gemeinschaftsnetze ermöglichen es, zu lernen und zu verstehen, wie das Netzwerk funktioniert, um in der Lage zu sein, Entscheidungen über das Netzwerk zu treffen und sich nicht den Regeln des Handels oder den auferlegten Kriterien unterzuordnen, die in den meisten Fällen den Interessen der Gemeinschaften entgegenstehen.\nDer Einsatz und das Verständnis von Technologien fördert einen integrativen und bewussten Zugang zu digitalen Ressourcen, indem sie Bildung, Lernen, Wissensaustausch, die Schaffung lokaler Kommunikationsmittel und Medien, bürgerschaftliches Engagement sowie soziale und regionale Wirtschaft erleichtern."
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
-msgstr ""
+msgstr "6a)\nFreie, gemeinschaftliche dezentralisierte Netze"
 
 #: 01.en.txt:59
 msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
-msgstr ""
+msgstr "6b)\nFreie Nutzung\nNeutralität\nFreie Zusammenschaltung\nFreier Transit"
 
 #: 01.en.txt:65
 msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
-msgstr ""
+msgstr "6c)\nKollektives Eigentum\nSoziales Management\nBarrierefreies Design\nOffene Teilnahme"
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
-msgstr ""
+msgstr "6d)\nVerteilt\nSkalierbar\nNiedrige Kosten"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr ""
+msgstr "7a)\nGemeinschaftsnetzwerke haben spezifische Charakteristika, die sie kennzeichnen und ihre Vorzüge sind:"
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
@@ -96,11 +96,11 @@ msgstr ""
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
-msgstr ""
+msgstr "7c)\nEin freies Gemeinschaftsnetz ist kein kostenloser oder kostengünstiger Dienst für die Internetverbindung.\nEs ist eine organisierte Gruppe von Menschen, die daran arbeiten, das Recht ihrer Gemeinschaft auf Kommunikation zu garantieren."
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
-msgstr ""
+msgstr "8a)\nUnd um ein freies Gemeinschaftsnetz zu sein, muss es nicht nur ein freies Netz sein, sondern auch diese vier Merkmale erfüllen:"
 
 #: 01.en.txt:100
 msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
