@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-27 16:24:47+0000\n"
+"PO-Revision-Date: 2020-10-12 13:52:00+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -16,11 +16,11 @@ msgstr ""
 
 #: 02-en-Planning.txt:3
 msgid "1)\nPLANNING A FREE/LIBRE COMMUNITY NETWORK"
-msgstr ""
+msgstr "1)\nPLANÊ TORRA CEMIYETÊ XOSERİ/KITIBXANEYİ"
 
 #: 02-en-Planning.txt:6
 msgid "2a)\nThe key ingredient to start a community network is the community!"
-msgstr ""
+msgstr "2a)\nSerdestiya yew torri rê kılit cemiyetê yewbiyayiya!"
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."

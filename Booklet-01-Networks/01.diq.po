@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-07-27 16:24:47+0000\n"
+"PO-Revision-Date: 2020-10-12 13:52:00+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -40,7 +40,7 @@ msgstr ""
 
 #: 01.en.txt:25
 msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
-msgstr ""
+msgstr "3e)\n* Dewletê Bante Herayi : Banto hera ramnıyaye imariyeti katalize keno. Keşkelun 2017 /\nSeba ramnıyaye imariyeti Komisyonê Bantê Herayi- İTÜ - UNESCO"
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
@@ -168,5 +168,5 @@ msgstr ""
 
 #: 01.en.txt:175
 msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
-msgstr ""
+msgstr "16)\nYew torra proceyê cemiyetğ esta? \nBawerê ma bê\nMa qayılê tewrê şıma be! \ninfo@altermundi.net\nZêde melumati u dokumani\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
 
