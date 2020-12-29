@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-10-29 12:20:24+0000\n"
+"PO-Revision-Date: 2020-12-29 07:54:47+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -140,7 +140,7 @@ msgstr "15a)\nEls membres amb un perfil més tècnic podrien debatre, per exempl
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
-msgstr "15b)\nQuina serà l'estructura de la xarxa, tant als seus inicis com a mesura que creix\nCom reforçar la xarxa mitjançant la creació d’enllaços redundants i per tant arribar al mateix punt per més d’un camí\nIdentifiqueu nodes amb major trànsit de dades o que estiguin sobrecarregats i assegureu-vos que funcionen correctament\nCreeu diversos camins cap a punts apropiats de la xarxa, com ara la interconnexió amb Internet o amb servidors locals\nIdentificar necessitats per a dispositius específics o més potents\nResoldre problemes d’energia elèctrica no convencionals\nAjuda amb els mètodes per compartir serveis i contingut a la xarxa"
+msgstr "15b)\nQuina serà l'estructura de la xarxa, tant als seus inicis com a mesura que creix\nCom reforçar la xarxa mitjançant la creació d’enllaços redundants i per tant arribar al mateix punt per més d’un camí\nIdentifiqueu nodes amb més trànsit de dades o que estiguin sobrecarregats i assegureu-vos que funcionen correctament\nCreeu diversos camins cap a punts apropiats de la xarxa, com ara la interconnexió amb Internet o amb servidors locals\nIdentificar necessitats per a dispositius específics o més potents\nResoldre problemes d’energia elèctrica no convencionals\nAjuda amb els mètodes per compartir serveis i contingut a la xarxa"
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
