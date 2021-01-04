@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2020-12-22 12:58:43+0000\n"
+"PO-Revision-Date: 2021-01-04 13:46:17+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -47,11 +47,11 @@ msgstr ""
 
 #: 01.en.txt:31
 msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
-msgstr ""
+msgstr "4b)\nאינטרנט הוא כלי להגברת שקיפות וגישה למידע שנועד גם לאפשר מעורבות אזרחית לתמיכה בשינויים חברתיים, תרבותיים, כלכליים ופוליטיים שמשפרים את מצב הקהילה."
 
 #: 01.en.txt:35
 msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
-msgstr ""
+msgstr "4c)\nרשתות קהילתיות חופשיות מעודדות את תהליכי ביסוס העצמת הקהילה השיתופית לטובת „עולם אפשרי אחר.”"
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
