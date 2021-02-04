@@ -1,426 +1,177 @@
-#. extracted from 01-es-LYC.txt
-#, fuzzy
+# Translation of LibreMesh - Booklet 1: Networks to Spanish (español)
+# Exported from translatewiki.net
+#
+# Author: Fitoschido
 msgid ""
 msgstr ""
+""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-06-20 20:26-0500\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2021-02-04 07:43:11+0000\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"X-Generator: MediaWiki 1.36.0-alpha; Translate 2021-01-21\n"
+"X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
+"Language: es\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: 01-es-LYC.txt:3
-msgid ""
-"﻿1)\n"
-"Redes Libres, Comunitarias y Descentralizadas"
+#: 01.en.txt:3
+msgid "1)\nLibre, Community and Decentralised Networks"
+msgstr "1)\nRedes libres, comunitarias y descentralizadas"
+
+#: 01.en.txt:8
+msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
 msgstr ""
 
-#: 01-es-LYC.txt:10
-msgid ""
-"2a)\n"
-"AlterMundi trabaja facilitando el nacimiento de nuevas redes libres y "
-"comunitarias de Internet\n"
-"desde una perspectiva de empoderamiento popular a partir de la apropiación "
-"de la tecnología mediante la colaboración entre pares y el uso y desarrollo "
-"de software y hardware libre.\n"
-"El objetivo principal es desarrollar un modelo de red de autoprovisión de "
-"servicios de comunicaciones que pueda ser replicable en regiones "
-"digitalmente excluidas.\n"
-"Este modelo brinda la oportunidad de resolver, a partir del propio esfuerzo "
-"y organización de las\n"
-"comunidades, una necesidad que hoy es considerada básica para el desarrollo "
-"humano: la comunicación digital."
+#: 01.en.txt:11
+msgid "3a)\nOur little piece of the internet"
 msgstr ""
 
-#: 01-es-LYC.txt:13
-msgid ""
-"3a)\n"
-"Nuestro pedacito de Internet"
+#: 01.en.txt:14
+msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
 msgstr ""
 
-#: 01-es-LYC.txt:16
-msgid ""
-"3b)\n"
-"\"En la actualidad el 52% de las personas que habitan el mundo no tienen "
-"acceso a Internet\". *"
+#: 01.en.txt:18
+msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
 msgstr ""
 
-#: 01-es-LYC.txt:21
-msgid ""
-"3c)\n"
-"Esta desigualdad se acentúa en zonas rurales de África, Latinoamérica y el "
-"sur global, donde la baja densidad de población y sus bajos ingresos "
-"representan poco incentivo para el despliegue comercial de infraestructura "
-"de red. Esto las convierte en zonas digitalmente excluidas o desatendidas.\n"
-"La realidad es que las personas que viven en zonas digitalmente excluidas, "
-"en la mayoría de los casos, también se enfrentan a otras dificultades como "
-"escasos recursos económicos, laborales,\n"
-"educativos, de transporte, electricidad, igualdad de género, de acceso a la "
-"tierra o al agua potable."
+#: 01.en.txt:21
+msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
 msgstr ""
 
-#: 01-es-LYC.txt:24
-msgid ""
-"3d)\n"
-"Las redes libres y comunitarias tienen el rol fundamental de facilitar la "
-"construcción de infraestructuras tecnológicas autónomas de bajo costo para "
-"desplegar redes de Internet. El objetivo principal es vencer las barreras "
-"que imponen la centralización y el control de las infraestructuras de las "
-"redes comerciales y de los contenidos que por ellas circulan."
+#: 01.en.txt:25
+msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
+msgstr "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
+
+#: 01.en.txt:28
+msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
 msgstr ""
 
-#: 01-es-LYC.txt:28
-msgid ""
-"3e)\n"
-"*The State of Broadband: Broadband catalyzing sustainable development. "
-"September 2017 / \n"
-"Broadband Commission for Sustainable Development - ITU – UNESCO"
+#: 01.en.txt:31
+msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
 msgstr ""
 
-#: 01-es-LYC.txt:33
-msgid ""
-"4a)\n"
-"El desafío no es sólo el de facilitar el acceso sino el de construir "
-"nuestro\n"
-"pedacito de Internet mediante redes libres y comunitarias gobernadas por\n"
-"sus propias comunidades, de manera colaborativa y organizada."
+#: 01.en.txt:35
+msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
 msgstr ""
 
-#: 01-es-LYC.txt:37
-msgid ""
-"4b)\n"
-"Internet es un instrumento para incrementar la transparencia y el acceso a "
-"la información y facilitar la participación ciudadana hacia cambios "
-"sociales, culturales, económicos y políticos que\n"
-"mejoren la situación de las comunidades."
+#: 01.en.txt:38
+msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
 msgstr ""
 
-#: 01-es-LYC.txt:42
-msgid ""
-"4c)\n"
-"Las redes libres y comunitarias propician y colaboran para consolidar los "
-"procesos\n"
-"asociativos y cooperativos de empoderamiento de las comunidades para un “"
-"otro mundo\n"
-"posible”."
+#: 01.en.txt:41
+msgid "5a)\nLibre, community and decentralized networks"
 msgstr ""
 
-#: 01-es-LYC.txt:45
-msgid ""
-"4d)\n"
-"Visto de este modo, se vuelve vital y necesario concebir a Internet como un "
-"bien común."
+#: 01.en.txt:44
+msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
 msgstr ""
 
-#: 01-es-LYC.txt:48
-msgid ""
-"5a)\n"
-"Redes libres, comunitarias y descentralizadas"
+#: 01.en.txt:50
+msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
 msgstr ""
 
-#: 01-es-LYC.txt:51
-msgid ""
-"5b)\n"
-"Al decidir conectarnos a Internet, estamos siendo parte de él y podemos "
-"elegir cómo participar en esa red de redes global."
+#: 01.en.txt:53
+msgid "6a)\nLibre, Community Decentralized Networks"
+msgstr "6a)\nRedes libres, comunitarias y descentralizadas"
+
+#: 01.en.txt:59
+msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
 msgstr ""
 
-#: 01-es-LYC.txt:57
-msgid ""
-"5c)\n"
-"Una red abierta, neutral y descentralizada se construye por las comunidades "
-"a través de acuerdos y consensos. Este proceso colabora con la autonomía, la "
-"sostenibilidad y el funcionamiento de la red libre y comunitaria.\n"
-"Al mismo tiempo, empodera a las comunidades para diseñar la estructura y "
-"funcionamiento de su propia red respetando las identidades y necesidades "
-"locales.\n"
-"Las redes libres y comunitarias permiten aprender y saber cómo funciona la "
-"red para poder tomar decisiones sobre ella y no estar subordinados a las "
-"reglas del comercio o a criterios impuestos que, en la mayoría de las "
-"ocasiones, se contraponen con los intereses de las comunidades.\n"
-"El uso y la comprensión de las tecnologías promueven un acceso inclusivo y "
-"consciente a los recursos digitales facilitando la formación, el "
-"aprendizaje, la compartición de saberes, la creación de medios de "
-"comunicación locales, la participación ciudadana y la economía social y "
-"regional."
+#: 01.en.txt:65
+msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
 msgstr ""
 
-#: 01-es-LYC.txt:60
-msgid ""
-"6a)\n"
-"Redes Libres, Comunitarias y Descentralizadas"
+#: 01.en.txt:70
+msgid "6d)\nDistributed\nScalable\nLow cost"
 msgstr ""
 
-#: 01-es-LYC.txt:66
-msgid ""
-"6b)\n"
-"Libre uso\n"
-"Neutralidad\n"
-"Libre interconexión\n"
-"Libre tránsito"
+#: 01.en.txt:73
+msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
 msgstr ""
 
-#: 01-es-LYC.txt:72
-msgid ""
-"6c)\n"
-"Propiedad colectivamente\n"
-"Gestión social\n"
-"Diseño Accesible\n"
-"Participación abierta"
+#: 01.en.txt:83
+msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
 msgstr ""
 
-#: 01-es-LYC.txt:77
-msgid ""
-"6d)\n"
-"Distribuida\n"
-"Escalable\n"
-"Bajo costo"
+#: 01.en.txt:87
+msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
 msgstr ""
 
-#: 01-es-LYC.txt:80
-msgid ""
-"7a)\n"
-"Las redes comunitarias tienen características propias que las definen como "
-"tales y que constituyen sus fortalezas:"
+#: 01.en.txt:90
+msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
 msgstr ""
 
-#: 01-es-LYC.txt:91
-msgid ""
-"7b)\n"
-"Propiedad colectiva\n"
-"Quiere decir que su infraestructura (antenas, routers, cableado, etc.) es "
-"propiedad de todos los miembros de la red y de la comunidad que la "
-"despliega. No hay dueños únicos, ni privados, ni más importantes.\n"
-"Gestión social\n"
-"Se refiere a que la red es administrada y gestionada por los mismos miembros "
-"de la red. No hay una persona que mande, sino que las decisiones se toman "
-"entre todos.\n"
-"Diseño accesible\n"
-"La información sobre cómo funciona la red y sus componentes es pública y "
-"accesible para que todos\n"
-"puedan saber y aprender, también replicar y difundir.\n"
-"Participación abierta\n"
-"Significa que cualquier persona puede sumarse o extender la red, respetando "
-"su diseño, sus principios y su forma de organización."
+#: 01.en.txt:100
+msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
 msgstr ""
 
-#: 01-es-LYC.txt:96
-msgid ""
-"7c)\n"
-"Una red libre y comunitaria no es un servicio gratuito o de bajo costo para\n"
-"conectarse con Internet.\n"
-"Es un grupo de personas organizadas trabajando para garantizar el derecho a "
-"la comunicación de sus comunidades."
+#: 01.en.txt:105
+msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
 msgstr ""
 
-#: 01-es-LYC.txt:99
-msgid ""
-"8a)\n"
-"Y para que además de comunitaria sea una red libre tiene que cumplir con "
-"estas otras cuatro características que le dan esa identidad:"
+#: 01.en.txt:109
+msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
 msgstr ""
 
-#: 01-es-LYC.txt:109
-msgid ""
-"8b)\n"
-"Libre uso\n"
-"Se debe permitir el tránsito irrestricto para recibir y ofrecer cualquier "
-"tipo de servicios y contenidos, en tanto no afecte el buen funcionamiento de "
-"la red. Es decir, el flujo de datos a través de la red no está condicionado."
-"\n"
-"Neutralidad\n"
-"Esta característica hace que el tráfico de datos se gestione de manera "
-"igualitaria, sin discriminarlo según el contenido, plataforma, aplicación o "
-"tipo de equipamiento utilizado para el acceso. No se jerarquizan ni "
-"modifican arbitrariamente los flujos de datos dentro de la red.\n"
-"Libre interconexión\n"
-"Se refiere a garantizar la interconexión entre redes, siendo el flujo de "
-"datos libre, neutral y gratuito en ambos sentidos, recíprocamente.\n"
-"Libre tránsito\n"
-"Dos redes que mantienen acuerdo de libre tránsito, no sólo permitirán el "
-"tráfico de datos entre ellas, sino también el tráfico que vaya destinado a "
-"otras redes con las que mantienen acuerdos similares. Los datos pueden "
-"entonces atravesar una red libre para llegar a otra, expandiendo el alcance "
-"de esa “red de redes libres”."
+#: 01.en.txt:112
+msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
 msgstr ""
 
-#: 01-es-LYC.txt:114
-msgid ""
-"9)\n"
-"En esta ilustración se representan dos tipos de contratos de interconexión:\n"
-"- La red de redes comunitarias entre sí tienen un contrato entre iguales de "
-"libre tránsito e interconexión gratuitos, respetando la neutralidad. Gracias "
-"a estos contratos, la red 1 puede comunicarse con la red 3 atravesando sin "
-"limitaciones la red 2.\n"
-"- Las redes 2 y 3 tienen un servicio comercial para conectarse con el resto "
-"de Internet, mediante una relación contractual que no es entre pares, sino "
-"de proveedor-consumidor. Este proveedor no comparte con sus clientes ningún "
-"aspecto del despliegue y configuración de su red."
+#: 01.en.txt:115
+msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
 msgstr ""
 
-#: 01-es-LYC.txt:118
-msgid ""
-"10a)\n"
-"Desplegar estas redes libres y comunitarias utilizando una topología de "
-"malla (mesh) posibilita el desarrollo de las características antes "
-"mencionadas con mayor naturalidad, en tanto su característica básica es la "
-"descentralización.\n"
-"En este tipo de redes en malla, cada nodo inalámbrico (router y antena) está "
-"conectado a uno o varios nodos vecinos. Así, el camino por el que transitan "
-"los datos cambia automáticamente cuando uno de los nodos deja de andar por "
-"algún motivo. Al mismo tiempo, deja de ser necesario tener puntos de acceso "
-"centrales. Por esto, las redes mesh son redes descentralizadas y "
-"distribuidas."
+#: 01.en.txt:118
+msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
 msgstr ""
 
-#: 01-es-LYC.txt:121
-msgid ""
-"10b)\n"
-"Un NODO está formado por la antena, el router y el software que permite la "
-"conectividad."
+#: 01.en.txt:121
+msgid "12a)\nThe LibreRouter Project: A community for your network"
 msgstr ""
 
-#: 01-es-LYC.txt:124
-msgid ""
-"11a)\n"
-"Este diseño distribuido de red es más económico gracias a que no necesita "
-"nodos concentradores o centrales costosos. La red va creciendo nodo a nodo, "
-"extendiéndose progresivamente y dosificando los costos de despliegue y "
-"mantenimiento."
+#: 01.en.txt:128
+msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
 msgstr ""
 
-#: 01-es-LYC.txt:128
-msgid ""
-"11b)\n"
-"Cuando decimos que queremos construir redes libres, comunitarias y "
-"descentralizadas nos referimos a construir colectivamente nuestro pedacito "
-"de Internet para ser nosotros mismos más libres\n"
-"y comunitarios."
+#: 01.en.txt:132
+msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
 msgstr ""
 
-#: 01-es-LYC.txt:131
-msgid ""
-"12a)\n"
-"Proyecto LibreRouter: Una comunidad para tu red"
+#: 01.en.txt:139
+msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
 msgstr ""
 
-#: 01-es-LYC.txt:141
-msgid ""
-"12b)\n"
-"Durante mucho tiempo las redes libres y comunitarias se fueron construyendo "
-"con el trabajo colaborativo de personas programadoras y hackers. Juntas "
-"desarrollaron software libre y modificaron el hardware disponible, brindando "
-"respuestas a las necesidades específicas de las redes.\n"
-"Uno de estos logros fue cambiar el software privativo que algunos routers "
-"hogareños comerciales\n"
-"traían de fábrica.\n"
-"Esto permitió utilizar los routers en todo su potencial, habilitando "
-"funciones que los fabricantes limitaban siguiendo su lógica de mercado. Este "
-"aporte abarató notoriamente el despliegue de\n"
-"redes abiertas, libres, neutrales y descentralizadas.\n"
-"En Agosto de 2016, una regulación impulsada por la agencia estatal de "
-"Estados Unidos FCC (Federal Communication Commision) llevó a los fabricantes "
-"a bloquear la sustitución del software\n"
-"que se encuentra instalado y preconfigurado de fábrica.\n"
-"Este hecho dejó en claro que las redes comunitarias eran rehenes de "
-"decisiones arbitrarias sobre las que tenían escasa o nula capacidad de "
-"decisión y acción."
+#: 01.en.txt:145
+msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
 msgstr ""
 
-#: 01-es-LYC.txt:145
-msgid ""
-"13a)\n"
-"El proyecto LibreRouter contempla el desarrollo de hardware, software y "
-"documentación enfocado en las necesidades de las zonas digitalmente "
-"excluidas del sur del mundo.\n"
-"Algunas características destacables son:"
+#: 01.en.txt:151
+msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
 msgstr ""
 
-#: 01-es-LYC.txt:152
-msgid ""
-"13b)\n"
-"Hardware\n"
-"El router y sus antenas están contenidos por cajas plásticas resistentes a "
-"la intemperie.\n"
-"La placa tiene diferentes conectores disponibles para adaptar el nodo a usos "
-"específicos. Por ejemplo, un módulo GPS.\n"
-"El diseño del hardware está disponible para quien quiera estudiarlo, "
-"modificarlo y reproducirlo, ya que es hardware libre.\n"
-"El LibreRouter viene listo para usar con LibreMesh preinstalado."
+#: 01.en.txt:154
+msgid "15a)\nA network in your community"
 msgstr ""
 
-#: 01-es-LYC.txt:158
-msgid ""
-"14a)\n"
-"Software \n"
-"Las aplicaciones y los programas están pensados como parte de un proceso en "
-"que personas sin conocimiento sobre redes puedan aprender a configurar, "
-"mapear, monitorear y diagnosticar la red ágilmente.\n"
-"Simplifica la expansión de las redes. Los nodos nuevos se autoconfiguran con "
-"información que obtienen de los pre-existentes.\n"
-"Todo el software desarrollado por AlterMundi tiene licencia libre, cualquier "
-"persona puede utilizarlo y adaptarlo a sus necesidades."
+#: 01.en.txt:158
+msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
 msgstr ""
 
-#: 01-es-LYC.txt:165
-msgid ""
-"14b)\n"
-"Documentación\n"
-"Nuestra documentación acompaña tanto en el uso de LibreRouter, como de las "
-"aplicaciones y programas desarrollados.\n"
-"En nuestro sitio docs.altermundi.net se encuentra toda nuestra documentación "
-"en formato gráfico y\n"
-"audiovisual y en múltiples idiomas.\n"
-"Toda persona puede utilizar nuestros contenidos libremente, reproducirlos, "
-"modificarlos, traducirlos y compartirlos."
+#: 01.en.txt:163
+msgid "15c)\nPlanning\nDeployment\nMaintenance"
 msgstr ""
 
-#: 01-es-LYC.txt:168
-msgid ""
-"15a)\n"
-"Una red en tu comunidad"
+#: 01.en.txt:166
+msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
 msgstr ""
 
-#: 01-es-LYC.txt:172
-msgid ""
-"15b)\n"
-"A través de nuestra documentación, compartimos una forma posible de "
-"organizarse para empezar en este camino de construir una red libre y "
-"comunitaria de Internet en sus comunidades.\n"
-"Se trata de un proceso cíclico y continuo de personas asistiéndose "
-"mutuamente para llevar a cabo la organización del trabajo y las metas."
+#: 01.en.txt:175
+msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
 msgstr ""
 
-#: 01-es-LYC.txt:177
-msgid ""
-"15c)\n"
-"Planificación\n"
-"Despliegue\n"
-"Mantenimiento"
-msgstr ""
-
-#: 01-es-LYC.txt:180
-msgid ""
-"15d)\n"
-"Estos ciclos de trabajo y organización guían el despliegue y mantenimiento "
-"de la red y se continúan a través de la historia y desarrollo de la misma, "
-"fortaleciéndola y transformándola. Estos ciclos contribuyen a la "
-"construcción de la red como espacio de encuentro e identidad colectiva."
-msgstr ""
-
-#: 01-es-LYC.txt:189
-msgid ""
-"16)\n"
-"¿Hay un proyecto de Red Comunitaria?\n"
-"Cuenten con nosotros.\n"
-"¡Nos encantaría acompañarlos!\n"
-"info@altermundi.net\n"
-"Más información y documentación\n"
-"blog.altermundi.net\n"
-"docs.altermundi.net\n"
-"librerouter.org"
-msgstr ""
