@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2021-01-28 17:51:01+0000\n"
+"PO-Revision-Date: 2021-02-11 17:52:26+0000\n"
 "X-POT-Import-Date: 2018-11-05 15:41:19+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -132,7 +132,7 @@ msgstr "14b)\nביצוע ניתוח טכני בטרם הטמעת הרשת מאפ
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c)\nבעוד שיש מגוון חלופות טכנולוגיות להקמת רשת קהילתית, המודל הזה מציג את LibreRouter בתור המכשיר העיקרי. LibreRouter מקל על הטמעת רשתות קהילתיות חופשיות מאחר שהוא תוכנן למטרה הזאת.\nרוב רובם של המפרקים ברשת לא יהוו אתגר גדול. עם זאת, ישנם מקרים בהם נדרשת תשומת לב ויצירתיות טכנית. יכול להיות שצריך אפילו לשתף פעולה עם אנשים מחוץ לרשת שיש להם ידע מסוים לפתרון תקלות מסוימות."
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
