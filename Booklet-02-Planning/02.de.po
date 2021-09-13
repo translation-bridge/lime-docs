@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2021-07-29 11:06:11+0000\n"
+"PO-Revision-Date: 2021-09-13 11:05:19+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,7 +25,7 @@ msgstr "2a)\nDer Wichtigste, um ein Community-Netzwerk zu starten, ist die Commu
 
 #: 02-en-Planning.txt:9
 msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
-msgstr ""
+msgstr "2b)\nAls Ausgangspunkt ist es notwendig, eine Gruppe von Personen zu bilden, die sich für die Autonomie ihrer Kommunikation einsetzen und die die Notwendigkeit verspüren, dieses Projekt umzusetzen, das sehr technologisch, aber vor allem sehr sozial ist."
 
 #: 02-en-Planning.txt:17
 msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
@@ -37,11 +37,11 @@ msgstr "4a)\nAnalysiere unsere Gemeinschaft"
 
 #: 02-en-Planning.txt:23
 msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
-msgstr ""
+msgstr "4b)\nDie soziokulturelle Analyse verbindet die Faktoren des sozialen Kontextes, die zusammen mit dem Verständnis der Bedürfnisse, Normen und Werte, die unsere Gemeinschaft definieren, die Entwicklung geeigneter Lösungen ermöglichen."
 
 #: 02-en-Planning.txt:28
 msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
-msgstr ""
+msgstr "4c)\nDie Analyse unserer Realität als Gemeinschaft wird uns helfen, kluge kollektive Entscheidungen zu treffen und eine Identität zu schaffen, die uns repräsentiert.\nEntscheidungen über die Charakteristika unseres Netzwerks der freien/lebendigen Gemeinschaft werden auf der Grundlage der Art der Beziehungen getroffen, die in unserer Gemeinschaft bestehen.\nDeshalb ist es so wichtig, diese Analyse durchzuführen: um die Grenzen und Notwendigkeiten vorauszusehen, die in unserem Netzwerkprojekt in Bezug auf die Menschen, die es nutzen werden, und die Art und Weise, wie sie es nutzen werden, auftreten können."
 
 #: 02-en-Planning.txt:31
 msgid "5a)\nTo guide yourself in this analysis, you can think about:"
@@ -49,15 +49,15 @@ msgstr "5a)\nUm dich selbst in dieser Analyse zu leiten, kannst du denken über:
 
 #: 02-en-Planning.txt:42
 msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
-msgstr ""
+msgstr "5b)\nWas sind die Gründe für den Aufbau eines freien/freien Gemeinschaftsnetzes?\nWie viele Einwohner hat die Gemeinschaft?\nWer würde das Netz nutzen und wofür?\nSie können auch eine informelle Zählung durchführen, bei der Altersgruppen, Geschlecht oder andere relevante Merkmale erfasst werden.\nEs ist wichtig zu berücksichtigen, ob bestimmte Bedingungen, wie z. B. eine saisonale Arbeitstätigkeit, die Bevölkerung je nach Jahreszeit plötzlich wachsen oder schrumpfen lassen.\nWelche Tätigkeiten sind in dem Gebiet vorherrschend und wie könnte sich das Netz auf sie auswirken?\nGibt es eine wiederkehrende Bedrohung?\nWelche Kenntnisse über und welchen Zugang zu Internetgeräten haben die Mitglieder des Netzwerks?\nWie groß ist das soziale Engagement in der Gemeinschaft, wie sind die Erfahrungen aus früheren Projekten?"
 
 #: 02-en-Planning.txt:45
 msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
-msgstr ""
+msgstr "6a)\nDas Ideal ist die Schaffung eines Netzwerks, das sowohl digital ist als auch aus Menschen mit starken Beziehungen zur Gemeinschaft besteht. Um dieses Ziel zu erreichen, ist die Einbeziehung und Beteiligung von Gemeinschaftseinrichtungen und -räumen wie Schulen, Vereinen, Behörden, Medien, Wohnungen, Kulturzentren, Plätzen und Haltestellen des öffentlichen Nahverkehrs sehr wichtig."
 
 #: 02-en-Planning.txt:48
 msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
-msgstr ""
+msgstr "6b)\nUm ein paar Beispiele zu nennen: Es gibt Netze in touristischen Orten, die den Zugang während der Ferienzeiten einschränken müssen, um das gute Funktionieren des Netzes zu gewährleisten. Andere Orte haben eine \"Paten\"-Vereinbarung getroffen, um Familien zu unterstützen, die aus verschiedenen kulturellen Gründen nicht in der Lage sind, ihren Netzknoten selbst zu verwalten. Es gibt auch Orte, die beschlossen haben, ihr Netz in öffentlichen Bereichen zugänglich und offen zu lassen, da andere Kommunikationsdienste nicht verfügbar sind."
 
 #: 02-en-Planning.txt:51
 msgid "7a)\nOrganize action"
@@ -65,23 +65,23 @@ msgstr "7a) Aktion organisieren"
 
 #: 02-en-Planning.txt:54
 msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
-msgstr ""
+msgstr "7b)\nEine Organisation der Arbeit, der Kommunikation, des Lernens und der Versammlungen zu entwerfen, die alle einbezieht und zur Teilnahme anregt, ist eine große Herausforderung und entscheidend für das Funktionieren eines freien/freien Gemeinschaftsnetzwerks."
 
 #: 02-en-Planning.txt:59
 msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
-msgstr ""
+msgstr "7c)\nWenn Menschen zusammenkommen, um gemeinsam zu arbeiten, bringt die Vielfalt der Menschen einzigartige Einstellungen und persönliches Wissen hervor, die sich gegenseitig ergänzen.\nDie Festlegung von Rollen, kollektiven Arbeitsbereichen und internen Kommunikationspraktiken ermöglicht das Selbstmanagement, um das Projekt langfristig am Laufen zu halten.\nDie Wahl eines Namens für die neue Arbeit und die Gestaltung eines Logos oder eines repräsentativen Bildes unterstützen die Schaffung einer kollektiven Identität. Das Erstellen einer Website kann dasselbe bewirken."
 
 #: 02-en-Planning.txt:65
 msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
-msgstr ""
+msgstr "8a)\nDie Festlegung kurz- und langfristiger Ziele trägt dazu bei, Gruppenarbeitsprozesse zu beschleunigen und klar zu orientieren.  Darüber hinaus ermutigt es die Mitglieder, eine proaktive Rolle bei der Lösung von Problemen und der kollektiven Beteiligung an der Entscheidungsfindung zu übernehmen.\nEs ist zu erwarten, dass sich die Mitglieder des Netzwerks unterschiedlich stark engagieren werden. Einige werden sich mehr anstrengen als andere oder unterschiedliche Fähigkeiten entwickeln.\nDaher ist es sinnvoll, ein Mindestmaß an Engagement festzulegen, das alle Mitglieder aufbringen sollten, um an dem Projekt teilzunehmen.\nDie Ausarbeitung und der Austausch über die Merkmale des Netzwerks - wie z. B. Gespräche darüber, was das Netzwerk ist, wie seine Mitglieder handeln sollten und welche spezifischen Rollen sie haben - schafft Klarheit für das Projekt."
 
 #: 02-en-Planning.txt:68
 msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
-msgstr ""
+msgstr "9a)\nRegelmäßige persönliche Treffen sind ein sehr wichtiges Instrument für die Schaffung von Gemeinschaftsräumen, für die Entscheidungsfindung, den Wissensaustausch, die Planung und die Lösung von Problemen. Treffen bieten auch einen Raum, in dem eine kollektive und gemeinschaftliche Identität aufgebaut wird, und laden andere Menschen ein, sich dem Netzwerk anzuschließen."
 
 #: 02-en-Planning.txt:73
 msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
-msgstr ""
+msgstr "9b)\nUm einige Beispiele zu nennen: Es gibt Netzwerke, die halbmonatliche Sitzungen abhalten, bei denen im Voraus eine Tagesordnung mit den zu erörternden Themen erstellt und während der Sitzung ein schriftliches Protokoll angefertigt wird. Auf diese Weise kann eine Zusammenfassung mit denjenigen geteilt werden, die nicht teilnehmen können, und sie kann auch in ein Archiv des Netzwerks aufgenommen werden.\nIn anderen Fällen werden Vorträge und Workshops für die Personen organisiert, die dem Netzwerk angehören möchten. Gelegentlich sind die Treffen für neue Mitglieder obligatorisch.\nIn einigen Netzwerken finden häufige Gespräche zwischen den Netzwerkmitgliedern über Gruppenkommunikationsmittel statt, bei denen Meinungen, spezifische Probleme oder Informationen ausgetauscht werden."
 
 #: 02-en-Planning.txt:76
 msgid "10a)\nThink about financing"
@@ -89,11 +89,11 @@ msgstr "10a)\nDenk über die Finanzierung nach"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b)\nDie Durchführung einer wirtschaftlichen Analyse ermöglicht es uns, die für die Umsetzung des Projekts und seine Aufrechterhaltung im Laufe der Zeit erforderlichen finanziellen Investitionen abzuschätzen und zu planen."
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
-msgstr ""
+msgstr "10c)\nWenn wir wissen, wie viel Geld für das Funktionieren unseres Netzes benötigt wird, können wir verschiedene Mechanismen der Selbstverwaltung und der Finanzierung für die verschiedenen Phasen des Kaufs, des Baus, der Installation, der Reparatur, des Wachstums und der Aufrüstung des Netzes bewerten.\nWir müssen uns also einerseits überlegen, wie viel Geld und andere Ressourcen wir benötigen, und andererseits, wie wir sie beschaffen wollen."
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"
@@ -101,15 +101,15 @@ msgstr "11a)\nEs gibt verschiedene Wege, um Quellen zu erhalten, wie:"
 
 #: 02-en-Planning.txt:96
 msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
-msgstr ""
+msgstr "11b)\nSpenden und nicht-monetärer Austausch, wie Tauschhandel\nDirekte Finanzierung wie Abonnements, monatliche Mitgliedsbeiträge für das Netzwerk oder Spenden\nGemeinsames Kapital wie Hilfsfonds auf Gegenseitigkeit\nBeteiligung von Stiftungen oder Gemeindeverbänden\nÖffentliche Finanzierung wie Subventionen oder Partnerschaften mit staatlichen Stellen\nSpenden oder Beiträge von Unternehmen\nVeranstaltungen zur Mittelbeschaffung und andere...\nEine Kombination von Optionen macht das Projekt nachhaltiger."
 
 #: 02-en-Planning.txt:100
 msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
-msgstr ""
+msgstr "12a)\nDie Einrichtung und der anfängliche Aufbau des Netzes ist in der Regel der komplizierteste und anspruchsvollste Moment, da neben den Knotenpunkten auch die Werkzeuge und die notwendigen Materialien beschafft werden müssen und auch etwas zusätzliches Geld für den Kauf von Ersatzteilen eingeplant werden muss.\nGroßeinkäufe durch Gruppen senken die Kosten und sorgen für eine bessere Verfügbarkeit der Materialien, erfordern aber gleichzeitig eine größere finanzielle Investition."
 
 #: 02-en-Planning.txt:104
 msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
-msgstr ""
+msgstr "12b) \nUm einige Beispiele dafür zu geben, wie wir über die Finanzierung nachdenken können, können wir uns Gemeinschaftsnetzwerke ansehen, bei denen jede Person, die beitritt, die Kosten für ihren Knotenpunkt individuell übernimmt. In anderen Netzwerken wird der Knoten erst bei der Installation bezahlt, und Reparaturen und Upgrades werden aus einem kollektiven Fonds bezahlt, der durch monatliche Beiträge jedes Mitglieds gebildet wird.\nEs gibt auch ein Netzwerk, bei dem die ersten Knoten von einer NGO finanziert wurden, die Internetverbindung von einem lokalen Internetanbieter übernommen wurde und die Netzwerkmitglieder die Installation durchführten."
 
 #: 02-en-Planning.txt:107
 msgid "13a)\nOrganize the administration"
@@ -117,11 +117,11 @@ msgstr "13a)\nOrganisiere die Verwaltung"
 
 #: 02-en-Planning.txt:110
 msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
-msgstr ""
+msgstr "13b)\nDie Führung eines zuverlässigen Registers durch die Mitglieder des Netzes, die die Rolle eines Administrators übernehmen wollen, ist für das organisierte und geordnete Funktionieren des Netzes von entscheidender Bedeutung."
 
 #: 02-en-Planning.txt:120
 msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
-msgstr ""
+msgstr "13c)\nAuf diese Weise erhalten wir kollektives Wissen über die Bewegung von Geld, Materialien, Werkzeugen und anderen Ressourcen. Einige der häufigsten Aufzeichnungen sind:\ngetätigte und geplante Einkäufe\nInventar von Materialien und Werkzeugen mit Angabe der Orte, an denen sie aufbewahrt werden\nListe der Preise für verfügbare Materialien, mit Überlegungen zu deren Ersatz\nAngaben zu Geld und anderen Werten, die in das Netz investiert wurden\nArchiv der für das Projekt wichtigen Vereinbarungen und Dokumente\nKalender der regelmäßigen Verpflichtungen, Zahlungen, Berichte, etc.\nKontaktverzeichnis"
 
 #: 02-en-Planning.txt:123
 msgid "14a)\nPlan the deployment/installation"
@@ -129,21 +129,21 @@ msgstr "14a)\nPlane die Verteilung/Installation"
 
 #: 02-en-Planning.txt:126
 msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
-msgstr ""
+msgstr "14b)\nDie Durchführung einer technischen Analyse vor dem Netzaufbau ermöglicht eine effiziente Organisation der Aufgaben und Ressourcen. Wenn alles Notwendige zum Zeitpunkt der Durchführung einer Aufgabe vorhanden ist, trägt dies dazu bei, dass die Gruppe agil und ordentlich arbeitet und die Aufgabe pünktlich und in guter Form abgeschlossen werden kann. Dazu gehören sowohl das Material als auch das Wissen, das für die Durchführung der Aufgabe erforderlich ist."
 
 #: 02-en-Planning.txt:130
 msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
-msgstr ""
+msgstr "14c)\nObwohl es zahlreiche technische Alternativen für den Aufbau eines Gemeinschaftsnetzes gibt, wird in diesem Modell der LibreRouter als Hauptgerät vorgeschlagen. Der LibreRouter erleichtert die Einrichtung von freien Gemeinschaftsnetzen, da er mit diesem Ziel entwickelt wurde.\nDie überwiegende Mehrheit der Knoten im Netzwerk wird keine großen Herausforderungen darstellen. Es wird jedoch Fälle geben, die mehr Kreativität und mehr technische Aufmerksamkeit erfordern. Es kann sogar notwendig sein, mit Personen außerhalb des Netzes zusammenzuarbeiten, die über spezielle Kenntnisse verfügen, um bestimmte Probleme zu lösen."
 
 #: 02-en-Planning.txt:133
 msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
-msgstr ""
+msgstr "15a)\nDie Mitglieder mit einem eher technischen Profil könnten z.B. folgende Themen diskutieren:"
 
 #: 02-en-Planning.txt:142
 msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
-msgstr ""
+msgstr "15b)\nWie wird die Struktur des Netzes aussehen, sowohl zu Beginn als auch im weiteren Verlauf?\nWie kann das Netz durch den Aufbau redundanter Verbindungen vergrößert werden, so dass ein und derselbe Punkt über mehr als einen Weg erreicht wird?\nIdentifizierung von Knoten mit hohem Datenverkehr oder überlasteten Knoten und Gewährleistung ihres ordnungsgemäßen Funktionierens\nSchaffung mehrerer Pfade zu relevanten Punkten im Netz, z. B. zur Verbindung mit dem Internet oder mit lokalen Servern\nden Bedarf an spezifischen oder leistungsfähigeren Geräten zu ermitteln\nLösen von Problemen mit unkonventioneller elektrischer Energie\nHilfe bei Methoden zur gemeinsamen Nutzung von Diensten und Inhalten im Netz"
 
 #: 02-en-Planning.txt:144
 msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
-msgstr ""
+msgstr "15c)\nIn einigen Fällen kann es erforderlich sein, Knoten mit anderen Antennen als die übrigen Knoten zu montieren, und es kann auch zweckmäßig sein, Teile des Netzes mit Kabeln anstelle von drahtlosen Verbindungen zu versehen. In manchen Situationen werden unkonventionelle Stromquellen oder eine Notstromversorgung mit Batterien erforderlich sein. Jedes Netz wird seine technischen Besonderheiten aufweisen, die mit Geduld, Kreativität und Zusammenarbeit innerhalb und außerhalb des Netzes gelöst werden sollten."
 
