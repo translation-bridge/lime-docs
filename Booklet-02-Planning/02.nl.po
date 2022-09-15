@@ -1,0 +1,147 @@
+# Translation of LibreMesh - Booklet 2: Planning to Dutch (Nederlands)
+# Exported from translatewiki.net
+#
+# Author: McDutchie
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2022-09-15 11:07:13+0000\n"
+"X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl\n"
+"X-Generator: MediaWiki 1.40.0-alpha; Translate 2022-07-28\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 02-en-Planning.txt:3
+msgid "1)\nPLANNING A FREE/LIBRE COMMUNITY NETWORK"
+msgstr "1)\nEEN VRIJ GEMEENSCHAPSNETWERK PLANNEN"
+
+#: 02-en-Planning.txt:6
+msgid "2a)\nThe key ingredient to start a community network is the community!"
+msgstr "2a)\nHet belangrijkste ingrediënt om een gemeenschapsnetwerk te starten is de gemeenschap!"
+
+#: 02-en-Planning.txt:9
+msgid "2b)\nAs a starting point, it's necessary to form a group of people interested in working for the autonomy of their communications, who feel the necessity to implement this project that's very technological, yet, above all, very social."
+msgstr "2b)\nAls uitgangspunt is het noodzakelijk om een groep mensen te vormen die geïnteresseerd zijn in het werken aan de autonomie van hun communicatie, die de noodzaak voelen om dit project uit te voeren dat zeer technologisch, maar toch vooral heel sociaal is."
+
+#: 02-en-Planning.txt:17
+msgid "3)\nPlanning\nAnalyze our community\nOrganize action\nThink about financing\nOrganize administration\nPlan the deployment"
+msgstr "3)\nPlanning\nAnalyseer onze gemeenschap\nOrganiseer actie\nDenk na over financiering\nOrganiseer administratie\nPlan de inzet"
+
+#: 02-en-Planning.txt:20
+msgid "4a)\nAnalyze our community"
+msgstr "4a)\nAnalyseer onze gemeenschap"
+
+#: 02-en-Planning.txt:23
+msgid "4b)\nSociocultural analysis connects factors of the social context, which together with an understanding of the needs, norms, and values that define our community, allows us to design appropriate solutions."
+msgstr "4b)\nSocioculturele analyse verbindt factoren uit de sociale context, die samen met inzicht in de behoeften, normen en waarden die onze gemeenschap bepalen, ons in staat stellen passende oplossingen te ontwerpen."
+
+#: 02-en-Planning.txt:28
+msgid "4c)\nAnalysis of our reality as a community will help us make wise collective decisions and create an identity that represents us.\nDecisions about the characteristics of our free/libre community network will be made based on the type of relations that exist in our community.\nThis is why it's so important to do this analysis: to foresee the limitations and necessities that may arise in our network project with respect to the people who will use it and the ways they'll use it."
+msgstr "4c)\nHet analyseren van onze realiteit als gemeenschap zal ons helpen verstandige collectieve beslissingen te nemen en een identiteit te creëren die ons vertegenwoordigt.\nBeslissingen over de kenmerken van ons vrije gemeenschapsnetwerk zullen worden genomen op basis van het soort relaties dat in onze gemeenschap bestaat.\nDaarom is het zo belangrijk deze analyse te maken: om de beperkingen en behoeften te onderkennen die zich in ons netwerkproject kunnen voordoen met betrekking tot de mensen die het zullen gebruiken en de manieren waarop ze het zullen gebruiken."
+
+#: 02-en-Planning.txt:31
+msgid "5a)\nTo guide yourself in this analysis, you can think about:"
+msgstr "5a)\nOm uzelf bij deze analyse te oriënteren, kunt u denken aan:"
+
+#: 02-en-Planning.txt:42
+msgid "5b)\nWhat causes motivate the construction of a free/libre community network?\nHow many inhabitants does the community have?\nWho would use the network and for what?\nYou can also do an informal census that records age groups, gender, or other relevant characteristics.\nIt's important to consider if any particular condition such as a seasonal work activity makes the population grow or shrink abruptly according to the time of year.\nWhat activities predominate in the area and how could the network affect them?\nIs there a recurring threat?\nWhat knowledge of and access to Internet devices do the network members have?\nBased on experiences of previous projects, what level of social committment exists in the community?"
+msgstr "5b)\nWelke oorzaken motiveren de opbouw van een vrij gemeenschapsnetwerk?\nHoeveel inwoners heeft de gemeenschap?\nWie zou het netwerk gebruiken en waarvoor?\nU kunt ook een informele telling doen waarbij leeftijdsgroepen, geslacht of andere relevante kenmerken worden geregistreerd.\nHet is belangrijk om na te gaan of een bepaalde omstandigheid, zoals een seizoensgebonden werkactiviteit, de bevolking abrupt doet groeien of krimpen naargelang de tijd van het jaar.\nWelke activiteiten overheersen in het gebied en hoe kan het netwerk die beïnvloeden?\nIs er een terugkerende dreiging?\nOver welke kennis van en toegang tot internetapparatuur beschikken de leden van het netwerk?\nHoe hoog is, op basis van ervaringen met eerdere projecten, het niveau van maatschappelijke betrokkenheid in de gemeenschap?"
+
+#: 02-en-Planning.txt:45
+msgid "6a)\nThe ideal is to create a networks that's both digital and made of people with strong relationships to the community. To achieve this objective, the inclusion and participation of community entities and spaces is very important, such as schools, clubs, government entities, media, housing, cultural centers, plazas, and public transit stops."
+msgstr "6a)\nHet ideaal is een netwerk te creëren dat enerzijds digitaal is en anderzijds bestaat uit mensen met een sterke band met de gemeenschap. Om dit doel te bereiken, is het van groot belang dat gemeenschapsentiteiten en -ruimten, zoals scholen, clubs, overheidsinstanties, media, woningen, culturele centra, pleinen en haltes van het openbaar vervoer, bij het project worden betrokken."
+
+#: 02-en-Planning.txt:48
+msgid "6b)\nTo give a few examples: There are networks in touristic localities that have to limit access during vacation times in order to maintain the good functioning of the network. Other localities have made a \"godparents\" arrangement to assist families that for various cultural reasons find it impossible to manage their network node themselves. There are also localities that have decided to leave their network accessible and open in public areas given the complete absence of coverage of other communication services."
+msgstr "6b)\nOm een paar voorbeelden te geven: Er zijn netwerken in toeristische plaatsen die de toegang tijdens de vakantie moeten beperken om de goede werking van het netwerk te behouden. Andere plaatsen hebben een \"peetouders\"-regeling getroffen om gezinnen bij te staan die om uiteenlopende culturele redenen hun netwerkknooppunt niet zelf kunnen beheren. Er zijn ook plaatsen die besloten hebben hun netwerk toegankelijk en open te laten in openbare ruimten, aangezien andere communicatiediensten volledig ontbreken."
+
+#: 02-en-Planning.txt:51
+msgid "7a)\nOrganize action"
+msgstr "7a)\nOrganiseer actie"
+
+#: 02-en-Planning.txt:54
+msgid "7b)\nDesigning an organization of the work, communication, learning, and gatherings that involves and inspires all to participate is a big challenge and is vital for the functioning of a free/libre community network."
+msgstr "7b)\nHet is een grote uitdaging om het werk, de communicatie, het leren en de bijeenkomsten zo te organiseren dat iedereen wordt betrokken en geïnspireerd om deel te nemen, maar het is van vitaal belang voor het functioneren van een vrij gemeenschapsnetwerk."
+
+#: 02-en-Planning.txt:59
+msgid "7c)\nCommonly, when people gather to work collectively, the diversity among people highlights unique attitudes and personal knowledge that are complementary to each other.\nDefining roles, collective work areas, and internal communication practices enables self-management to keep the project going long-term.\nChoosing a name for the nework and designing a logo or representative image supports the creation of collective identity. Making a web site can do the same."
+msgstr "7c)\nWanneer mensen bijeenkomen om samen te werken, brengt de diversiteit onder hen vaak unieke houdingen en persoonlijke kennis aan het licht die elkaar aanvullen.\nHet definiëren van rollen, collectieve werkgebieden en interne communicatiepraktijken maakt zelfbeheer mogelijk zodat het project op lange termijn kan worden voortgezet.\nHet kiezen van een naam voor het netwerk en het ontwerpen van een logo of representatief beeld ondersteunt het creëren van een collectieve identiteit. Het maken van een website kan dat ook doen."
+
+#: 02-en-Planning.txt:65
+msgid "8a)\nDefining short- and long-term goals helps speed up and clearly orient group work processes.  In addition, it encourages members to take on proactive roles in the resolution of problems and collective participation in decision making.\nIt's to be expected that network members will show different degrees of committment. Some will dedicate more effort than others or develop different abilities.\nDue to this, it's healthy to define a minimum committment that all members should meet in order to participate in the project.\nThe elaboration and sharing of the network's characteristics -- such as conversation about what the network is, how it's members should act, and their specific roles -- gives clarity to the project."
+msgstr "8a)\nHet definiëren van korte- en langetermijndoelen helpt om groepswerkprocessen te versnellen en duidelijk te oriënteren. Daarnaast moedigt het leden aan om een proactieve rol op zich te nemen bij het oplossen van problemen en collectieve deelname aan de besluitvorming.\nHet is te verwachten dat netwerkleden een verschillende mate van betrokkenheid zullen tonen. Sommigen zullen meer moeite doen dan anderen of andere vaardigheden ontwikkelen.\nDaarom is het gezond om een minimale verplichting te definiëren waaraan alle leden moeten voldoen om deel te nemen aan het project.\nHet uitwerken en delen van de kenmerken van het netwerk -- zoals een gesprek over wat het netwerk is, hoe de leden zouden moeten handelen en hun specifieke rollen -- geeft duidelijkheid aan het project."
+
+#: 02-en-Planning.txt:68
+msgid "9a)\nPeriodic in-person meetings are a very important tool for creating community spaces, and for making decisions, sharing knowledge, planning, and resolving problems. Meeting also offers a space where collective and community identity is built and invites other people to join the network."
+msgstr "9a)\nRegelmatige fysieke bijeenkomsten zijn een zeer belangrijk instrument voor het creëren van gemeenschapsruimten en voor het nemen van beslissingen, het delen van kennis, het maken van plannen en het oplossen van problemen. Bijeenkomsten bieden ook een ruimte waar een gemeenschappelijke identiteit wordt opgebouwd en nodigen andere mensen uit om zich bij het netwerk aan te sluiten."
+
+#: 02-en-Planning.txt:73
+msgid "9b)\nTo give some examples: there are networks that have mi-monthly meetings with an agenda created ahead of time with topics to discuss and with written minutes made during the meeting. Is this way a summary can be shared with the people unable to attend and can also be put in an archive of the network.\nIn other cases, talks and workshops are organized for the people who wish to be part of the network. On occasion, the meetings are mandatory for new members.\nIn some networks, frequent conversation among network members happens via group communication tools, exchanging opinions, specific problems, or information."
+msgstr "9b)\nEnkele voorbeelden: er zijn netwerken die tweemaandelijks vergaderen met een vooraf opgestelde agenda met te bespreken onderwerpen en met schriftelijke notulen tijdens de vergadering. Op die manier kan een samenvatting worden gedeeld met de mensen die niet aanwezig kunnen zijn en kan deze ook in een archief van het netwerk worden opgenomen.\nIn andere gevallen worden lezingen en workshops georganiseerd voor de mensen die deel willen uitmaken van het netwerk. Soms zijn de bijeenkomsten verplicht voor nieuwe leden.\nIn sommige netwerken vinden frequente gesprekken tussen netwerkleden plaats via instrumenten voor groepscommunicatie, waarbij meningen, specifieke problemen of informatie worden uitgewisseld."
+
+#: 02-en-Planning.txt:76
+msgid "10a)\nThink about financing"
+msgstr "10a)\nDenk na over financiering"
+
+#: 02-en-Planning.txt:79
+msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
+msgstr "10b)\nDoor een economische analyse te doen, kunnen we de geldelijke investering inschatten en plannen die nodig is om het project uit te voeren en in de loop van de tijd te ondersteunen."
+
+#: 02-en-Planning.txt:83
+msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
+msgstr "10c)\nAls wij weten hoeveel geld nodig is om ons netwerk te laten functioneren, kunnen wij diverse mechanismen van zelfbeheer en financiering overwegen voor de verschillende fasen van aankoop, bouw, installatie, reparatie, groei en opwaardering van het netwerk.\nEnerzijds moeten we dus nagaan hoeveel geld en andere middelen we nodig hebben, en anderzijds hoe we die zullen verkrijgen."
+
+#: 02-en-Planning.txt:86
+msgid "11a)\nThere are diverse ways to get resources, such as:"
+msgstr "11a)\nEr zijn verschillende manieren om aan middelen te komen, zoals:"
+
+#: 02-en-Planning.txt:96
+msgid "11b)\nDonation and non-monetary exchange, such as barter\nDirect financing such as subscriptions, monthly network membership dues, or donations\nShared capital such as mutual aid funds\nParticipation of foundations or community associations\nPublic financing such as subsidies or partnerships with government entities\nDonations or contributions made by businesses\nEvents organized to raise funds, among others...\nA combination of options makes the project more sustainable."
+msgstr "11b)\nDonatie en niet-geldelijke uitwisseling, zoals ruil\nDirecte financiering zoals abonnementen, maandelijkse contributie voor het netwerklidmaatschap of donaties\nGedeeld kapitaal zoals onderlinge hulpfondsen\nDeelname van stichtingen of gemeenschapsverenigingen \nOverheidsfinanciering zoals subsidies of samenwerkingsverbanden met overheidsinstanties\nDonaties of bijdragen van bedrijven\nEvenementen georganiseerd om o.a. geld in te zamelen...\nEen combinatie van mogelijkheden maakt het project duurzamer."
+
+#: 02-en-Planning.txt:100
+msgid "12a)\nDeployment and initial construction of the network tends to be the most complex and demanding moment, since in addition to the nodes, it's necessary to acquire the tools and necessary materials and also keep in mind some extra money to buy replacements.\nBulk or wholesale purchases by groups notably reduces costs and creates availability of materials, but at the same time requires a larger monetary investment."
+msgstr "12a)\nDe uitrol en de aanvankelijke aanleg van het netwerk zijn meestal het meest complexe en veeleisende moment, omdat naast de knooppunten ook de nodige gereedschappen en materialen moeten worden aangeschaft en ook wat extra geld moet worden uitgetrokken voor de aankoop van vervangingsmateriaal.\nBulk- of groothandelsaankopen door groepen verminderen de kosten en zorgen voor beschikbaarheid van materialen, maar vergen wel een grotere geldelijke investering."
+
+#: 02-en-Planning.txt:104
+msgid "12b) \nTo give some examples of how we can think about financing, we can loos at community networks where each person who joins takes on the costs of their node individually. In other networks, the node is only paid for when installed, and repairs and upgrades are paid from a collective fund created by monthly contributions from each member.\nThere's also a network in which the first nodes were financed by and NGO, the Internet link was handled by a local ISP, and the network members carried out the installation."
+msgstr "12b) \nOm enkele voorbeelden te geven van hoe we over financiering kunnen denken, kunnen we kijken naar gemeenschapsnetwerken waar iedereen die zich aansluit de kosten van diens knooppunt individueel op zich neemt. In andere netwerken wordt het knooppunt pas betaald wanneer het is geïnstalleerd, en worden reparaties en opwaarderingen betaald uit een collectief fonds dat wordt gevormd uit de maandelijkse bijdragen van elk lid.\nEr is ook een netwerk waarbij de eerste knooppunten werden gefinancierd door een NGO, de internetverbinding werd verzorgd door een lokale internetprovider en de netwerkleden de installatie voor hun rekening namen."
+
+#: 02-en-Planning.txt:107
+msgid "13a)\nOrganize the administration"
+msgstr "13a)\nOrganiseer de administratie"
+
+#: 02-en-Planning.txt:110
+msgid "13b)\nKeeping a reliable record maintained by the network members who want to take on the role of administrators is vital for the organized and ordered functioning of the network."
+msgstr "13b)\nHet bijhouden van een betrouwbare administratie door de netwerkleden die de rol van beheerder op zich willen nemen, is van vitaal belang voor het georganiseerd en geordend functioneren van het netwerk."
+
+#: 02-en-Planning.txt:120
+msgid "13c)\nThis allows us to have collective knowledge of the movement of money, materials, tools, and other resources. Some of the most common records are:\nPurchases made and planned\nInventory of materials and tools, with the places where they're kept\nList of prices of available materials, thinking about their replacement\nDetails of money and other value put into the network\nArchive of agreements and documents important to the project\nCalendar of periodic responsibilities, payments, reports, etc...\nContact directory"
+msgstr "13c)\nHierdoor hebben we collectieve kennis over de verplaatsing van geld, materialen, gereedschappen en andere middelen. Enkele van de meest voorkomende verslagen zijn:\nGedane en geplande aankopen\nInventaris van materialen en gereedschappen, met de plaatsen waar ze bewaard worden\nLijst met prijzen van beschikbare materialen, denkend aan hun vervanging\nDetails van geld en andere waarde die in het netwerk is gestoken\nArchief van overeenkomsten en documenten die belangrijk zijn voor het project\nKalender van periodieke verantwoordelijkheden, betalingen, verslagen, enz.\nAdresboek"
+
+#: 02-en-Planning.txt:123
+msgid "14a)\nPlan the deployment/installation"
+msgstr "14a)\nPlan de uitrol/installatie"
+
+#: 02-en-Planning.txt:126
+msgid "14b)\nDoing a technical analysis before the network deployment allows for efficient organizing of the tasks and resources. Having everything necessary at the moment of carrying out a task helps that the group be agile and tidy and that the task gets finished on time and in good shape. This includes both the material and the knowledge necessary for carrying out the task."
+msgstr "14b)\nDoor een technische analyse te maken vóór de uitrol van het netwerk kunnen de taken en middelen efficiënt worden georganiseerd. Als alles wat nodig is op het moment dat een taak wordt uitgevoerd aanwezig is, helpt dat de groep om wendbaar en netjes te zijn en de taak op tijd en in goede vorm af te ronden. Dit omvat zowel het materiaal als de kennis die nodig is om de taak uit te voeren."
+
+#: 02-en-Planning.txt:130
+msgid "14c)\nWhile there are numerous technolgical alternatives for the construction of a community network, this model proposes the LibreRouter as the primary device. The LibreRouter makes deployment of libre community networks easier since is was designed with this objective.\nThe vast majority of nodes in the network will not present great challenges. However, there will be cases that require more creative and more technical attention. It can even be necessary to collaborate with people beyond the network who have specific knowledge to solve particular problems."
+msgstr "14c)\nHoewel er tal van technologische alternatieven zijn voor de opbouw van een gemeenschapsnetwerk, wordt in dit model de LibreRouter als belangrijkste apparaat voorgesteld. De LibreRouter maakt het opzetten van vrije gemeenschapsnetwerken gemakkelijker omdat hij met dit doel is ontworpen.\nDe overgrote meerderheid van de knooppunten in het netwerk zal geen grote problemen opleveren. Er zullen echter gevallen zijn die meer creatieve en technische aandacht vereisen. Het kan zelfs nodig zijn om samen te werken met mensen van buiten het netwerk die over speciale kennis beschikken om bepaalde problemen op te lossen."
+
+#: 02-en-Planning.txt:133
+msgid "15a)\nThe members with a more technical profile could debate, for example, the following topics:"
+msgstr "15a)\nDe leden met een meer technisch profiel kunnen bijvoorbeeld discussiëren over de volgende onderwerpen:"
+
+#: 02-en-Planning.txt:142
+msgid "15b)\nWhat will be the structure of the network, both in the beginning and as it grows\nHow to stregthen the network by building redundant links and thus reaching the same point via more than one path\nIdentify nodes with more data traffic or overburdened and guarantee their proper functioning\nCreate multiple paths to relevant points in the network, such as the connection with the Internet or with local servers\nIdentify the need for specific or more powerful devices\nSolve issues of unconventional electrical energy\nHelp with methods for sharing services and content on the network"
+msgstr "15b)\nWat zal de structuur van het netwerk zijn, zowel in het begin als naarmate het groeit?\nHoe kan het netwerk worden versterkt door redundante verbindingen aan te leggen zodat hetzelfde punt via meer dan één pad te bereiken is?\nKnooppunten met meer dataverkeer of overbelasting identificeren en hun goede werking garanderen\nMeerdere paden creëren naar relevante punten in het netwerk, zoals de verbinding met het internet of met lokale servers\nDe behoefte aan specifieke of krachtigere apparaten vaststellen\nProblemen met onconventionele elektrische energie oplossen\nHelpen met methoden voor het delen van diensten en inhoud op het netwerk"
+
+#: 02-en-Planning.txt:144
+msgid "15c)\nIn some cases, it can be necessary to mount nodes with different antennas than the rest of the nodes, and it can also be convenient to deploy sections of the network with cable instead of wireless links. Some situations will demand unconventional electrical sources or backup power supplies with batteries. Each network will present its technical peculiarities that should be solved with patience, creativity, and collaboration both within and beyond the network."
+msgstr "15c)\nIn sommige gevallen kan het nodig zijn knooppunten te monteren met andere antennes dan de rest van de knooppunten, en het kan ook handig zijn delen van het netwerk uit te rollen met kabel in plaats van draadloze verbindingen. Sommige situaties vereisen onconventionele elektrische bronnen of noodstroomvoorzieningen met batterijen. Elk netwerk zal zijn technische eigenaardigheden vertonen die met geduld, creativiteit en samenwerking binnen en buiten het netwerk moeten worden aangepakt."
+
