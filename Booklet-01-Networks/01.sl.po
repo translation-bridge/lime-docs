@@ -1,0 +1,171 @@
+# Translation of LibreMesh - Booklet 1: Networks to Slovenian (slovenščina)
+# Exported from translatewiki.net
+#
+# Author: Eleassar
+msgid ""
+msgstr ""
+""
+"PO-Revision-Date: 2022-11-10 12:07:16+0000\n"
+"X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sl\n"
+"X-Generator: MediaWiki 1.40.0-alpha; Translate 2022-10-21\n"
+"Plural-Forms: nplurals=4; plural=(n%100 == 1) ? 0 : ( (n%100 == 2) ? 1 : ( (n%100 == 3 || n%100 == 4) ? 2 : 3 ) );\n"
+
+#: 01.en.txt:3
+msgid "1)\nLibre, Community and Decentralised Networks"
+msgstr "1)\nLibre, skupnostna in decentralizirana omrežja"
+
+#: 01.en.txt:8
+msgid "2a)\nAlterMundi facilitates the birth of new libre and community networks connected to the internet from a perspective of popular empowerment based on appropriation of technology by way of collaboration among peers and the use and development of libre software and hardware.\nThe principal objective is to develop a network model for self-provisioning of communication services in digitally-excluded regions.\nBased on the effort and organization of the community, this model offers the opportunity to satisfy a need now considered basic for human development: digital communication."
+msgstr "2a)\nAlterMundi poenostavlja nastajanje novih libre in skupnostnih omrežij, povezanih z internetom, z vidika opolnomočenja ljudi, ki temelji na prilaščanju tehnologije s sodelovanjem med enakovrednimi ter uporabo in razvojem programske in strojne opreme libre.\nGlavni cilj je razviti omrežni model za samozagotavljanje komunikacijskih storitev v digitalno izključenih regijah.\nNa podlagi prizadevanj in organizacije skupnosti ponuja ta model priložnost za izpolnitev potrebe, ki se zdaj šteje za osnovno za človeški razvoj: digitalna komunikacija."
+
+#: 01.en.txt:11
+msgid "3a)\nOur little piece of the internet"
+msgstr "3a)\nNaš mali košček interneta"
+
+#: 01.en.txt:14
+msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
+msgstr "3b)\n»Trenutno nima dostopa do interneta 52&nbsp;% ljudi, ki živijo na Zemlji.« *"
+
+#: 01.en.txt:18
+msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
+msgstr "3c)\nTa neenakost je še izrazitejša na podeželskih območjih Afrike, Latinske Amerike in svetovnega juga, kjer majhna gostota prebivalstva in nizek dohodek ustvarjata le malo spodbud za postavitev komercialne omrežne infrastrukture. Zato so to digitalno izključena ali zapostavljena območja.\nVečinoma imajo ljudje, ki živijo na digitalno izključenih območjih, tudi druge težave, kot so nezadostni gospodarski viri, zaposlovanje, izobraževanje, prevoz, elektrika, enakost spolov ter dostop do zemlje in pitne vode."
+
+#: 01.en.txt:21
+msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
+msgstr "3d)\nTemeljna vloga prostih in skupnostnih omrežij je olajšati gradnjo poceni avtonomne tehnološke infrastrukture za postavitev internetnih omrežij. Primarni cilj je premagati ovire, ki jih postavljata centralizacija in nadzor komercialne omrežne infrastrukture in vsebine, ki kroži v tej infrastrukturi."
+
+#: 01.en.txt:25
+msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
+msgstr "3e)\n* Stanje širokopasovnih povezav: širokopasovne povezave, ki spodbujajo trajnostni razvoj. September 2017 / \nŠirokopasovna komisija za trajnostni razvoj – ITU – UNESCO"
+
+#: 01.en.txt:28
+msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
+msgstr "4a)\nIzziv ni samo omogočiti dostop do interneta, temveč zgraditi naš majhen košček interneta v libre in skupnostnih omrežjih, ki jih na sodelovalne in organizirane načine upravljajo skupnosti same."
+
+#: 01.en.txt:31
+msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
+msgstr "4b)\nInternet je orodje za povečanje preglednosti in dostopa do informacij ter za olajšanje civilnega udejstvovanja v podporo družbenim, kulturnim, gospodarskim in političnim spremembam, ki izboljšujejo položaj skupnosti."
+
+#: 01.en.txt:35
+msgid "4c)\nLibre and community networks encourage the consolidation of cooperative community empowerment processes for an \"other world that is possible.\"\n."
+msgstr "4c)\nLibre in skupnostna omrežja spodbujajo konsolidacijo kooperativnih procesov opolnomočenja skupnosti za »drug svet, ki je mogoč.«\n."
+
+#: 01.en.txt:38
+msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
+msgstr "4d)\nGledano na ta način postane nujno razmišljanje o internetu kot o skupni dobrini (ali kot o gmajni)."
+
+#: 01.en.txt:41
+msgid "5a)\nLibre, community and decentralized networks"
+msgstr "1)\nLibre, skupnostna in decentralizirana omrežja"
+
+#: 01.en.txt:44
+msgid "5b)\nUpon deciding to connect to the internet, we become part of it and we can choose how to participate in that global network of networks."
+msgstr "5b)\nOb odločitvi za povezavo z internetom postanemo njegov del in lahko izbiramo, kako bomo v tem globalnem omrežju omrežij sodelovali."
+
+#: 01.en.txt:50
+msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
+msgstr "5c)\nOdprto, nevtralno in decentralizirano omrežje zgradijo skupnosti z dogovori in soglasjem. Ta proces se preplete z avtonomijo, trajnostjo in delovanjem mreže libre skupnosti.\nHkrati skupnosti daje moč za oblikovanje strukture in delovanja lastne mreže ob upoštevanju lokalnih identitet in potreb.\nLibre skupnostna omrežij omogočajo učenje in spoznavanje delovanja omrežij, da se lahko sprejemajo odločitve o omrežju in ni potrebno podrejanje pravilom poslovanja ali vsiljenim kriterijem, ki so večinoma v nasprotju z interesi skupnosti.\nUporaba in razumevanje tehnologij spodbujata vključujoč in zavesten dostop do digitalnih virov, omogočata izobraževanja, učenje, izmenjavo znanja, ustvarjanje lokalnih komunikacijskih sredstev in občil, civilno udejstvovanje ter socialno in regionalno gospodarstvo."
+
+#: 01.en.txt:53
+msgid "6a)\nLibre, Community Decentralized Networks"
+msgstr "1)\nLibre, skupnostna in decentralizirana omrežja"
+
+#: 01.en.txt:59
+msgid "6b)\nLibre use\nNeutrality\nLibre interconnection\nLibre transit"
+msgstr "6b)\nLibre uporaba\nNevtralnost\nLibre medsebojno povezovanje\nLibre tranzit"
+
+#: 01.en.txt:65
+msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
+msgstr "6c)\nKolektivna lastnina\nSocialno upravljanje\nDostopna zasnova\nOdprto sodelovanje"
+
+#: 01.en.txt:70
+msgid "6d)\nDistributed\nScalable\nLow cost"
+msgstr "6d)\nDistribuirano\nRazširljivo\nNizki stroški"
+
+#: 01.en.txt:73
+msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
+msgstr "7a)\nSkupnostna omrežja imajo posebne značilnosti, ki jih opredeljujejo in so njihove prednosti:"
+
+#: 01.en.txt:83
+msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
+msgstr "7b)\nKolektivna last\nTo pomeni, da je infrastruktura (antene, usmerjevalniki, kabli itd.) last vseh članov omrežja in skupnosti, ki jo postavlja. Ni niti posameznih lastnikov niti zasebnih lastnikov niti ni nihče pomembnejših od drugih.\nDružbeno upravljanje\nPomeni, da omrežje upravljajo člani omrežja. Nihče ne vlada, temveč se odločitve sprejemajo vsi.\nDostopna zasnova\nInformacije o delovanju omrežja in njegovih komponent so javne in dostopne, tako da se lahko z njimi seznanijo in se jih naučijo uporabljati vsi ter jih tudi kopirajo in delijo.\nOdprto sodelovanje\nPomeni, da se lahko omrežju ob upoštevanju njegove zasnove, načel in načina organiziranja pridruži ali ga razširi kdor koli."
+
+#: 01.en.txt:87
+msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
+msgstr "7c)\nLibre skupnostno omrežje skupnosti ni brezplačna ali poceni storitev za internetno povezovanje.\nJe organizirana skupina ljudi, ki si prizadevajo svoji skupnosti zagotoviti pravico do komunikacije."
+
+#: 01.en.txt:90
+msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
+msgstr "8a)\nPoleg tega, da je skupnostno omrežje, mora izpolnjevati te štiri značilnosti, da bi bilo prosto omrežje:"
+
+#: 01.en.txt:100
+msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
+msgstr "8b)\nLibre use\nOmogoča neomejen tranzit za sprejemanje in ponujanje kakršne koli storitve in vsebine, če to ne vpliva na dobro delovanje omrežja. Z drugimi besedami, pretok podatkov v omrežju je brezpogojen.\nNevtralnost\nTa lastnost pomeni, da je podatkovni promet upravljan na enak način, brez diskriminacije glede na vsebino, platformo, aplikacijo ali vrsto opreme, ki se uporablja za dostop. Podatkovni tokovi v omrežju niso arbitrarno rangirani ali spreminjani.\nLibre medsebojno povezovanje\nTo pomeni zagotavljanje medsebojnega povezovanja omrežij s prostim, nevtralnim in brezplačnim pretokom podatkov v obe smeri, vzajemno.\nLibre tranzit\nOmrežji, ki imata pogodbo za libre tranzit, ne omogočata samo medsebojnega podatkovnega prometa, temveč tudi pretok prometa, namenjenega drugim omrežjem, s katerimi imata podobne pogodbe. Podatki lahko torej prečkajo eno prosto omrežje, da dosežejo drugo, s čimer se razširi doseg »mreže prostih omrežij«."
+
+#: 01.en.txt:105
+msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
+msgstr "9)\nV tej ilustraciji sta predstavljeni dve vrsti pogodb o medsebojnem povezovanju:\n- V omrežju skupnostnih omrežij velja pogodba o njihovi medsebojni enakovrednosti pri prostem tranzitu in prostem medsebojnem povezovanju ob upoštevanju nevtralnosti. Zahvaljujoč tem pogodbam lahko omrežje 1 komunicira z omrežjem 3 in brez omejitev prečka omrežje 2.\n- Za omrežji 2 in 3 zagotavlja komercialno storitev za povezovanje s preostalim internetom  pogodbeno razmerje, ki ni vzajemno, ampak v smislu ponudnik-potrošnik. Ta ponudnik s svojimi strankami ne deli nobenega vidika uvajanja ali konfiguracije svojega omrežja."
+
+#: 01.en.txt:109
+msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
+msgstr "10a)\nUvedba teh prostih omrežij skupnosti s topologijo msh omogoča razvoj zgoraj omenjenih značilnosti na bolj naraven način, glede na to, da je njegova osnovna značilnost decentralizacija.\nV tej vrsti zapletenega omrežja se vsako brezžično vozlišče (usmerjevalnik in antena) povezuje z enim ali več sosednjimi vozlišči. Tako se pot podatkovnega prometa samodejno spremeni, ko eno od njih preneha delovati. Hkrati ni več treba imeti centralnih dostopnih točk. Iz teh razlogov so mrežna omrežja decentralizirana in porazdeljena omrežja."
+
+#: 01.en.txt:112
+msgid "10b)\nA NODE is composed of an antenna, a router and the softwrae that allows connectivity."
+msgstr "10b)\nNODE (vozlišče) sestavljajo antena, usmerjevalnik in programska oprema, ki omogoča povezljivost."
+
+#: 01.en.txt:115
+msgid "11a)\nThis distributed network design is less expensive because it does not need costly central nodes. The network grows from node to node, extending progressively and keeping the deployment and maintenance costs in pace with network scale."
+msgstr "11a)\nTa zasnova porazdeljenega omrežja je cenejša, saj niso potrebna draga centralna vozlišča. Omrežje raste od vozlišča do vozlišča, postopoma se širi in ohranja stroške uvajanja in vzdrževanja v koraku z obsegom omrežja."
+
+#: 01.en.txt:118
+msgid "11b)\nWhen we say that we want to create libre, decentralized community networks, we mean collectively building our little piece of the internet in order to be ourselves more free and communal [or community-spirited]."
+msgstr "11b)\nKo pravimo, da želimo ustvarjati prosta, decentralizirana omrežja skupnosti, mislimo na skupno izgradnjo našega majhnega koščka interneta, da bi bili sami bolj prosti in skupnostni [duh skupnosti]."
+
+#: 01.en.txt:121
+msgid "12a)\nThe LibreRouter Project: A community for your network"
+msgstr "12a)\nProjekt LibreRouter: Skupnost za vaše omrežje"
+
+#: 01.en.txt:128
+msgid "12b)\nFor a long time, libe community networks were built by the collaborative work of people who prgammed and hacked. Together they developed libre software and modified the available hardware, responding to the specific needs of the networks.\nOne of the achievements was to change the proprietary software that some commercial household routers came with from the factory.\nThis allowed the use of the routers to their full potential, enabling functions that the manufacturers limited according to their market logic. The contribution lowered costs notably for deployment of open, libre, neutral and decentralized networks.\nIn August 2016, a regulation emitted by the US state agency FCC (Federal Communitcations Commission) led to the manufacturers blocking the substitution of the software that comes installed and configured from the factory.\nThis action made clear that community networks were hostage to arbitrary decisions in which they had little or no capacity to decide or act."
+msgstr "12b)\nDolgo so prosta skupnostna omrežja nastajala s sodelovanjem ljudi, ki so programirali in hekali. Skupaj so razvijali prosto programsko opremo in spreminjali razpoložljivo strojno opremo, tako da je ustrezala posebnim potrebam omrežij.\nEden od dosežkov je bila sprememba lastniške programske opreme, ki je bila pri nekaterih komercialnih gospodinjskih usmerjevalnikih tovarniško nameščena.\nTo je omogočilo popolno uporabo usmerjevalnikov, kar je pomenilo uporabo funkcij, ki so jih proizvajalci omejili glede na svojo tržno logiko. Prispevek je zmanjšal stroške predvsem za uvajanje odprtih, prostih, nevtralnih in decentraliziranih omrežij.\nAvgusta 2016 je preedpis, ki ga je izdala ameriška državna agencija FCC (Zvezna komisija za komunikacije), pripeljal do tega, da so proizvajalci blokirali zamenjavo tovarniško nameščene in konfigurirane programske opreme.\nTa ukrep je jasno pokazal, da so bila skupnostna omrežja talci samovoljnih odločitev, pri katerih so imela malo ali nič možnosti odločanja ali ukrepanja."
+
+#: 01.en.txt:132
+msgid "13a)\nThe LibreRouter project develops hardware, software and documentation focused on the needs of digitally excluded areas of the global south.\nSome notable characteristics include:"
+msgstr "13a)\nProjekt LibreRouter razvija strojno opremo, programsko opremo in dokumentacijo, osredotočeno na potrebe digitalno izključenih območij svetovnega juga.\nNekatere pomembne značilnosti vključujejo:"
+
+#: 01.en.txt:139
+msgid "13b)\nHardware\nThe router and its antennas are protected by weather-resistant plastic cases.\nThe board has different connectors available to adapt the node to particular uses. For example, a GPS module.\nThe design of the hardware is available for whomever wants to study, modify and reproduce it, since it is libre hardware.\nThe LibreRouter comes ready to use with LibreMesh preinstalled."
+msgstr "13b)\nStrojna oprema\nUsmerjevalnik in njegove antene so zaščiteni s plastičnimi ohišji, odpornimi proti vremenskim vplivom.\nNa plošči so različni konektorji za prilagajanje vozlišča določeni uporabi. Na primer modul GPS.\nZasnova strojne opreme je na voljo vsem, ki jo želijo preučiti, spremeniti in reproducirati, saj gre za libre strojno opremo.\nLibreRouter je pripravljen za uporabo s prednameščenim LibreMesh."
+
+#: 01.en.txt:145
+msgid "14a)\nSoftware \nThe applications and programs are designed as part of a process in which people without knowledge of networks can learn to configure, map, monitor and troubleshoot the network with ease.\nSimplifies network expansion. New nodes auto-configure based on the information they recieve from existing nodes.\nAll software developed by AlterMundi has a libre license, so anyone can use it and adapt it to their needs."
+msgstr "14a)\nProgramska oprema \nAplikacije in programi so zasnovani kot del procesa, v katerem se lahko ljudje brez znanja o omrežjih naučijo preprosto konfigurirati, preslikati, nadzirati in odpravljati težave v omrežju.\nPoenostavlja širitev omrežja. Nova vozlišča se samodejno konfigurirajo na podlagi informacij, ki jih prejmejo od obstoječih vozlišč.\nVsa programska oprema, ki jo je razvil AlterMundi, ima licenco libre, tako da jo lahko vsak uporablja in prilagaja svojim potrebam."
+
+#: 01.en.txt:151
+msgid "14b)\nDocumentation\nOur documentation explains the use of the LibreRouter and the applications that come with it.\nOn our website docs.altermundi.net all the documentation is available in illustrated and audiovisual form and in multiple languages.\nAnyone can freely use, copy, modify, translate and share our content."
+msgstr "14b)\nDokumentacija\nNaša dokumentacija pojasnjuje uporabo LibreRouterja in spremljajočih aplikacij.\nNa naši spletni strani docs.altermundi.net je vsa dokumentacija na voljo v ilustrirani in avdiovizualni obliki ter v več jezikih.\nNašo vsebino lahko prosto uporablja, kopira, spreminja, prevaja in deli vsakdo."
+
+#: 01.en.txt:154
+msgid "15a)\nA network in your community"
+msgstr "15a)\nOmrežje v vaši skupnosti"
+
+#: 01.en.txt:158
+msgid "15b)\nThrough our documentation, we share one possible way to organize a community to begin this path of building a libre community network for internet in your communities.\nIt is a continous cyclical process of mutual aid among people to carry out the organization of the work and the goals."
+msgstr "15b)\nZ našo dokumentacijo delimo en možen način za organiziranje skupnosti, da stopite na to pot gradnje libre skupnostnega omrežja internet v vaših skupnostih.\nTo je stalen ciklični proces medsebojne pomoči med ljudmi za organizacijo dela in ciljev."
+
+#: 01.en.txt:163
+msgid "15c)\nPlanning\nDeployment\nMaintenance"
+msgstr "15c)\nNačrtovanje\nUvajanje\nVzdrževanje"
+
+#: 01.en.txt:166
+msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
+msgstr "15d)\nTi cikli dela in organizacije vodijo postavitev in vzdrževanje omrežja ter se nadaljujejo ves čas njegovega obstoja in razvoja ter krepijo in preoblikujejo omrežje. Ti cikli prispevajo k ustvarjanju omrežja kot stičišča in kolektivne identitete."
+
+#: 01.en.txt:175
+msgid "16)\nIs there a community network project?\nCount on us.\nWe would love to join you!\ninfo@altermundi.net\nMore information and documentation\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+msgstr "16)\nAli gradite projekt skupnostnega omrežja?\nRačunajte na nas.\nZ veseljem se vam pridružimo!\ninfo@altermundi.net\nVeč informacij in dokumentacije\nblog.altermundi.net\ndocs.altermundi.net\nlibrerouter.org"
+
