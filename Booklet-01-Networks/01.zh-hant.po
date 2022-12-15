@@ -2,10 +2,11 @@
 # Exported from translatewiki.net
 #
 # Author: Kly
+# Author: 捍粵者
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-10-27 11:10:15+0000\n"
+"PO-Revision-Date: 2022-12-15 12:07:04+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -23,7 +24,7 @@ msgstr "2a)\nAlterMundi 透過同擠之間的協作、以及自由軟體與硬�
 
 #: 01.en.txt:11
 msgid "3a)\nOur little piece of the internet"
-msgstr "3a)\n我們的小網際網路"
+msgstr "3a)\n我們一小塊網際網絡"
 
 #: 01.en.txt:14
 msgid "3b)\n\"Currently 52% of people living on Earth do not have internet access.\" *"
@@ -87,7 +88,7 @@ msgstr "6d)\n分散式\n可擴充\n低成本"
 
 #: 01.en.txt:73
 msgid "7a)\nCommunity networks have specific charateristics that define them and are their strengths:"
-msgstr "7a)\n社區網絡具有定義它們的特點，並且是它們的優勢："
+msgstr "7a)\n社群網絡有定義它們的特點，並且是其優勢："
 
 #: 01.en.txt:83
 msgid "7b)\nCollective property\nThis means that the infrastructure (antennas, routers, cables, etc.) is property of all the member sof the network and of the community that deploys it. There are no individual owners, nor private owners, nor any more important than the others.\nSocial management\nMeans the network is adminstered by the members of the network. There is no one person that rules, rather the decisions are made by everyone.\nAccessible design\nThe infrormation about how the network and its components function is public and accessible so that everyone can know and learn, and also copy and share.\nOpen participation\nMeans that anyone can join or extend the network, respecting its design, its principles and its way of organizing."
