@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-11-10 12:07:16+0000\n"
+"PO-Revision-Date: 2022-12-22 12:06:58+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -35,7 +35,7 @@ msgstr "3c)\nTa neenakost je še izrazitejša na podeželskih območjih Afrike, 
 
 #: 01.en.txt:21
 msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
-msgstr "3d)\nTemeljna vloga prostih in skupnostnih omrežij je olajšati gradnjo poceni avtonomne tehnološke infrastrukture za postavitev internetnih omrežij. Primarni cilj je premagati ovire, ki jih postavljata centralizacija in nadzor komercialne omrežne infrastrukture in vsebine, ki kroži v tej infrastrukturi."
+msgstr "3d)\nTemeljna vloga prostih in skupnostnih omrežij je olajšati gradnjo poceni avtonomne tehnološke infrastrukture za postavitev internetnih omrežij. Osnovni cilj je premagati ovire, ki jih postavljata centralizacija in nadzor komercialne omrežne infrastrukture in vsebine, ki kroži v tej infrastrukturi."
 
 #: 01.en.txt:25
 msgid "3e)\n*The State of Broadband: Broadband catalyzing sustainable development. September 2017 / \nBroadband Commission for Sustainable Development - ITU – UNESCO"
@@ -95,7 +95,7 @@ msgstr "7b)\nKolektivna last\nTo pomeni, da je infrastruktura (antene, usmerjeva
 
 #: 01.en.txt:87
 msgid "7c)\nA libre community network is not a free or low cost service for internet connection.\nIt is an organized group of people working to guarantee their community's right to communication."
-msgstr "7c)\nLibre skupnostno omrežje skupnosti ni brezplačna ali poceni storitev za internetno povezovanje.\nJe organizirana skupina ljudi, ki si prizadevajo svoji skupnosti zagotoviti pravico do komunikacije."
+msgstr "7c)\nSkupnostno omrežje Libre ni brezplačna ali poceni storitev za internetno povezovanje.\nJe organizirana skupina ljudi, ki si prizadevajo svoji skupnosti zagotoviti pravico do komunikacije."
 
 #: 01.en.txt:90
 msgid "8a)\nAnd, in addition to being a community network, in orde to be a libre network it must meet these four characteristics:"
@@ -103,11 +103,11 @@ msgstr "8a)\nPoleg tega, da je skupnostno omrežje, mora izpolnjevati te štiri 
 
 #: 01.en.txt:100
 msgid "8b)\nLibre use\nIt allows unrestricted transit to receive and offer any kind of service and content, so long as it does not affect the good functioning of the network. In other words, the flow of data on the network is unconditional.\nNeutrality\nThis characteristic means data traffic is managed in an egalitarian way, without discrimination based on content, platform, application or type of equipment used for access. Data flows within the network are not ranked nor modified arbitrarily.\nLibre interconnection\nThis means guaranteeing the interconnection among networks, with a libre, neutral and free of cost flow of data in both directions, reciprocally.\nLibre transit\nTwo networks that have a libre transit agreement not only allow data traffic between each other, but also the flow of traffic destined for other networks that they have similar agreements with. The data can therefore cross one libre network to reach another, expanding the reach of the \"network of libre networks.\""
-msgstr "8b)\nLibre use\nOmogoča neomejen tranzit za sprejemanje in ponujanje kakršne koli storitve in vsebine, če to ne vpliva na dobro delovanje omrežja. Z drugimi besedami, pretok podatkov v omrežju je brezpogojen.\nNevtralnost\nTa lastnost pomeni, da je podatkovni promet upravljan na enak način, brez diskriminacije glede na vsebino, platformo, aplikacijo ali vrsto opreme, ki se uporablja za dostop. Podatkovni tokovi v omrežju niso arbitrarno rangirani ali spreminjani.\nLibre medsebojno povezovanje\nTo pomeni zagotavljanje medsebojnega povezovanja omrežij s prostim, nevtralnim in brezplačnim pretokom podatkov v obe smeri, vzajemno.\nLibre tranzit\nOmrežji, ki imata pogodbo za libre tranzit, ne omogočata samo medsebojnega podatkovnega prometa, temveč tudi pretok prometa, namenjenega drugim omrežjem, s katerimi imata podobne pogodbe. Podatki lahko torej prečkajo eno prosto omrežje, da dosežejo drugo, s čimer se razširi doseg »mreže prostih omrežij«."
+msgstr "8b)\nLibre uporaba\nOmogoča neomejen tranzit za sprejemanje in ponujanje kakršne koli storitve in vsebine, če to ne vpliva na dobro delovanje omrežja. Z drugimi besedami, pretok podatkov v omrežju je brezpogojen.\nNevtralnost\nTa lastnost pomeni, da je podatkovni promet upravljan na enak način, brez diskriminacije glede na vsebino, platformo, aplikacijo ali vrsto opreme, ki se uporablja za dostop. Podatkovni tokovi v omrežju niso arbitrarno rangirani ali spreminjani.\nLibre medsebojno povezovanje\nTo pomeni zagotavljanje medsebojnega povezovanja omrežij s prostim, nevtralnim in brezplačnim pretokom podatkov v obe smeri, vzajemno.\nLibre tranzit\nOmrežji, ki imata pogodbo za libre tranzit, ne omogočata samo medsebojnega podatkovnega prometa, temveč tudi pretok prometa, namenjenega drugim omrežjem, s katerimi imata podobne pogodbe. Podatki lahko torej prečkajo eno prosto omrežje, da dosežejo drugo, s čimer se razširi doseg »omrežja prostih omrežij«."
 
 #: 01.en.txt:105
 msgid "9)\nIn this illustartion there are two types of interconnection contracts represented:\n- The network of community networks have a contract among themselves as equals for libre transit and for interconnection free of cost, respecting neutrality. Thanks to these contracts, network 1 can communicate with network 3 crossing network 2 without limitations.\n- Networks 2 and 3 have a commercial service to connect with the rest of the internet, via a contractual relationship that is not between peers, but rather provider-consumer. This provider does not share with their clients any aspect of the deployment or configuration of their network."
-msgstr "9)\nV tej ilustraciji sta predstavljeni dve vrsti pogodb o medsebojnem povezovanju:\n- V omrežju skupnostnih omrežij velja pogodba o njihovi medsebojni enakovrednosti pri prostem tranzitu in prostem medsebojnem povezovanju ob upoštevanju nevtralnosti. Zahvaljujoč tem pogodbam lahko omrežje 1 komunicira z omrežjem 3 in brez omejitev prečka omrežje 2.\n- Za omrežji 2 in 3 zagotavlja komercialno storitev za povezovanje s preostalim internetom  pogodbeno razmerje, ki ni vzajemno, ampak v smislu ponudnik-potrošnik. Ta ponudnik s svojimi strankami ne deli nobenega vidika uvajanja ali konfiguracije svojega omrežja."
+msgstr "9)\nV tej ilustraciji sta predstavljeni dve vrsti pogodb o medsebojnem povezovanju:\n- V omrežju skupnostnih omrežij velja pogodba o njihovi medsebojni enakovrednosti pri prostem tranzitu in prostem medsebojnem povezovanju ob upoštevanju nevtralnosti. Zaradi teh pogodb lahko omrežje 1 brez omejitev prečka omrežje 2 in komunicira z omrežjem 3.\n- Za omrežji 2 in 3 zagotavlja komercialno storitev za povezovanje s preostalim internetom  pogodbeno razmerje, ki ni vzajemno, ampak v smislu ponudnik-potrošnik. Ta ponudnik s svojimi strankami ne deli nobenega vidika uvajanja ali konfiguracije svojega omrežja."
 
 #: 01.en.txt:109
 msgid "10a)\nDeploying therese libre community networks with a msh topology allows the development of the characteristics mentioned above in a more natural way, given that its basic characteristic is decentralization.\nIn this type of mesh network, each wireless node (router and antenna) connects with one or more neighbouring nodes. In this way, the path of data traffic changes automatically when one of the stops functioning. At the same time, it is no longer necessary to have central access points. For these reasons, mesh networks are decentralized and distributed networks."
