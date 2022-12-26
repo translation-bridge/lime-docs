@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2022-12-22 12:06:58+0000\n"
+"PO-Revision-Date: 2022-12-26 12:08:20+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -67,7 +67,7 @@ msgstr "5b)\nOb odločitvi za povezavo z internetom postanemo njegov del in lahk
 
 #: 01.en.txt:50
 msgid "5c)\nAn open, neutral and decentralized network is built by the communities through agreements and consensus. This process collaborates with autonomy, sustainability and the functioning of the libre community network.\nAt the same time, it empowers the communities to design the structure and functioning of their own network, respecting local identities and needs.\nLibre community networks allow learning and knowing how the network functions to be able to make decision about the network and not be subordinate to the rules of commerce or the imposed criteria that, in most cases, are opposed to the communities' interests.\nThe use and understanding of technologies promotes an inclusive and conscious access to digital resources, facilitating education, learning, sharing knowledge, creating local means of communition and media, civic engagement and social and regional economy."
-msgstr "5c)\nOdprto, nevtralno in decentralizirano omrežje zgradijo skupnosti z dogovori in soglasjem. Ta proces se preplete z avtonomijo, trajnostjo in delovanjem mreže libre skupnosti.\nHkrati skupnosti daje moč za oblikovanje strukture in delovanja lastne mreže ob upoštevanju lokalnih identitet in potreb.\nLibre skupnostna omrežij omogočajo učenje in spoznavanje delovanja omrežij, da se lahko sprejemajo odločitve o omrežju in ni potrebno podrejanje pravilom poslovanja ali vsiljenim kriterijem, ki so večinoma v nasprotju z interesi skupnosti.\nUporaba in razumevanje tehnologij spodbujata vključujoč in zavesten dostop do digitalnih virov, omogočata izobraževanja, učenje, izmenjavo znanja, ustvarjanje lokalnih komunikacijskih sredstev in občil, civilno udejstvovanje ter socialno in regionalno gospodarstvo."
+msgstr "5c)\nOdprto, nevtralno in decentralizirano omrežje gradijo skupnosti z dogovori in soglasjem. Ta proces se prepleta z avtonomijo, trajnostjo in delovanjem mreže libre skupnosti.\nHkrati skupnosti daje moč za oblikovanje strukture in delovanja lastne mreže ob upoštevanju lokalnih identitet in potreb.\nLibre skupnostna omrežja omogočajo učenje in spoznavanje delovanja omrežij, da se lahko sprejemajo odločitve o omrežju in ni potrebno podrejanje pravilom poslovanja ali vsiljenim merilom, ki so večinoma v navzkrižju z interesi skupnosti.\nUporaba in razumevanje tehnologij spodbujata vključujoč in zavesten dostop do digitalnih virov, izobraževanje, učenje, izmenjavo znanja, ustvarjanje lokalnih komunikacijskih sredstev in občil, državljansko udejstvovanje ter socialno in regionalno gospodarstvo."
 
 #: 01.en.txt:53
 msgid "6a)\nLibre, Community Decentralized Networks"
@@ -79,7 +79,7 @@ msgstr "6b)\nLibre uporaba\nNevtralnost\nLibre medsebojno povezovanje\nLibre tra
 
 #: 01.en.txt:65
 msgid "6c)\nCollective property\nSocial management\nAccessible design\nOpen participation"
-msgstr "6c)\nKolektivna lastnina\nSocialno upravljanje\nDostopna zasnova\nOdprto sodelovanje"
+msgstr "6c)\nKolektivna lastnina\nDružbeno upravljanje\nDostopna zasnova\nOdprto sodelovanje"
 
 #: 01.en.txt:70
 msgid "6d)\nDistributed\nScalable\nLow cost"
