@@ -1,11 +1,12 @@
 # Translation of LibreMesh - Booklet 1: Networks to Hebrew (עברית)
 # Exported from translatewiki.net
 #
+# Author: Amire80
 # Author: YaronSh
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-01-26 12:09:00+0000\n"
+"PO-Revision-Date: 2023-02-20 12:07:22+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -159,7 +160,7 @@ msgstr "15b)\nדרך התיעוד שלנו אנו חושפים דרך אפשרו
 
 #: 01.en.txt:163
 msgid "15c)\nPlanning\nDeployment\nMaintenance"
-msgstr "15c)\nתכנון\nהטמעה\nתחזוקה"
+msgstr "15c)\nתכנון\nהתקנה\nתחזוקה"
 
 #: 01.en.txt:166
 msgid "15d)\nThese cycles of work and organization guide the deployment and maintenance of the network and they continue throughout its existence and development, strengthening and transforming the network. These cycles contribute to the creation of the network as a meeting place and collective identity."
