@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-06 11:10:09+0000\n"
+"PO-Revision-Date: 2023-09-04 11:08:55+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -88,11 +88,11 @@ msgstr "10a)\nחשיבה על מימון"
 
 #: 02-en-Planning.txt:79
 msgid "10b)\nDoing an economic analysis will allow us to estimate and plan the monetary investment necessary to implement the project and sustain it over time."
-msgstr ""
+msgstr "10b)\nביצוע ניתוח כלכלי יאפשר להעריך ולתכנן השקעה כספית הכרחית כדי להטמיע את המיזם ולקיים אותו לאורך זמן."
 
 #: 02-en-Planning.txt:83
 msgid "10c)\nKnowing how much money is needed for our network to function will allow us to evaluate diverse mechanisms of self-management and financing for the different phases of purchasing, construction, installtion, repair, growth, and upgrading of the network.\nSo, on one hand, it's necessary to consider how much money and other resource we need, and, on the other hand, how we will obtain them."
-msgstr ""
+msgstr "10c)\nלדעת כמה כסף דרוש לתפעול הרשת שלנו תאפשר להעריך מנגנונים מגוונים של ניהול עצמי ותקצוב לשלבים שונים של רכישה, בנייה, התקנה, תיקון, צמיחה ושדרוג של הרשת. אם כן, מצד אחד, חשוב לקחת בחשבון כמה כסף ומשאבים אחרים דרושים, ומצד שני, איך להשיג אותם."
 
 #: 02-en-Planning.txt:86
 msgid "11a)\nThere are diverse ways to get resources, such as:"

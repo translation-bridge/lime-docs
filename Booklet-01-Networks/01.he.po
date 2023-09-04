@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-07-06 11:10:09+0000\n"
+"PO-Revision-Date: 2023-09-04 11:08:56+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -44,7 +44,7 @@ msgstr ""
 
 #: 01.en.txt:28
 msgid "4a)\nThe challenge is not only to facilitate internet access, but rather to build our little piece of the internet via libre and community networks governed by the communities themselves, in collaborative and organized ways."
-msgstr ""
+msgstr "4a)\nהאתגר הוא לא רק לספק גישה לאינטרנט אלא גם לבנות חלק קטן מהאינטרנט באמצעות רשתות חופשיות וקהילתיות שנשלטות על־ידי הקהילות בעצמן בדרכים שיתופיות ומאורגנות."
 
 #: 01.en.txt:31
 msgid "4b)\nInternet is a tool to increase transparency and access to information and to facilitate civic engagement in support of social, cultural, economic and political changes that improve the situation of the communities."
@@ -56,7 +56,7 @@ msgstr "4c)\nרשתות קהילתיות חופשיות מעודדות את תה
 
 #: 01.en.txt:38
 msgid "4d)\nSeen this way, it becomes vital and necessary to think of the internet as a common good (or as a commons)."
-msgstr ""
+msgstr "4d)\nכשמסתכלים על זה ככה, נהיה הכרחי וחיוני לחשוב על האינטרנט כעל דבר שטוב לציבור (או כעל משאב משותף)"
 
 #: 01.en.txt:41
 msgid "5a)\nLibre, community and decentralized networks"
