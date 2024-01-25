@@ -1,18 +1,22 @@
 # Translation of LibreMesh - Booklet 1: Networks to Arabic (العربية)
 # Exported from translatewiki.net
 #
+# Author: Lolekek
 # Author: Meno25
 # Author: مصعب
 msgid ""
 msgstr ""
 ""
-"PO-Revision-Date: 2023-12-07 12:13:54+0000\n"
+"PO-Revision-Date: 2024-01-25 12:09:49+0000\n"
 "X-POT-Import-Date: 2021-05-26 12:39:55+0000\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: ar\n"
-"X-Generator: MediaWiki 1.42.0-alpha; Translate 2023-12-01\n"
+"X-Generator: MediaWiki 1.42.0-alpha; Translate 2024-01-22\n"
 "Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ( (n == 1) ? 1 : ( (n == 2) ? 2 : ( (n%100 >= 3 && n%100 <= 10) ? 3 : ( (n%100 >= 11 && n%100 <= 99) ? 4 : 5 ) ) ) );\n"
+"Project-Id-Version: LibreMesh - Booklet 1: Networks\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
 
 #: 01.en.txt:3
 msgid "1)\nLibre, Community and Decentralised Networks"
@@ -32,7 +36,7 @@ msgstr "3b)\n\"حاليا 52% من الناس الذين يعيشون على ا�
 
 #: 01.en.txt:18
 msgid "3c)\nThis inequality is deeper in rural areas of Africa, Latin America and the global south, where the low population density and low income generate little incentive for the deployment of commercial network infrastructure. This makes them digitally excluded or neglected areas.\nIn most cases, people living in digitally excluded areas also have other difficulties such as insufficient economic resources, employment, education, transportation, electricity, gender equality and access to land and potable water."
-msgstr "3c)\nانعدام المساواة هذا هو أعمق في المناطق الريفية من أفريقيا، أمريكا اللاتينية والجنوب العالمي، حيث الكثافة السكانية منخفضة والدخل المنخفض يولدان حافزا ضئيلا لتطوير البنية الأساسية للشبكات التجارية. هذا يجعلها مناطق معزولة رقميا.\nفي معظم الحالات، فالناس الذين يعيشون في المناطق المعزولة رقميا لديهم أيضا صعوبات أخرى مثل الموارد الاقتصادية، معدل التشغيل، التعليم، النقل، الكهرباء، المساواة بين الجنسين والوصول للأراضي والمياه القابلة للشرب."
+msgstr "3c)\nانعدام المساواة هذا هو أعمق في المناطق الريفية من إفريقيا، أمريكا اللاتينية والجنوب العالمي، حيث الكثافة السكانية منخفضة والدخل المنخفض يولدان حافزا ضئيلا لتطوير البنية الأساسية للشبكات التجارية. هذا يجعلها مناطق معزولة رقميا.\nفي معظم الحالات، فالناس الذين يعيشون في المناطق المعزولة رقميا لديهم أيضا صعوبات أخرى مثل الموارد الاقتصادية، معدل التشغيل، التعليم، النقل، الكهرباء، المساواة بين الجنسين والوصول للأراضي والمياه القابلة للشرب."
 
 #: 01.en.txt:21
 msgid "3d)\nThe fundamental role of libre and community networks is to facilitate the construction of low-cost autonomous technological infrastructure for deployment of internet networks. The primary objective is to overcome the barriers imposed by centralization and control of commercial network infrastructure and the content that circulates on that infrastructure."
